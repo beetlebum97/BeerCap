@@ -1,0 +1,303 @@
+CERVEZA;AÑO;COLOR;FABRICANTE;OBTURADOR;SÍMBOLO;ESTADO;REPETIDA
+Mahou Cinco Estrellas;2019;Rojo;U;05;Letras;Bueno;SI
+San Miguel Fresca;2019;Oro;cp;2;Letras;Bueno;SI
+Desperados Mojito;2019;Verde;dap;13;Letras;Perfecto;NO
+Desperados Original;2019;Oro;dap;03;Letras;Regular;NO
+Corona Extra;2019;Blanco;Z;0 11;Corona;Bueno;NO
+Asahi Super Dry;2019;Negro;dap;25;Letras;Malo;NO
+Mahou Barrica Original;2019;Crudo;U;21;Barril;Bueno;SI
+Mahou Maestra;2019;Azul;cp;24;Letras;Bueno;SI
+Voll-Damm;2019;Verde;Sin fabricante;17;Letras;Bueno;NO
+Judas;2019;Negro;cp;04;Letras;Regular;SI
+Blue Moon Belgian White;2019;Azul;dap;13;Letras;Bueno;SI
+Grimbergen Blonde;2018;Oro;cp;373;Fénix;Regular;NO
+Grimbergen Double Ambreé;2018;Cobre;cp;18;Fénix;Regular;NO
+Paulaner Weissbier;2018;Blanco;RRK;22;Monje;Regular;NO
+Franziskaner Premium Weissbier;2018;Oro;HB;B25;Monje;Bueno;NO
+Stella Artois;2018;Blanco;HB;15;Ornamento;Regular;NO
+Heineken;2018;Plata;dap;11;Estrella;Bueno;SI
+Budweiser;2019;Rojo;astir;16;Corona;Bueno;NO
+Madrí;2018;Rojo;Sin fabricante;;;Regular;NO
+BrewDog Indie;2019;Gris;HB;17;Perro;Perfecto;NO
+Cruzcampo Gran Reserva;2019;Negro;dap;06;Letras;Regular;NO
+Mahou Maestra Dunkel;2019;Marrón;U;18;Letras;Regular;NO
+Guinness Original;2019;Crudo;dap;17;Arpa;Bueno;NO
+Desperados Sangre;2019;Cobre;dap;27;Letras;Bueno;NO
+Löwenbräu Original;2019;Oro;HB;B11;León;Bueno;SI
+Paulaner Salvator;2019;Oro;dap;06;Monje;Perfecto;NO
+Pilsner Urquell;2019;Oro;dap;12;Barril;Perfecto;NO
+Mahou Barrica Bourbon;2019;Verde;cp;;Barril;Perfecto;NO
+Inedit Damm;2019;Negro;U;15;Estrella;Bueno;SI
+Pacífico Clara;2019;Amarillo;Z;F 19;Letras;Bueno;SI
+A. K. Damm;2019;Oro;U;17;Persona;Bueno;NO
+Sezoens Blond;2019;Blanco;cp;;Ornamento;Bueno;NO
+Leffe Triple;2019;Marrón;HB;17;Edificio;Bueno;NO
+Alhambra Reserva 1925;2019;Verde;U;05;Reja;Regular;NO
+Krombacher Pils;2019;Blanco;RRK;15;Letras;Bueno;NO
+Moritz Epidor;2019;Rojo;U;11;Letras;Bueno;NO
+Stella Artois;2019;Oro;HB;01;Ornamento;Regular;NO
+San Miguel Manila;2019;Negro;U;09;Letras;Bueno;NO
+Heineken;2019;Verde;dap;30;Estrella;Bueno;SI
+El Águila Sin Filtrar;2019;Azul;cp;;Aguila;Bueno;NO
+Grimbergen Double Ambreé;2020;Cobre;cp;16;Fénix;Bueno;NO
+Delirium Tremens;2019;Azul;Sin fabricante;01;;Perfecto;NO
+Cruzcampo Trigo;2019;Negro;dap;16;Letras;Bueno;NO
+Brugse Zot Dubbel;2019;Cobre;HB;47;Bufón;Bueno;NO
+La Chouffe Blonde;2019;Amarillo;dap;18;Gnomo;Perfecto;NO
+Birra Moretti Recetta Originale;2019;Marrón;dap;28;Letras;Bueno;NO
+San Miguel Selecta;2019;Oro;cp;371;Letras;Bueno;NO
+Malquerida;2019;Blanco;U;27;Cactus;Bueno;NO
+Quilmes Clásica;2019;Oro;Sin fabricante;L319;Letras;Bueno;NO
+Innis & Gunn Blood Red Skin;2019;Negro;dap;08;Letras;Bueno;NO
+Innis & Gunn The Original;2019;Rojo;dap;9;Letras;Perfecto;NO
+Innis & Gunn Gunpowder IPA;2019;Blanco;dap;23;Letras;Bueno;NO
+Mahou Clásica;2019;Verde;U;15;Letras;Bueno;SI
+Hop House 13;2019;Blanco;dap;11;Números;Perfecto;NO
+Miller Genuine Draft;2019;Negro;cp;22;Letras;Bueno;NO
+Cubanisto;2019;Negro;HB;70;Calavera;Bueno;NO
+Sol;2019;Oro;HB;20;Sol;Perfecto;NO
+DAB Export;2019;Verde;RRK;17;Letras;Bueno;NO
+Mahou Barrica 12 Meses;2019;Negro;U;03;Barril;Bueno;NO
+Guinness Original Extra Stout;2019;Rojo;dap;13;Arpa;Bueno;NO
+Chimay Rouge;2019;Rojo;cp;;Flor de lis;Bueno;NO
+La Trappe Dubbel;2020;Crudo;Unibox;12;Letras;Perfecto;NO
+Lagunitas IPA;2020;Oro;Crown;08;Perro;Perfecto;NO
+Complot IPA;2020;Verde;U;33;Letras;Perfecto;NO
+Hoegaarden Wit;2020;Azul;HB;8;Letras;Perfecto;SI
+Sierra Nevada Pale Ale;2020;Verde;Crown;06;Letras;Perfecto;NO
+Sierra Nevada Torpedo Extra IPA;2020;Verde;Crown;04;Letras;Perfecto;NO
+Toro;2020;Negro;U;10;Toro;Bueno;NO
+Staropramen Premium;2020;Crudo;cp;02;Letras;Perfecto;NO
+Super Bock Original;2020;Rojo;Unibox;B22;Letras;Perfecto;NO
+Guinness Draught;2020;Negro;dap;17;Arpa;Perfecto;NO
+Mahou Cinco Estrellas Session IPA;2020;Blanco;U;13;Dibujo;Perfecto;NO
+Sierra Nevada Torpedo Tropical IPA;2020;Plata;Crown;;Letras;Perfecto;NO
+Daura;2020;Rojo;U;07;Letras;Bueno;NO
+Pinkus Demeter Müller’s Lagerbier;2020;Crudo;RRK;16;Variado;Malo;NO
+Kirin Ichiban;2020;Crudo;dap;05;Letras;Perfecto;NO
+Tiger;2020;Azul;dap;36;Tigre;Perfecto;NO
+Vogelsberger Naturtrüb Bio Radler;2020;Oro;HB;37;Edificio;Bueno;NO
+Benediktinerabtei Plankstetten Dinkel;2020;Oro;HB;30;Edificio;Regular;NO
+Affligem Dubbel;2020;Azul;cp;27;Escudo;Regular;NO
+Weltenburger Kloster Helle Weiße;2020;Plata;RRK;01;Cruz;Regular;NO
+Hofbräu München Weisse;2020;Plata;HB;10;Corona;Bueno;NO
+La Trappe Isid'or;2020;Crudo;Unibox;7;Letras;Bueno;NO
+La Trappe Quadrupel;2020;Crudo;Unibox;16;Letras;Perfecto;NO
+Waterloo Triple Blonde;2020;Rojo;HB;25;Letras;Bueno;NO
+Timmermans Kriek Lambicus;2020;Rojo;HB;21;Barril;Regular;NO
+Bourgogne des Flandres;2020;Oro;BL;03;Edificio;Perfecto;NO
+Burro de Sancho Rubia;2020;Blanco;GMP;13;Burro;Bueno;NO
+La Cibeles Rubia;2020;Blanco;cp;03;Letras;Bueno;SI
+Madrid Lager;2020;Marrón;U;1;Lúpulo;Regular;NO
+1906 Red Vintage;2020;Rojo;Unibox;A27;Letras;Perfecto;SI
+Jamonera;2020;Marrón;U;07;Cebada;Bueno;NO
+Desperados Lima;2020;Verde;dap;20;Planta;Perfecto;NO
+San Miguel 1516;2020;Oro;cp;;Números;Perfecto;SI
+Argus Reserva 1844;2020;Negro;U;11;Letras;Perfecto;NO
+1906 Reserva Especial;2020;Negro;Unibox;A28;Letras;Bueno;SI
+Bock Damm;2020;Negro;U;27;Cabra;Perfecto;NO
+Warsteiner Premium Beer;2020;Oro;DKF;39-33;Letras;Regular;SI
+Cusqueña Negra;2020;Negro;PPP;07;Machu Piccu;Perfecto;NO
+Presidente;2020;Oro;Sin fabricante;4;Letras;Perfecto;NO
+Dos Equis Lager;2020;Verde;Crown;19;Letras;Perfecto;NO
+Founders All Day IPA;2020;Negro;astir;A 07;Letras;Bueno;SI
+Brooklyn Lager;2020;Plata;Crown;04;Letras;Perfecto;NO
+Cusqueña Dorada;2020;Oro;PPP;08;Machu Piccu;Perfecto;NO
+Club Colombia Dorada;2020;Oro;B 1;17;Incas;Perfecto;NO
+Spaten Münchner Hell ;2020;Blanco;Unibox;A19;Pala;Perfecto;NO
+Altvater Weissbierbock;2020;Beige;RRK;24;Letras;Perfecto;NO
+Amstel Oro;2020;Gris;cp;;Letras;Regular;SI
+La Salve Munich;2020;Oro;U;00;Letras;Bueno;NO
+Oro Bilbao;2020;Oro;U;20;Letras;Bueno;SI
+Mort Subite Kriek Lambic;2020;Negro;cp;05;Letras;Bueno;NO
+Desperados Mojito;2020;Verde;dap;09;Planta;Perfecto;NO
+Chang Classic;2020;Verde;Crown;24;Elefantes;Perfecto;NO
+Sandels 5.3%;2020;Crudo;FK;22;Hombre;Perfecto;NO
+O'Hara's Irish Red;2020;Oro;cp;28;Letras;Bueno;NO
+O'Hara's Irish Stout;2020;Negro;cp;14;Letras;Bueno;NO
+12·70 Lager;2020;Negro;astir;B 16;Minero;Bueno;SI
+Chimay Bleue;2020;Azul;dap;04;Flor de lis;Bueno;NO
+Erdinger Weissbier;2020;Oro;dap;08;Trigo;Perfecto;NO
+Bischofshof Hefe-Weissbier Dunkel;2020;Blanco;RRK;09;Ornamento;Perfecto;NO
+Cumberland Golden Beer;2020;Gris;astir;20;Triangulo;Perfecto;NO
+Hobgoblin Ruby;2020;Azul;astir;A 06;Letras;Perfecto;NO
+McEwan's Levy;2020;Oro;dap;10;Hombre;Bueno;NO
+Razorback;2020;Negro;astir;A 08;Jabalí;Regular;NO
+Pedigree;2020;Negro;astir;B 06;Barril;Bueno;NO
+Lancaster Bomber;2020;Plata;astir;B 14;;Regular;NO
+Burro de Sancho Rubia;2020;Negro;cp;23;Herradura;Bueno;NO
+San Miguel Selecta;2020;Marrón;U;11;Letras;Perfecto;SI
+Ambar 1900;2020;Verde;U;21;Triangulo;Bueno;NO
+Alhambra Especial;2020;Blanco;U;17;Reja;Bueno;SI
+Grimbergen Belgian Pale Ale;2020;Verde;cp;24;Fénix;Perfecto;SI
+The Brale;2020;Negro;DKF;38-31;Letras;Perfecto;NO
+San Miguel Magna;2020;Verde;U;23;Letras;Perfecto;SI
+Desperados Ginger;2020;Verde;dap;01;Planta;Perfecto;NO
+Especialidades 1897 Trigo;2020;Oro;RRK;08;Monje;Bueno;NO
+Grimbergen Blonde;2020;Oro;cp;17;Fénix;Bueno;SI
+Camaro;2020;Azul;dap;02;Letras;Bueno;NO
+Ambar Export;2020;Azul;U;13;Triangulo;Bueno;NO
+La Sagra Calabaza y Canela;2020;Negro;cp;MK 18;Letras;Perfecto;NO
+Carlsberg;2020;Verde;cp;20;Trebol;Perfecto;SI
+Alhambra Reserva Esencia Citra IPA;2020;Amarillo;U;13;Reja;Bueno;NO
+Blanche De Charleroi;2020;Azul;U;12;Corona;Perfecto;NO
+Te Deum Amber;2021;Rojo;BL;10;Monje;Perfecto;NO
+Erdinger Weissbier Dunkel;2021;Violeta;RRK;R 23;Trigo;Perfecto;NO
+Abbaye D'Aulne Blonde;2021;Oro;U;21;Monje;Perfecto;SI
+Alhambra Baltic Porter;2021;Negro;U;34;Reja;Bueno;NO
+Grevensteiner Original;2021;Blanco;RRK;R 12;Ornamento;Perfecto;NO
+Budweiser Budvar Original;2021;Oro;cp;10;Castillo;Bueno;SI
+Trappistes Rochefort 8;2021;Verde;DKF;32-27;Letras;Perfecto;NO
+Brewdog Punk IPA;2021;Azul;Unibox;18;Perro;Perfecto;NO
+Camden Pale Ale;2021;Blanco;U;03;Torre;Bueno;NO
+Einstök Icelandic Toasted Porter;2021;Negro;HB;03;Hacha;Malo;NO
+Hoegaarden De Verboden Vrucht / Le Fruit Défendu;2021;Negro;HB;41;Bastón;Regular;NO
+Turia Märzen;2021;Negro;U;08;Torre;Bueno;SI
+Weihenstephaner Hefeweissbier;2021;Blanco;dap;07;Escudo;Bueno;NO
+Hertog Jan Tripel;2021;Gris;Unibox;18;Letras;Bueno;NO
+OXIT Blonde;2021;Blanco;Sin fabricante;31;;Bueno;NO
+Ginette Bio Lager;2021;Azul;HB;22;Letras;Bueno;NO
+312 Urban Wheat;2021;Negro;TC;L2 20;Cisne;Regular;NO
+Modelo Especial;2021;Oro;Sin fabricante;F 23;;Regular;NO
+Especialidades 1897 Gran Reserva;2021;Oro;cp;5;Cebada;Perfecto;SI
+Hélécine Brune;2021;Oro;C.R.;01;Cruz;Bueno;NO
+Alhambra Barrica Ron Granadino;2021;Marrón;U;07;Reja;Bueno;NO
+Old Empire IPA;2021;Negro;astir;13;Barril;Bueno;NO
+Alhambra Reserva Roja;2021;Marrón;U;29;Reja;Bueno;SI
+Ambar IPA;2021;Blanco;U;35;Triangulo;Bueno;NO
+Complot IPA;2021;Verde;U;02;Lúpulo;Perfecto;NO
+Carrefour Sensation Reserva;2021;Blanco;cp;18;Letras;Perfecto;NO
+Pilsener;2021;Amarillo;O;30;Letras;Bueno;NO
+Hatherwood Ginger Grizzly;2021;Naranja;astir;32;Letras;Bueno;SI
+Riedenburger Hefe-Weizen Hell;2021;Oro;HB;38;Rosas;Bueno;NO
+Monkey Mr. Pink;2021;Negro;Sin fabricante;32;;Regular;NO
+NÓS Fox IPA;2021;Blanco;U;02;Letras;Bueno;SI
+Domus Aurea;2021;Negro;dap;10;;Regular;NO
+Maisel & Friends IPA;2021;Rojo;RRK;13;Estrella;Regular;NO
+Crafted for Lidl - Eureka Lager;2021;Negro;cp;02;Lúpulo;Regular;SI
+Crafted for Lidl - Warrior;2021;Negro;cp;22;Lúpulo;Regular;SI
+Guineu Dr. Calypso;2021;Negro;astir;16;Zorro;Perfecto;SI
+Tyris IPA;2021;Negro;astir;A 19;Letras;Bueno;NO
+La Socarrada;2021;Negro;U;02;Letras;Regular;NO
+Cerdos Voladores;2021;Rosa;U;19;Letras;Perfecto;NO
+Maredsous Brune;2021;Marrón;RRK;06;Letras;Bueno;SI
+Veltins Pilsener;2021;Blanco;HB;29;Letras;Perfecto;NO
+Cobra Premium;2021;Amarillo;dap;19;Letras;Perfecto;NO
+Chérie À La Framboise;2021;Blanco;U;27;Labios;Perfecto;NO
+Vedett Extra White;2021;Blanco;RRK;23;Letras;Perfecto;NO
+Lindemans Faro;2021;Oro;C.R.;22;Letras;Regular;SI
+Schöfferhofer Hefeweizen Dunkel;2021;Oro;RRK;20;Letras;Bueno;NO
+Tripel Karmeliet;2021;Crudo;dap;15;Flor de lis;Perfecto;SI
+Abbaye D'Aulne Ambrée;2021;Verde;U;17;Monje;Perfecto;NO
+Abbaye D'Aulne Brune;2021;Marrón;U;22;Monje;Perfecto;NO
+Abbaye D'Aulne Cuvée Royale;2021;Azul;U;07;Monje;Perfecto;NO
+Madrí;2021;Blanco;dap;12;Letras;Perfecto;SI
+New Yorker Fine Lager;2021;Azul;Unibox;3;Sol;Bueno;NO
+15&30 IPA;2021;Oro;astir;06;Letras;Bueno;NO
+Polar Pilsen;2021;Azul;U;34;Oso;Bueno;NO
+Ginger Beard;2021;Gris;astir;11;Estrella;Perfecto;NO
+The Crafty Brewing Company Irish Pale Ale ;2021;Oro;dap;12;Bigotes;Perfecto;SI
+Pilsner Urquell;2021;Oro;cp;02;Barril;Perfecto;NO
+Primátor Premium;2021;Blanco;RRK;16;Letras;Perfecto;NO
+Abbaye D'Aulne Premier Cru;2021;Naranja;U;12;Monje;Perfecto;NO
+Duvel;2021;Blanco;dap;14;Letras;Perfecto;NO
+Primátor Weizen;2021;Blanco;RRK;7;Letras;Perfecto;NO
+Super Bock Abadia;2021;Marrón;Unibox;R30;Letras;Bueno;NO
+1906 Galician Irish Red Ale;2021;Azul;Unibox;A24;Letras;Bueno;SI
+Chouffe Blanche;2021;Blanco;dap;13;Gnomo;Perfecto;NO
+Duvel 6.66%;2021;Blanco;dap;14;Letras;Perfecto;NO
+Kwak;2021;Marrón;BL;10;Ornamento;Perfecto;SI
+Gulden Draak Classic;2021;Blanco;HB;01;Dragón;Perfecto;SI
+Estrella Damm;2021;Rojo;HB;29;Estrella;Bueno;SI
+Desperados Strawberry Margarita;2021;Verde;cp;21;Letras;Perfecto;NO
+Coors Light;2021;Plata;dap;18;Letras;Bueno;NO
+Tap 6: Mein Aventinus;2021;Oro;RRK;01;Letras;Perfecto;NO
+Weltenburger Kloster Anno 1050;2021;Azul;RRK;01;Letras;Bueno;SI
+Cusqueña Negra;2022;Negro;PPP;A07;Machu Piccu;Perfecto;NO
+Maredsous Blond;2022;Cobre;RRK;03;Letras;Perfecto;NO
+Brewdog Dead Pony Club;2022;Verde;Unibox;22;Perro;Perfecto;NO
+Brugse Zot Blond;2022;Oro;HB;31;Bufón;Perfecto;NO
+Ambar 1900;2022;Verde;U;25;Letras;Bueno;NO
+Super Bock Stout;2022;Negro;Unibox;B27;Letras;Bueno;NO
+18/70 La Rubia;2022;Plata;cp;18;Letras;Perfecto;NO
+Brewdog Punk IPA;2022;Negro;Unibox;13;Letras;Perfecto;NO
+Grimbergen Double Ambreé;2022;Cobre;cp;15;Fénix;Perfecto;NO
+Sierra Nevada Torpedo Extra IPA;2022;Oro;Crown;L9 04;Letras;Perfecto;NO
+Schöfferhofer Grapefruit Hefeweizen;2022;Plata;RRK;12;Letras;Bueno;SI
+Chula IPA;2022;Negro;astir;24;Corazón;Bueno;NO
+Karlsbräu Helles;2022;Marrón;RRK;12;Trigo;Perfecto;NO
+Karlsbräu Kellerbier;2022;Marrón;RRK;12;Puerta;Perfecto;NO
+Victoria Málaga;2022;Blanco;U;05;Hombre;Perfecto;SI
+Ambar 10;2022;Negro;U;14;Letras;Bueno;NO
+Moritz Barcelona;2022;Amarillo;Unibox;A24;Letras;Bueno;NO
+Oliba Green Beer;2022;Verde;U;;Letras;Perfecto;NO
+Slash IPA;2022;Negro;cp;;Ojo;Bueno;SI
+Slash Red;2022;Negro;cp;;Ojo;Bueno;SI
+La Estrella de Galicia;2022;Oro;Unibox;A28;Estrella;Perfecto;SI
+Estrella Galicia Especial;2022;Negro;Unibox;9;Estrella;Perfecto;SI
+Rosita Original;2022;Amarillo;U;18;Mujer;Perfecto;NO
+The One IPA Americana;2022;Azul;Sin fabricante;B 15;;Regular;SI
+Moritz Red IPA;2022;Negro;U;32;Letras;Bueno;NO
+Te Deum Amber;2022;Rojo;U;08;Monje;Perfecto;NO
+Madrí;2022;Blanco;dap;23;Formas;Perfecto;NO
+15&30 Pilsner;2022;Oro;U;17;Letras;Perfecto;NO
+Franziskaner Premium Weissbier;2022;Oro;dap;16;Letras;Perfecto;NO
+Grimbergen Blonde;2022;Oro;cp;03;Fénix;Perfecto;NO
+The Crafty Brewing Company Irish Lager;2022;Oro;dap;2 4;Bigotes;Regular;SI
+Greene King IPA;2022;Oro;Unibox;A02;Corona;Bueno;NO
+Zerep Rubia;2022;Crudo;astir;01;Ornamento;Bueno;SI
+Desperados Strawberry Margarita;2022;Rosa;cp;18;Planta;Perfecto;NO
+Zerep Tostada;2022;Negro;Sin fabricante;;Ornamento;Bueno;NO
+Mahou Negra;2008;Negro;Sin fabricante;12;Letras;Bueno;NO
+Grimbergen Double Ambreé;2008;Marrón;Sin fabricante;T;Fénix;Bueno;NO
+Grimbergen Optimo Bruno;2008;Marrón;Sin fabricante;T;Fénix;Perfecto;NO
+Budweiser;1998;Blanco;Sin fabricante;Z;Balón;Perfecto;NO
+Budweiser;1999;Gris;Sin fabricante;T;Letras;Perfecto;NO
+Coors Gold;1999;Oro;Sin fabricante;;Letras;Perfecto;NO
+Guinness Draught;2006;Negro;dap;1 3;Arpa;Bueno;NO
+Coors Light;2020;Gris;dap;;Letras;Regular;NO
+Hoegaarden Wit;2022;Blanco;HB;17;Letras;Perfecto;NO
+Bischofshof Hefe-Weissbier Hell;2022;Rojo;RRK;97;Letras;Perfecto;NO
+1906 Black Coupage;2022;Negro;Unibox;12;Letras;Perfecto;SI
+Alhambra Tradicional;2022;Rojo;U;24;Reja;Bueno;SI
+Brutus The Beer;2022;Negro;U;18;Letras;Bueno;NO
+Heineken Silver;2022;Verde;cp;;Estrella;Perfecto;SI
+Mc Chouffe;2022;Amarillo;dap;21;Gnomo;Perfecto;NO
+Estrella de Navidad;2022;Plata;Unibox;A15;Estrella;Perfecto;SI
+Peroni Gran Riserva Doppio Malto;2023;Negro;dap;11;Letras;Bueno;NO
+Vikingathor Boris Brew;2023;Negro;astir;01;Letras;Regular;NO
+Pólvora Blue;2023;Naranja;astir;B 23;Letras;Perfecto;SI
+Mascletà;2023;Naranja;astir;B 18;Letras;Perfecto;SI
+Grimbergen Belgian Pale Ale;2023;Verde;cp;17;Fénix;Bueno;NO
+Grimbergen Blanche;2023;Azul;cp;4;Fénix;Perfecto;NO
+Ambar Especial;2023;Rojo;Unibox;6;Triangulo;Perfecto;SI
+Schöfferhofer Hefeweizen;2023;Naranja;RRK;07;Letras;Bueno;NO
+Hofbräu Original;2020;Oro;HB;07;Corona;Bueno;NO
+Nastro Azzurro;2020;Blanco;dap;22;Estrella;Bueno;SI
+König Ludwig Weissbier Naturtrüb;2023;Blanco;DKF;36-23;Escudo;Perfecto;NO
+Leffe Blonde;2023;Oro;Unibox;B34;Letras;Regular;SI
+Leffe Triple;2023;Oro;HB;32;Letras;Bueno;NO
+Leffe Brune;2023;Marrón;HB;40;Letras;Regular;SI
+Mahou Cinco Estrellas;1995;Oro;Sin fabricante;A;Letras;Malo;NO
+Mahou Clásica;1995;Plata;Sin fabricante;Z;Letras;Malo;NO
+Heineken;1995;Verde;Sin fabricante;25;Estrella;Malo;SI
+Praga Premium Pils;2020;Blanco;cp;MK 1;León;Perfecto;SI
+Argus Suave;2020;Blanco;U;13;Incas;Perfecto;NO
+El Alcázar;2023;Verde;dap;03;Castillo;Bueno;SI
+Alhambra Lager Singular;2023;Amarillo;U;09;Reja;Bueno;SI
+Ambar Export;2023;Negro;U;35;Triangulo;Bueno;SI
+Ambar Morena;2023;Naranja;Unibox;4;Triangulo;Perfecto;SI
+Cerex Pilsen;2023;Negro;Sin fabricante;B 18;Letras;Bueno;SI
+Alhambra Reserva 1925;2005;Verde;TC;32;Letras;Regular;NO
+Stark Especial;2016;Rojo;dap;14;Estrella;Regular;NO
+Bombardier Amber Beer;2016;Multicolor;Unibox;10;Bandera;Regular;NO
+Patronus Premium Weissbier;2020;Oro;RRK;32;Letras;Bueno;NO
+Bernabeu Madrid;2023;Blanco;cp;24;Edificio;Perfecto;NO
+Caletera Tostada;2023;Negro;Sin fabricante;A 12;Escudo;Bueno;NO
+San Miguel Eco;2023;Beige;U;16;Letras;Perfecto;SI
+Tsingtao;2023;Oro;Ziquan;14;Letras;Perfecto;NO
+Monastère Blond;2023;Negro;cp;31;León;Bueno;NO
+IPA4;2023;Negro;U;8;Letras;Bueno;NO
+Mahou Cinco Estrellas;2023;Oro;U;15;Letras;Malo;NO
+Perkins Cerveza Rubia;2023;Blanco;astir;A 12;Código;Perfecto;NO
+Desperados Red;2023;Rojo;dap;19;Letras;Perfecto;NO
