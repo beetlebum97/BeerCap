@@ -1,0 +1,32 @@
+[
+    {
+        "name": "ID",
+        "type": "STRING",
+        "mode": "REQUIRED"
+    },
+    {
+        "name": "Cerveza",
+        "type": "STRING",
+        "mode": "REQUIRED"
+    },
+    {
+        "name": "Nota de cata",
+        "type": "STRING",
+        "mode": "REQUIRED"
+    },
+    {
+        "name": "Sabor",
+        "type": "STRING",
+        "mode": "REQUIRED"
+    },
+    {
+        "name": "Puntos",
+        "type": "INTEGER",
+        "mode": "REQUIRED"
+    },
+    {
+        "name": "Fecha",
+        "type": "DATE",
+        "mode": "NULLABLE"
+    }
+]

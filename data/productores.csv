@@ -1,142 +1,145 @@
-NOMBRE;PAÍS;REGIÓN;CIUDAD;FUNDACIÓN;URL;EMPRESA MATRIZ
-Mahou;España;Comunidad de Madrid;Madrid;1890;www.mahou.es;Mahou-San Miguel
-San Miguel;España;Andalucía;Málaga;1890;www.sanmiguel.es;Mahou-San Miguel
-Brasserie Fischer;Francia;Alsacia;Estrasburgo;1821;www.heinekenfrance.fr;Heineken H.V.
-Grupo Modelo;México;Valle de México;Ciudad de México;1925;www.grupomodelo.com;AB InBev
-Asahi Breweries;Japón;Kanto;Tokio;1889;www.asahigroup-holdings.com;Asahi Group Holdings
-Damm;España;Cataluña;Barcelona;1876;www.damm.com;Holding Cervecero Damm
-Alken-Maes;Bélgica;Flandes;Malinas;1988;www.alken-maes.be;Heineken H.V.
-Blue Moon Brewing;Estados Unidos;Colorado;Golden;1995;www.bluemoonbrewingcompany.com;Molson Coors
-Paulaner Braueri;Alemania;Baviera;Munich;1634;www.paulaner.com;Paulaner Braueri Gruppe
-Spaten-Franziskaner-Bräu;Alemania;Baviera;Munich;1922;;AB InBev
-Brouwerij Artois;Bélgica;Flandes;Lovaina;1366;;AB InBev
-Heineken International;Países Bajos;Holanda Septentrional;Amsterdam;1864;www.theheinekencompany.com;Heineken H.V.
-Anheuser-Busch;Estados Unidos;Missouri;San Luis;1852;www.anheuser-busch.com;AB InBev
-La Sagra;España;Castilla-La Mancha;Numancia de la Sagra;2011;www.cervezalasagra.es;
-BrewDog;Reino Unido;Escocia;Ellon;2007;www.brewdog.com;
-Cruzcampo;España;Andalucía;Sevilla;1904;www.cruzcampo.es;Heineken H.V.
-Guinness Brewery;Irlanda;Leinster;Dublin;1759;ww.guinness-storehouse.com;Diageo
-Löwenbräu;Alemania;Baviera;Munich;1746;;AB InBev
-Plzensky Prazdroj;República Checa;Bohemia;Pilsen;1842;www.prazdroj.cz;Asahi Group Holdings
-Brouwerij Martens;Bélgica;Flandes;Bocholt;1758;www.martens.be;
-Abbaye de Leffe;Bélgica;Valonia;Dinant;1240;leffe.com;AB InBev
-Cervezas Alhambra;España;Andalucía;Granada;1925;www.cervezasalhambra.com;Mahou-San Miguel
-Krombacher;Alemania;Renania del Norte-Westfalia;Kreuztal;1803;www.krombacher.com;
-Moritz;España;Cataluña;Barcelona;1856;moritz.com;La Zaragozana S.A.
-El Águila;España;Comunidad de Madrid;Madrid;1900;www.cervezaelaguila.es;Heineken H.V.
-Brouwerij Huyghe;Bélgica;Flandes;Melle;1906;www.brouwerijhuyghe.be;
-De Halve Maan;Bélgica;Flandes;Brujas;1856;www.halvemaan.be;
-Brasserie d'Achouffe;Bélgica;Valonia;Achouffe;1982;www.chouffe.com;Duvel Moortgat
-Birra Moretti;Italia;Friul-Venecia Julia;Udine;1859;www.birramoretti.it;Heineken H.V.
-Cervecería y Maltería Quilmes;Argentina;Buenos Aires;Quilmes;1890;www.cerveceriaymalteriaquilmes.com;AB InBev
-Innis & Gunn Brewing;Reino Unido;Escocia;Edimburgo;2003;www.innisandgunn.com;
-Miller Brewing Company;Estados Unidos;Wisconsin;Milwaukee;1855;www.millerbrewerytour.com;Molson Coors
-Cervecería Cuauhtémoc Moctezuma;México;Nuevo León;Monterrey;1890;www.heinekenmexico.com;Heineken H.V.
-Dortmunder Actien Brauerei;Alemania;Renania del Norte-Westfalia;Dortmund;1868;www.dab-beer.com;Radeberger Gruppe
-Abbaye de Scourmont;Bélgica;Valonia;Chimay;1862;;
-Abdij Koningshoeven;Países Bajos;Brabante Septentrional;Berkel-Enschot;1884;;
-Lagunitas Brewing Company;Estados Unidos;California;Lagunitas;1993;lagunitas.com;Heineken H.V.
-Hoegaarden;Bélgica;Flandes;Hoegaarden;1445;hoegaarden.com;AB InBev
-Sierra Nevada Brewing;Estados Unidos;California;Chico;1979;sierranevada.com;
-Osborne;España;Andalucía;El Puerto de Santa María;1772;;
-Pivovary Staropramen;República Checa;Bohemia;Praga;1869;staropramen.cz;Molson Coors
-Super Bock;Portugal;Oporto;Leça do Balio;1927;www.superbock.pt;Unicer União Cervejeira S.A.
-Pinkus Müller;Alemania;Renania del Norte-Westfalia;Münster;1816;www.pinkus.de;
-Kirin Brewery Company;Japón;Kanto;Tokio;1885;www.kirin.co.jp;Mitsubishi Group
-Asia Pacific Breweries;Singapur;Singapur;Singapur;1931;;Heineken H.V.
-Brauerei Alsfeld;Alemania;Hesse;Alsfeld;1858;www.alsfelder.de;
-Riedenburger Brauhaus;Alemania;Baviera;Riedenburg;1756;riedenburger.de;
-Klosterbrauerei Weltenburg;Alemania;Baviera;Kelheim;1050;www.weltenburger.de;
-Hofbräu München;Alemania;Baviera;Munich;1589;www.hofbraeu-muenchen.de;
-Ferme Mont-Saint-Jean;Bélgica;Valonia;Waterloo;;www.fermedemontsaintjean.be;John Martin S.A.
-Timmermans;Bélgica;Flandes;Itterbeek;1702;brtimmermans.be;John Martin S.A.
-Brouwerij Bourgogne des Flandres;Bélgica;Flandes;Brujas;1911;www.bourgognedesflandres.be;John Martin S.A.
-La Cibeles;España;Comunidad de Madrid;Madrid;2011;cervezaslacibeles.com;
-La Virgen;España;Comunidad de Madrid;Las Rozas;2011;www.cervezaslavirgen.com;
-Cervezas 1906;España;Galicia;La Coruña;1993;cervezas1906.es;Hijos de Rivera, S.A.
-Font Salem;España;Comunidad Valenciana;Valencia;;www.fontsalem.com;Holding Cervecero Damm
-Warsteiner Brauerei;Alemania;Renania del Norte-Westfalia;Warstein;1753;www.warsteiner.com;
-Cusqueña;Perú;Cuzco;Cuzco;1908;www.cusquena.com;UCP Backus & Johnston
-Cervecería Nacional Dominicana;República Dominicana;Distrito Nacional;Santo Domingo;1929;www.presidente.com.do;AB InBev
-Founders Brewing;Estados Unidos;Michigan;Grand Rapids;1997;www.foundersbrewing.com;Mahou-San Miguel
-Brooklyn Brewery;Estados Unidos;Nueva York;Nueva York;1988;brooklynbrewery.com;
-Cervecería Bavaria;Colombia;Cundinamarca;Bogotá;1889;www.bavaria.co;AB InBev
-Brauerei Bischofshof;Alemania;Baviera;Ratisbona;1649;www.bischofshof.de;
-Amstel;Países Bajos;Holanda Septentrional;Amsterdam;1890;www.amstel.es;Heineken H.V.
-La Salve Bilbao;España;País Vasco;Bilbao;1886;www.lasalvebilbao.eus;
-Mort Subite;Bélgica;Bruselas-Capital;Bruselas;1910;www.mort-subite.be;Heineken H.V.
-Thai Beverage;Tailandia;Tailandia Central;Bangkok;1991;www.thaibev.com;
-Olvi;Finlandia;Savonia del Norte;Iisalmi;1878;www.olvi.fi;
-Carlow Brewing;Irlanda;Leinster;Bagenalstown;1996;www.carlowbrewing.com;
-12·70;España;Castilla y León;Villaseca de Laciana;2018;www.docesetenta.com;
-Erdinger Weissbräu;Alemania;Baviera;Erding;1886;int.erdinger.de;
-Jennings Brewery;Reino Unido;Inglaterra;Lorton;1828;www.jenningsbrewery.co.uk;Carlsberg Marston's Brewing Company
-Wychwood Brewery;Reino Unido;Inglaterra;Witney;1983;;Carlsberg Marston's Brewing Company
-McEwan's;Reino Unido;Escocia;Edimburgo;1856;www.mcewans.co.uk;Carlsberg Marston's Brewing Company
-Ringwood Brewery;Reino Unido;Inglaterra;Ringwood;1978;www.ringwoodbrewery.co.uk;Carlsberg Marston's Brewing Company
-Marston's Brewery;Reino Unido;Inglaterra;Burton upon Trent;1834;www.marstonsbrewery.co.uk;Carlsberg Marston's Brewing Company
-Cervezas Ambar;España;Aragón;Zaragoza;1900;www.ambar.com;La Zaragozana S.A.
-BraufactuM;Alemania;Hesse;Frankfurt;;www.braufactum.de;Radeberger Gruppe
-Carlsberg Group;Dinamarca;Region Capital;Copenhague;1847;www.carlsberggroup.com;
-Brasserie Val De Sambre;Bélgica;Valonia;Gozée;1998;brasserievds.be;
-Brasserie Du Bocq;Bélgica;Valonia;Purnode;1858;bocq.be;
-C. & A. Veltins;Alemania;Renania del Norte-Westfalia;Meschede;1824;www.veltins.com;
-Budejovicky Budvar;República Checa;Bohemia;Budejovice;1895;www.budejovickybudvar.cz;
-Brasserie de Rochefort;Bélgica;Valonia;Rochefort;1595;www.trappistes-rochefort.com;Abbaye de Rochefort
-Camden Town Brewery;Reino Unido;Inglaterra;Londres;2010;camdentownbrewery.com;AB InBev
-Einstök Ölgerð;Islandia;Norðurland Eystra;Akureyri;2010;einstokbeer.com;
-Bayerische Staatsbrauerei Weihenstephan;Alemania;Baviera;Frisinga;1040;weihenstephaner.es;Gobierno de Baviera
-Hertog Jan Brouwerij;Países Bajos;Limburgo;Arcen;1915;www.hertogjan.nl;AB InBev
-Brasserie OXIT;Francia;Occitania;Beauvais-sur-Tescou;2006;www.oxit.fr;
-Brasserie La Binchoise;Bélgica;Valonia;Binche;1989;www.brasserielabinchoise.be;
-Goose Island Beer;Estados Unidos;Illinois;Chicago;1988;www.gooseisland.com;AB InBev
-Cervecería Nacional Ecuador;Ecuador;Guayas;Guayaquil;1887;www.cervecerianacional.ec;AB InBev
-Cervezas Monkey;España;Castilla-La Mancha;Gerindote;2013;cervezasmonkey.es;
-Cervexa NÓS;España;Galicia;Vigo;2015;www.cervexanos.es;
-Cervezas Domus;España;Castilla-La Mancha;Toledo;2007;www.cervezadomus.com;
-Brauerei Gebr. Maisel;Alemania;Baviera;Bayreuth;1887;www.maisel.com;
-Cervesa Guineu;España;Cataluña;Valls de Torruella;2008;www.cervesaguineu.com;
-Cerveza Tyris;España;Comunidad Valenciana;Valencia;2009;www.cervezatyris.com;
-Cervezas La Socarrada;España;Valencia;Fuente La Higuera;2010;www.lasocarrada.com;
-Barcelona Beer Company;España;Cataluña;Barcelona;;www.barcelonabeercompany.com;
-Abbaye de Maredsous ;Bélgica;Valonia;Anhée;1872;;Duvel Moortgat
-Cobra;Reino Unido;Inglaterra;Burton upon Trent;1989;www.cobrabeer.com;
-Brouwerij Duvel Moortgat;Bélgica;Flandes;Breendonk;1871;www.duvelmoortgat.com;Duvel Moortgat
-Lindemans;Bélgica;Flandes;Vlezenbeek;1822;www.lindemans.be;
-Binding Brauerei;Alemania;Hesse;Frankfurt;1870;www.binding.de;Radeberger Gruppe
-Brouwerij Bosteels;Bélgica;Flandes;Buggenhout;1791;bosteelsbrewery.com;AB InBev
-D&P Europe;Italia;Lombardia;Milan;;;
-Sherry Beer;España;Andalucía;Jerez de la Frontera;2016;www.sherrybeer.com;
-Cervecería Polar;Venezuela;Distrito Capital;Caracas;1941;;Empresas Polar
-Rye River Brewing Company;Irlanda;Leinster;Kildare;2013;www.ryeriverbrewingco.com;
-Primátor;República Checa;Bohemia;Náchod;1872;primator.cz;
-Brouwerij Van Steenberge;Bélgica;Flandes;Ertvelde;1789;www.vansteenberge.com;
-Zywiec Brewery;Polonia;Voivodato de Silesia;Zywiec;1856;en.grupazywiec.pl;Heineken H.V.
-Coors Brewing Company;Estados Unidos;Colorado;Golden;1873;www.coors.com;Molson Coors
-G. Schneider & Sohn;Alemania;Baviera;Kelheim;1872;schneider-weisse.de;
-Cervezas Villa de Madrid;España;Comunidad de Madrid;Madrid;2014;www.cervezasvillademadrid.com;
-Karlsberg / Karlsbräu;Alemania;Sarre;Homburgo;1878;karlsberg.de;Karlsberg Holding
-Cervezas Victoria;España;Andalucía;Málaga;1928;www.cervezavictoria.es;Holding Cervecero Damm
-Click&Brew;España;Cataluña;Lleida;2017;www.clickandbrew.com;
-Brasserie Licorne;Francia;Alsacia;Saverne;1845;www.brasserielicorne.com;Karlsberg Holding
-Estrella Galicia;España;Galicia;La Coruña;1906;estrellagalicia.es;Hijos de Rivera, S.A.
-Cerveses La Gardènia-Rosita;España;Cataluña;Alcover;;;
-The One Beer;España;Comunidad de Madrid;Getafe;2016;www.onebeer.es;
-Greene King;Reino Unido;Inglaterra;Bury St Edmunds;1799;www.greeneking.co.uk;CK Asset Holdings
-Zerep Carbónicas y Aguas S.A.;España;Castilla y León;León;1951;www.zerepcarbonicas.com;
-Birra Peroni;Italia;Lazio;Roma;1846;www.birraperoni.it;Asahi Group Holdings
-Cerveza SanFrutos;España;Castilla y León;Segovia;2013;cervezasanfrutos.com;
-Cervezas Mascletà;España;Comunidad Valenciana;Valencia;2018;www.cervezamascleta.com;
-König Ludwig Brauerei;Alemania;Baviera;Fürstenfeldbruck;1871;www.koenig-ludwig-brauerei.com;
-Praga Brewing Group;República Checa;Bohemia;Praga;2004;www.pragapils.eu;
-Cervezas Alcázar de Jaén;España;Andalucía;Jaén;1928;;Heineken H.V.
-Mercadona;España;Comunidad Valenciana;Valencia;1977;www.mercadona.es;
-Lidl;Alemania;Baden-Wurtemberg;Neckarsulm;1973;;
-Cerex Brewing;España;Extremadura;Zarza de Granadilla;2013;cervezacerex.com;
-Eagle Brewery;Reino Unido;Inglaterra;Bedford;1976;eaglebrewery.co.uk;Holding Cervecero Damm
-Grupo Badbeers;España;Comunidad de Madrid;Torrejón de Velasco;2020;badbeers.com;
-MCJ Cerveceros Portuenses;España;Andalucía;El Puerto de Santa María;;;
-Tsingtao Brewery;China;Shandong;Qingdao;1903;www.tsingtao.es;
-United Dutch Breweries;Países Bajos;Brabante Septentrional;Breda;1538;www.uniteddutchbreweries.com;
-Dougalls;España;Cantabria;Liérganes;2006;www.dougalls.es;
-Perkins;España;Murcia;Molina de Segura;2020;www.perkinsgenuine.com;
+ID;NOMBRE;PAÍS;REGIÓN;CIUDAD;FUNDACIÓN;URL;EMPRESA MATRIZ
+1;Mahou;España;Comunidad de Madrid;Madrid;1890;www.mahou.es;Mahou-San Miguel
+2;San Miguel;España;Andalucía;Málaga;1890;www.sanmiguel.es;Mahou-San Miguel
+3;Brasserie Fischer;Francia;Alsacia;Estrasburgo;1821;www.heinekenfrance.fr;Heineken H.V.
+4;Grupo Modelo;México;Valle de México;Ciudad de México;1925;www.grupomodelo.com;AB InBev
+5;Asahi Breweries;Japón;Kanto;Tokio;1889;www.asahigroup-holdings.com;Asahi Group Holdings
+6;Damm;España;Cataluña;Barcelona;1876;www.damm.com;Holding Cervecero Damm
+7;Alken-Maes;Bélgica;Flandes;Malinas;1988;www.alken-maes.be;Heineken H.V.
+8;Blue Moon Brewing;Estados Unidos;Colorado;Golden;1995;www.bluemoonbrewingcompany.com;Molson Coors
+9;Paulaner Braueri;Alemania;Baviera;Munich;1634;www.paulaner.com;Paulaner Braueri Gruppe
+10;Spaten-Franziskaner-Bräu;Alemania;Baviera;Munich;1922;;AB InBev
+11;Brouwerij Artois;Bélgica;Flandes;Lovaina;1366;;AB InBev
+12;Heineken International;Países Bajos;Holanda Septentrional;Amsterdam;1864;www.theheinekencompany.com;Heineken H.V.
+13;Anheuser-Busch;Estados Unidos;Missouri;San Luis;1852;www.anheuser-busch.com;AB InBev
+14;La Sagra;España;Castilla-La Mancha;Numancia de la Sagra;2011;www.cervezalasagra.es;
+15;BrewDog;Reino Unido;Escocia;Ellon;2007;www.brewdog.com;
+16;Cruzcampo;España;Andalucía;Sevilla;1904;www.cruzcampo.es;Heineken H.V.
+17;Guinness Brewery;Irlanda;Leinster;Dublin;1759;ww.guinness-storehouse.com;Diageo
+18;Löwenbräu;Alemania;Baviera;Munich;1746;;AB InBev
+19;Plzensky Prazdroj;República Checa;Bohemia;Pilsen;1842;www.prazdroj.cz;Asahi Group Holdings
+20;Brouwerij Martens;Bélgica;Flandes;Bocholt;1758;www.martens.be;
+21;Abbaye de Leffe;Bélgica;Valonia;Dinant;1240;leffe.com;AB InBev
+22;Cervezas Alhambra;España;Andalucía;Granada;1925;www.cervezasalhambra.com;Mahou-San Miguel
+23;Krombacher;Alemania;Renania del Norte-Westfalia;Kreuztal;1803;www.krombacher.com;
+24;Moritz;España;Cataluña;Barcelona;1856;moritz.com;La Zaragozana S.A.
+25;El Águila;España;Comunidad de Madrid;Madrid;1900;www.cervezaelaguila.es;Heineken H.V.
+26;Brouwerij Huyghe;Bélgica;Flandes;Melle;1906;www.brouwerijhuyghe.be;
+27;De Halve Maan;Bélgica;Flandes;Brujas;1856;www.halvemaan.be;
+28;Brasserie d'Achouffe;Bélgica;Valonia;Achouffe;1982;www.chouffe.com;Duvel Moortgat
+29;Birra Moretti;Italia;Friul-Venecia Julia;Udine;1859;www.birramoretti.it;Heineken H.V.
+30;Cervecería y Maltería Quilmes;Argentina;Buenos Aires;Quilmes;1890;www.cerveceriaymalteriaquilmes.com;AB InBev
+31;Innis & Gunn Brewing;Reino Unido;Escocia;Edimburgo;2003;www.innisandgunn.com;
+32;Miller Brewing Company;Estados Unidos;Wisconsin;Milwaukee;1855;www.millerbrewerytour.com;Molson Coors
+33;Cervecería Cuauhtémoc Moctezuma;México;Nuevo León;Monterrey;1890;www.heinekenmexico.com;Heineken H.V.
+34;Dortmunder Actien Brauerei;Alemania;Renania del Norte-Westfalia;Dortmund;1868;www.dab-beer.com;Radeberger Gruppe
+35;Abbaye de Scourmont;Bélgica;Valonia;Chimay;1862;;
+36;Abdij Koningshoeven;Países Bajos;Brabante Septentrional;Berkel-Enschot;1884;;
+37;Lagunitas Brewing Company;Estados Unidos;California;Lagunitas;1993;lagunitas.com;Heineken H.V.
+38;Hoegaarden;Bélgica;Flandes;Hoegaarden;1445;hoegaarden.com;AB InBev
+39;Sierra Nevada Brewing;Estados Unidos;California;Chico;1979;sierranevada.com;
+40;Osborne;España;Andalucía;El Puerto de Santa María;1772;;
+41;Pivovary Staropramen;República Checa;Bohemia;Praga;1869;staropramen.cz;Molson Coors
+42;Super Bock;Portugal;Oporto;Leça do Balio;1927;www.superbock.pt;Unicer União Cervejeira S.A.
+43;Pinkus Müller;Alemania;Renania del Norte-Westfalia;Münster;1816;www.pinkus.de;
+44;Kirin Brewery Company;Japón;Kanto;Tokio;1885;www.kirin.co.jp;Mitsubishi Group
+45;Asia Pacific Breweries;Singapur;Singapur;Singapur;1931;;Heineken H.V.
+46;Brauerei Alsfeld;Alemania;Hesse;Alsfeld;1858;www.alsfelder.de;
+47;Riedenburger Brauhaus;Alemania;Baviera;Riedenburg;1756;riedenburger.de;
+48;Klosterbrauerei Weltenburg;Alemania;Baviera;Kelheim;1050;www.weltenburger.de;
+49;Hofbräu München;Alemania;Baviera;Munich;1589;www.hofbraeu-muenchen.de;
+50;Ferme Mont-Saint-Jean;Bélgica;Valonia;Waterloo;;www.fermedemontsaintjean.be;John Martin S.A.
+51;Timmermans;Bélgica;Flandes;Itterbeek;1702;brtimmermans.be;John Martin S.A.
+52;Brouwerij Bourgogne des Flandres;Bélgica;Flandes;Brujas;1911;www.bourgognedesflandres.be;John Martin S.A.
+53;La Cibeles;España;Comunidad de Madrid;Madrid;2011;cervezaslacibeles.com;
+54;La Virgen;España;Comunidad de Madrid;Las Rozas;2011;www.cervezaslavirgen.com;
+55;Cervezas 1906;España;Galicia;La Coruña;1993;cervezas1906.es;Hijos de Rivera, S.A.
+56;Font Salem;España;Comunidad Valenciana;Valencia;;www.fontsalem.com;Holding Cervecero Damm
+57;Warsteiner Brauerei;Alemania;Renania del Norte-Westfalia;Warstein;1753;www.warsteiner.com;
+58;Cusqueña;Perú;Cuzco;Cuzco;1908;www.cusquena.com;UCP Backus & Johnston
+59;Cervecería Nacional Dominicana;República Dominicana;Distrito Nacional;Santo Domingo;1929;www.presidente.com.do;AB InBev
+60;Founders Brewing;Estados Unidos;Michigan;Grand Rapids;1997;www.foundersbrewing.com;Mahou-San Miguel
+61;Brooklyn Brewery;Estados Unidos;Nueva York;Nueva York;1988;brooklynbrewery.com;
+62;Cervecería Bavaria;Colombia;Cundinamarca;Bogotá;1889;www.bavaria.co;AB InBev
+63;Brauerei Bischofshof;Alemania;Baviera;Ratisbona;1649;www.bischofshof.de;
+64;Amstel;Países Bajos;Holanda Septentrional;Amsterdam;1890;www.amstel.es;Heineken H.V.
+65;La Salve Bilbao;España;País Vasco;Bilbao;1886;www.lasalvebilbao.eus;
+66;Mort Subite;Bélgica;Bruselas-Capital;Bruselas;1910;www.mort-subite.be;Heineken H.V.
+67;Thai Beverage;Tailandia;Tailandia Central;Bangkok;1991;www.thaibev.com;
+68;Olvi;Finlandia;Savonia del Norte;Iisalmi;1878;www.olvi.fi;
+69;Carlow Brewing;Irlanda;Leinster;Bagenalstown;1996;www.carlowbrewing.com;
+70;12·70;España;Castilla y León;Villaseca de Laciana;2018;www.docesetenta.com;
+71;Erdinger Weissbräu;Alemania;Baviera;Erding;1886;int.erdinger.de;
+72;Jennings Brewery;Reino Unido;Inglaterra;Lorton;1828;www.jenningsbrewery.co.uk;Carlsberg Marston's Brewing Company
+73;Wychwood Brewery;Reino Unido;Inglaterra;Witney;1983;;Carlsberg Marston's Brewing Company
+74;McEwan's;Reino Unido;Escocia;Edimburgo;1856;www.mcewans.co.uk;Carlsberg Marston's Brewing Company
+75;Ringwood Brewery;Reino Unido;Inglaterra;Ringwood;1978;www.ringwoodbrewery.co.uk;Carlsberg Marston's Brewing Company
+76;Marston's Brewery;Reino Unido;Inglaterra;Burton upon Trent;1834;www.marstonsbrewery.co.uk;Carlsberg Marston's Brewing Company
+77;Cervezas Ambar;España;Aragón;Zaragoza;1900;www.ambar.com;La Zaragozana S.A.
+78;BraufactuM;Alemania;Hesse;Frankfurt;;www.braufactum.de;Radeberger Gruppe
+79;Carlsberg Group;Dinamarca;Region Capital;Copenhague;1847;www.carlsberggroup.com;
+80;Brasserie Val De Sambre;Bélgica;Valonia;Gozée;1998;brasserievds.be;
+81;Brasserie Du Bocq;Bélgica;Valonia;Purnode;1858;bocq.be;
+82;C. & A. Veltins;Alemania;Renania del Norte-Westfalia;Meschede;1824;www.veltins.com;
+83;Budejovicky Budvar;República Checa;Bohemia;Budejovice;1895;www.budejovickybudvar.cz;
+84;Brasserie de Rochefort;Bélgica;Valonia;Rochefort;1595;www.trappistes-rochefort.com;Abbaye de Rochefort
+85;Camden Town Brewery;Reino Unido;Inglaterra;Londres;2010;camdentownbrewery.com;AB InBev
+86;Einstök Ölgerð;Islandia;Norðurland Eystra;Akureyri;2010;einstokbeer.com;
+87;Bayerische Staatsbrauerei Weihenstephan;Alemania;Baviera;Frisinga;1040;weihenstephaner.es;Gobierno de Baviera
+88;Hertog Jan Brouwerij;Países Bajos;Limburgo;Arcen;1915;www.hertogjan.nl;AB InBev
+89;Brasserie OXIT;Francia;Occitania;Beauvais-sur-Tescou;2006;www.oxit.fr;
+90;Brasserie La Binchoise;Bélgica;Valonia;Binche;1989;www.brasserielabinchoise.be;
+91;Goose Island Beer;Estados Unidos;Illinois;Chicago;1988;www.gooseisland.com;AB InBev
+92;Cervecería Nacional Ecuador;Ecuador;Guayas;Guayaquil;1887;www.cervecerianacional.ec;AB InBev
+93;Cervezas Monkey;España;Castilla-La Mancha;Gerindote;2013;cervezasmonkey.es;
+94;Cervexa NÓS;España;Galicia;Vigo;2015;www.cervexanos.es;
+95;Cervezas Domus;España;Castilla-La Mancha;Toledo;2007;www.cervezadomus.com;
+96;Brauerei Gebr. Maisel;Alemania;Baviera;Bayreuth;1887;www.maisel.com;
+97;Cervesa Guineu;España;Cataluña;Valls de Torruella;2008;www.cervesaguineu.com;
+98;Cerveza Tyris;España;Comunidad Valenciana;Valencia;2009;www.cervezatyris.com;
+99;Cervezas La Socarrada;España;Valencia;Fuente La Higuera;2010;www.lasocarrada.com;
+100;Barcelona Beer Company;España;Cataluña;Barcelona;;www.barcelonabeercompany.com;
+101;Abbaye de Maredsous ;Bélgica;Valonia;Anhée;1872;;Duvel Moortgat
+102;Cobra;Reino Unido;Inglaterra;Burton upon Trent;1989;www.cobrabeer.com;
+103;Brouwerij Duvel Moortgat;Bélgica;Flandes;Breendonk;1871;www.duvelmoortgat.com;Duvel Moortgat
+104;Lindemans;Bélgica;Flandes;Vlezenbeek;1822;www.lindemans.be;
+105;Binding Brauerei;Alemania;Hesse;Frankfurt;1870;www.binding.de;Radeberger Gruppe
+106;Brouwerij Bosteels;Bélgica;Flandes;Buggenhout;1791;bosteelsbrewery.com;AB InBev
+107;D&P Europe;Italia;Lombardia;Milan;;;
+108;Sherry Beer;España;Andalucía;Jerez de la Frontera;2016;www.sherrybeer.com;
+109;Cervecería Polar;Venezuela;Distrito Capital;Caracas;1941;;Empresas Polar
+110;Rye River Brewing Company;Irlanda;Leinster;Kildare;2013;www.ryeriverbrewingco.com;
+111;Primátor;República Checa;Bohemia;Náchod;1872;primator.cz;
+112;Brouwerij Van Steenberge;Bélgica;Flandes;Ertvelde;1789;www.vansteenberge.com;
+113;Zywiec Brewery;Polonia;Voivodato de Silesia;Zywiec;1856;en.grupazywiec.pl;Heineken H.V.
+114;Coors Brewing Company;Estados Unidos;Colorado;Golden;1873;www.coors.com;Molson Coors
+115;G. Schneider & Sohn;Alemania;Baviera;Kelheim;1872;schneider-weisse.de;
+116;Cervezas Villa de Madrid;España;Comunidad de Madrid;Madrid;2014;www.cervezasvillademadrid.com;
+117;Karlsberg / Karlsbräu;Alemania;Sarre;Homburgo;1878;karlsberg.de;Karlsberg Holding
+118;Cervezas Victoria;España;Andalucía;Málaga;1928;www.cervezavictoria.es;Holding Cervecero Damm
+119;Click&Brew;España;Cataluña;Lleida;2017;www.clickandbrew.com;
+120;Brasserie Licorne;Francia;Alsacia;Saverne;1845;www.brasserielicorne.com;Karlsberg Holding
+121;Estrella Galicia;España;Galicia;La Coruña;1906;estrellagalicia.es;Hijos de Rivera, S.A.
+122;Cerveses La Gardènia-Rosita;España;Cataluña;Alcover;;;
+123;The One Beer;España;Comunidad de Madrid;Getafe;2016;www.onebeer.es;
+124;Greene King;Reino Unido;Inglaterra;Bury St Edmunds;1799;www.greeneking.co.uk;CK Asset Holdings
+125;Zerep Carbónicas y Aguas S.A.;España;Castilla y León;León;1951;www.zerepcarbonicas.com;
+126;Birra Peroni;Italia;Lazio;Roma;1846;www.birraperoni.it;Asahi Group Holdings
+127;Cerveza SanFrutos;España;Castilla y León;Segovia;2013;cervezasanfrutos.com;
+128;Cervezas Mascletà;España;Comunidad Valenciana;Valencia;2018;www.cervezamascleta.com;
+129;König Ludwig Brauerei;Alemania;Baviera;Fürstenfeldbruck;1871;www.koenig-ludwig-brauerei.com;
+130;Praga Brewing Group;República Checa;Bohemia;Praga;2004;www.pragapils.eu;
+131;Cervezas Alcázar de Jaén;España;Andalucía;Jaén;1928;;Heineken H.V.
+132;Mercadona;España;Comunidad Valenciana;Valencia;1977;www.mercadona.es;
+133;Lidl;Alemania;Baden-Wurtemberg;Neckarsulm;1973;;
+134;Cerex Brewing;España;Extremadura;Zarza de Granadilla;2013;cervezacerex.com;
+135;Eagle Brewery;Reino Unido;Inglaterra;Bedford;1976;eaglebrewery.co.uk;Holding Cervecero Damm
+136;Grupo Badbeers;España;Comunidad de Madrid;Torrejón de Velasco;2020;badbeers.com;
+137;MCJ Cerveceros Portuenses;España;Andalucía;El Puerto de Santa María;;;
+138;Tsingtao Brewery;China;Shandong;Qingdao;1903;www.tsingtao.es;
+139;United Dutch Breweries;Países Bajos;Brabante Septentrional;Breda;1538;www.uniteddutchbreweries.com;
+140;Dougalls;España;Cantabria;Liérganes;2006;www.dougalls.es;
+141;Perkins;España;Murcia;Molina de Segura;2020;www.perkinsgenuine.com;
+142;Brasserie Champigneulles;Francia;Lorena;Champigneulles;1897;brasserie-champigneulles.fr;TCB Beverages
+143;Obolon;Ucrania;Óblast de Kiev;Kiev;1980;www.obolon.ua;
+144;De Brabandere;Bélgica;Flandes;Bavikhove;1894;www.brouwerijdebrabandere.be;

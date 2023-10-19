@@ -1,0 +1,42 @@
+[
+    {
+        "name": "ID",
+        "type": "INTEGER",
+        "mode": "REQUIRED"
+    },
+    {
+        "name": "Nombre",
+        "type": "STRING",
+        "mode": "REQUIRED"
+    },
+    {
+        "name": "País",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "Región",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "Ciudad",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "Fundación",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "URL",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "Empresa matriz",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    }
+]
