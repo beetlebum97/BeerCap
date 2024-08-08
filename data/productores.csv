@@ -12,7 +12,7 @@ ID;NOMBRE;PAÍS;REGIÓN;CIUDAD;FUNDACIÓN;URL;EMPRESA MATRIZ
 11;Brouwerij Artois;Bélgica;Flandes;Lovaina;1366;;AB InBev
 12;Heineken International;Países Bajos;Holanda Septentrional;Amsterdam;1864;www.theheinekencompany.com;Heineken H.V.
 13;Anheuser-Busch;Estados Unidos;Missouri;San Luis;1852;www.anheuser-busch.com;AB InBev
-14;La Sagra;España;Castilla-La Mancha;Numancia de la Sagra;2011;www.cervezalasagra.es;
+14;La Sagra;España;Castilla-La Mancha;Numancia de la Sagra;2011;www.cervezalasagra.es;Molson Coors
 15;BrewDog;Reino Unido;Escocia;Ellon;2007;www.brewdog.com;
 16;Cruzcampo;España;Andalucía;Sevilla;1904;www.cruzcampo.es;Heineken H.V.
 17;Guinness Brewery;Irlanda;Leinster;Dublin;1759;ww.guinness-storehouse.com;Diageo
@@ -52,7 +52,7 @@ ID;NOMBRE;PAÍS;REGIÓN;CIUDAD;FUNDACIÓN;URL;EMPRESA MATRIZ
 51;Timmermans;Bélgica;Flandes;Itterbeek;1702;brtimmermans.be;John Martin S.A.
 52;Brouwerij Bourgogne des Flandres;Bélgica;Flandes;Brujas;1911;www.bourgognedesflandres.be;John Martin S.A.
 53;La Cibeles;España;Comunidad de Madrid;Madrid;2011;cervezaslacibeles.com;
-54;La Virgen;España;Comunidad de Madrid;Las Rozas;2011;www.cervezaslavirgen.com;
+54;La Virgen;España;Comunidad de Madrid;Las Rozas;2011;www.cervezaslavirgen.com;AB InBev
 55;Cervezas 1906;España;Galicia;La Coruña;1993;cervezas1906.es;Hijos de Rivera, S.A.
 56;Font Salem;España;Comunidad Valenciana;Valencia;;www.fontsalem.com;Holding Cervecero Damm
 57;Warsteiner Brauerei;Alemania;Renania del Norte-Westfalia;Warstein;1753;www.warsteiner.com;
@@ -143,3 +143,19 @@ ID;NOMBRE;PAÍS;REGIÓN;CIUDAD;FUNDACIÓN;URL;EMPRESA MATRIZ
 142;Brasserie Champigneulles;Francia;Lorena;Champigneulles;1897;brasserie-champigneulles.fr;TCB Beverages
 143;Obolon;Ucrania;Óblast de Kiev;Kiev;1980;www.obolon.ua;
 144;De Brabandere;Bélgica;Flandes;Bavikhove;1894;www.brouwerijdebrabandere.be;
+145;Schnitzer Bräu;Alemania;Baden-Wurtemberg;Offenburg;;www.schnitzer.eu;
+146;Liefmans;Bélgica;Flandes;Oudenaarde;1679;www.liefmans.com;Duvel Moortgat
+147;Arriaca Cervezas;España;Castilla-La Mancha;Yunquera de Henares;2014;arriaca.es;
+148;Gastro Beer Company;España;Castilla-La Mancha;Mota del Cuervo;2014;cervezagastro.com;
+149;Brasserie Goudale;Francia;Alta Francia;Arques;1919;brasserie-goudale.com;
+150;Baeren Bier;Japón;Iwate;Morioka;2001;www.baerenbier.co.jp;
+151;iKi Beer;Países Bajos;Brabante Septentrional;Bolduque;2005;www.ikibeer.com;
+152;Jever;Alemania;Baja Sajonia;Jever;1848;www.jever.de;Radeberger Gruppe
+153;Brouwerij Westmalle;Bélgica;Provincia de Amberes;Malle;1836;www.trappistwestmalle.be;Abdij van Westmalle
+154;Brasserie d'Orval;Bélgica;Provincia de Luxemburgo;Villers-devant-Orval;1931;www.orval.be;
+155;Mount St Bernard Abbey;Reino Unido;Inglaterra;Coalville;1835;www.mountsaintbernard.org;
+156;Saku Brewery;Estonia;Harju;Saku;1820;saku.ee/et/international;Carlsberg Group
+157;Pühaste Brewery;Estonia;Tartu;Pühaste;2016;puhastebeer.com;
+158;Martin's;Bélgica;Flandes;Antwerp;1909;;John Martin S.A.
+159;La Claudia Italia;España;Comunidad Valenciana;Oliva;2014;www.krdrinks.com;KR Drinks
+160;Nómada Brewing;España;Guadalajara;Alovera;2011;www.nomadabrewing.com;Mahou-San Miguel

@@ -1,312 +1,362 @@
-ID;CERVEZA;AÑO;COLOR;FABRICANTE;OBTURADOR;INSCRIPCIÓN;ESTADO;REPETIDA;FORMATO;REGISTRO
-1;Mahou Cinco Estrellas;2019;Rojo;U;05;R6460 BO 12 24 ;Regular;SI;25cl;
-2;San Miguel Fresca;2019;Oro;cp;2;R-4022 BO;Bueno;SI;33cl;
-3;Desperados Mojito;2019;Verde;dap;13;18;Perfecto;NO;33cl;
-4;Desperados Original;2019;Oro;dap;03;21;Regular;NO;33cl;
-5;Corona Extra;2019;Blanco;Z;0 11;LPVC 27-4;Bueno;NO;33cl;
-6;Asahi Super Dry;2019;Negro;dap;25;9;Malo;NO;33cl;
-7;Mahou Barrica Original;2019;Crudo;U;21;R-6498 BO 4 8 ;Bueno;SI;33cl;
-8;Mahou Maestra;2019;Azul;cp;24;R-7729 BO 10 ;Bueno;SI;33cl;
-9;Voll-Damm;2019;Verde;U;17;KC00806 BO 21 ;Bueno;NO;25cl;
-10;Judas;2019;Negro;cp;04;40026533 26;Regular;SI;33cl;
-11;Blue Moon Belgian White;2019;Azul;dap;13;7063902 16;Bueno;SI;33cl;
-12;Grimbergen Blonde;2018;Oro;cp;373;11706820 25;Regular;NO;33cl;
-13;Grimbergen Double Ambreé;2018;Cobre;cp;18;11706822 10;Regular;NO;33cl;
-14;Paulaner Weissbier;2018;Blanco;RRK;22;17 23 35/18;Regular;NO;50cl;
-15;Franziskaner Premium Weissbier;2018;Oro;HB;B25;51160450 18;Bueno;NO;50cl;
-16;Stella Artois;2018;Blanco;HB;15;51159587 24;Regular;NO;33cl;
-17;Heineken;2018;Plata;dap;11;53625683 4;Bueno;SI;33cl;
-18;Budweiser;2019;Rojo;astir;16;51200968 8-1;Bueno;NO;33cl;
-19;Madrí;2018;Rojo;Sin fabricante;;;Regular;NO;33cl;
-20;BrewDog Indie;2019;Gris;HB;17;14;Perfecto;NO;33cl;
-21;Cruzcampo Gran Reserva;2019;Negro;dap;06;05.36.25.718 21;Regular;NO;33cl;
-22;Mahou Maestra Dunkel;2019;Marrón;U;18;R8096 BO 2 16;Regular;NO;33cl;
-23;Guinness Original;2019;Crudo;dap;17;334114 16;Bueno;NO;33cl;
-24;Desperados Sangre;2019;Cobre;dap;27;1;Bueno;NO;33cl;
-25;Löwenbräu Original;2019;Oro;HB;B11;51160452 18;Bueno;SI;33cl;
-26;Paulaner Salvator;2019;Oro;dap;06;26;Perfecto;NO;50cl;
-27;Pilsner Urquell;2019;Oro;dap;12;16;Perfecto;NO;33cl;
-28;Mahou Barrica Bourbon;2019;Verde;cp;;R-6718 BO 24;Perfecto;SI;33cl;
-29;Inedit Damm;2019;Negro;U;15;KC 004404 BO 2 20;Bueno;SI;33cl;
-30;Pacífico Clara;2019;Amarillo;Z;F 19;LPVC 15-9;Bueno;SI;33cl;
-31;A. K. Damm;2019;Oro;U;17;KC 01201 BO 5 1;Bueno;NO;33cl;
-32;Sezoens Blond;2019;Blanco;cp;;VAK0120 4;Bueno;NO;33cl;
-33;Leffe Triple;2019;Marrón;HB;17;50212997 23;Bueno;NO;33cl;
-34;Alhambra Reserva 1925;2019;Verde;U;05;R6503 BO 4 6;Regular;NO;33cl;
-35;Krombacher Pils;2019;Blanco;RRK;15;22 05 20/19;Bueno;NO;33cl;
-36;Moritz Epidor;2019;Rojo;U;11;12;Bueno;NO;33cl;
-37;Stella Artois;2019;Oro;HB;01;51216819;Regular;NO;33cl;
-38;San Miguel Manila;2019;Negro;U;09;R6706 BO 2 2;Bueno;NO;33cl;
-39;Heineken;2019;Verde;dap;30;53625727;Bueno;SI;33cl;
-40;El Águila Sin Filtrar;2019;Azul;cp;;05.36.25.721 9;Bueno;NO;33cl;
-41;Grimbergen Double Ambreé;2020;Cobre;cp;16;312881 19;Bueno;NO;33cl;
-42;Delirium Tremens;2019;Azul;Sin fabricante;01;;Perfecto;NO;33cl;
-43;Cruzcampo Trigo;2019;Negro;dap;16;05.36.25.722 9;Bueno;NO;33cl;
-44;Brugse Zot Dubbel;2019;Cobre;HB;47;;Bueno;NO;33cl;
-45;La Chouffe Blonde;2019;Amarillo;dap;18;27;Perfecto;NO;33cl;
-46;Birra Moretti Recetta Originale;2019;Marrón;dap;28;4;Bueno;NO;33cl;
-47;San Miguel Selecta;2019;Oro;cp;371;R-5675 BO 14;Bueno;NO;33cl;
-48;Malquerida;2019;Blanco;U;27;KC 06602 BO 2 5;Bueno;NO;33cl;
-49;Quilmes Clásica;2019;Oro;C;L319;21-13;Bueno;NO;33cl;
-50;Innis & Gunn Blood Red Skin;2019;Negro;dap;08;6;Bueno;NO;33cl;
-51;Innis & Gunn The Original;2019;Rojo;dap;9;17;Perfecto;NO;33cl;
-52;Innis & Gunn Gunpowder IPA;2019;Blanco;dap;23;3;Bueno;NO;33cl;
-53;Mahou Clásica;2019;Verde;U;15;R6463 BO 3;Bueno;SI;25cl;
-54;Hop House 13;2019;Blanco;dap;11;3105416684 5;Perfecto;NO;33cl;
-55;Miller Genuine Draft;2019;Negro;cp;22;26;Bueno;NO;33cl;
-56;Cubanisto;2019;Negro;HB;70;51188618 17;Bueno;NO;33cl;
-57;Sol;2019;Oro;HB;20;2;Perfecto;NO;33cl;
-58;DAB Export;2019;Verde;RRK;17;901 14/19;Bueno;NO;33cl;
-59;Mahou Barrica 12 Meses;2019;Negro;U;03;R-6509 BO 1 12;Bueno;NO;33cl;
-60;Guinness Original Extra Stout;2019;Rojo;dap;13;VAK18225 3105459513 27;Bueno;NO;33cl;
-61;Chimay Rouge;2019;Rojo;cp;;;Bueno;NO;33cl;
-62;La Trappe Dubbel;2020;Crudo;Unibox;12;14537 9;Perfecto;NO;33cl;
-63;Lagunitas IPA;2020;Oro;Crown;08;7-13;Perfecto;NO;33cl;
-64;Complot IPA;2020;Verde;U;33;KC07001 BO 2;Perfecto;NO;33cl;
-65;Hoegaarden Wit;2020;Azul;HB;8;51144914 7;Perfecto;SI;33cl;
-66;Sierra Nevada Pale Ale;2020;Verde;Crown;06;8-6;Perfecto;NO;33cl;
-67;Sierra Nevada Torpedo Extra IPA;2020;Verde;Crown;04;2-19;Perfecto;NO;33cl;
-68;Toro;2020;Negro;U;10;21;Bueno;NO;33cl;
-69;Staropramen Premium;2020;Crudo;cp;02;;Perfecto;NO;33cl;
-70;Super Bock Original;2020;Rojo;Unibox;B22;;Perfecto;NO;33cl;
-71;Guinness Draught;2020;Negro;dap;17;3105433225 7;Perfecto;NO;33cl;
-72;Mahou Cinco Estrellas Session IPA;2020;Blanco;U;13;R8859 BO 26;Perfecto;NO;33cl;
-73;Sierra Nevada Torpedo Tropical IPA;2020;Plata;Crown;;5-8;Perfecto;NO;33cl;
-74;Daura;2020;Rojo;U;07;KCO4205 BO 8 26;Bueno;NO;33cl;
-75;Pinkus Demeter Müller’s Lagerbier;2020;Crudo;RRK;16;7 25 18/19;Malo;NO;50cl;
-76;Kirin Ichiban;2020;Crudo;dap;05;;Perfecto;NO;33cl;
-77;Tiger;2020;Azul;dap;36;5159 4;Perfecto;NO;33cl;
-78;Vogelsberger Naturtrüb Bio Radler;2020;Oro;HB;37;;Bueno;NO;50cl;
-79;Benediktinerabtei Plankstetten Dinkel;2020;Oro;HB;30;4;Regular;NO;50cl;
-80;Affligem Dubbel;2020;Azul;cp;27;40013100 15;Regular;NO;33cl;
-81;Weltenburger Kloster Helle Weiße;2020;Plata;RRK;01;3 09 28/19;Regular;NO;50cl;
-82;Hofbräu München Weisse;2020;Plata;HB;10;11;Bueno;NO;50cl;
-83;La Trappe Isid'or;2020;Crudo;Unibox;7;;Bueno;NO;33cl;
-84;La Trappe Quadrupel;2020;Crudo;Unibox;16;14538 17;Perfecto;NO;33cl;
-85;Waterloo Triple Blonde;2020;Rojo;HB;25;24;Bueno;NO;33cl;
-86;Timmermans Kriek Lambicus;2020;Rojo;HB;21;;Regular;NO;33cl;
-87;Bourgogne des Flandres;2020;Oro;BL;03;14;Perfecto;NO;33cl;
-88;Burro de Sancho Rubia;2020;Blanco;GMP;13;23;Bueno;NO;33cl;
-89;La Cibeles Rubia;2020;Blanco;cp;03;16;Bueno;SI;33cl;
-90;Madrid Lager;2020;Marrón;U;1;23;Regular;NO;33cl;
-91;1906 Red Vintage;2020;Rojo;Unibox;A27;10;Perfecto;SI;33cl;
-92;Jamonera;2020;Marrón;U;07;13;Bueno;NO;33cl;
-93;Desperados Lima;2020;Verde;dap;20;5207 4;Perfecto;NO;33cl;
-94;San Miguel 1516;2020;Oro;cp;;R-5718 BO 17;Perfecto;SI;33cl;
-95;Argus Reserva 1844;2020;Negro;U;11;KC6BEAG7 2;Perfecto;NO;33cl;
-96;1906 Reserva Especial;2020;Negro;Unibox;A28;10;Bueno;SI;33cl;
-97;Bock Damm;2020;Negro;U;27;KC 01805 BO 2 7;Perfecto;NO;33cl;
-98;Warsteiner Premium Beer;2020;Oro;DKF;39-33;3-15;Regular;SI;33cl;
-99;Cusqueña Negra;2020;Negro;PPP;07;27;Perfecto;NO;33cl;
-100;Presidente;2020;Oro;Sin fabricante;4;3-23;Perfecto;NO;33cl;
-101;Dos Equis Lager;2020;Verde;Crown;19;1-19;Perfecto;NO;33cl;
-102;Founders All Day IPA;2020;Negro;astir;A 07;16-5;Bueno;SI;33cl;
-103;Brooklyn Lager;2020;Plata;Crown;04;2-18;Perfecto;NO;33cl;
-104;Cusqueña Dorada;2020;Oro;PPP;08;20;Perfecto;NO;33cl;
-105;Club Colombia Dorada;2020;Oro;B 1;17;8-17;Perfecto;NO;33cl;
-106;Spaten Münchner Hell ;2020;Blanco;Unibox;A19;51188790;Perfecto;NO;50cl;
-107;Altvater Weissbierbock;2020;Beige;RRK;24;21 21 12/18;Perfecto;NO;50cl;
-108;Amstel Oro;2020;Gris;cp;;053625698 25;Regular;SI;33cl;
-109;La Salve Munich;2020;Oro;U;00;20;Bueno;NO;33cl;
-110;Oro Bilbao;2020;Oro;U;20;KC80503 BO 1 26;Bueno;SI;33cl;
-111;Mort Subite Kriek Lambic;2020;Negro;cp;05;40016371 16;Bueno;NO;33cl;
-112;Desperados Mojito;2020;Verde;dap;09;053625733 24;Perfecto;NO;33cl;
-113;Chang Classic;2020;Verde;Crown;24;374;Perfecto;NO;33cl;
-114;Sandels 5.3%;2020;Crudo;FK;22;22;Perfecto;NO;33cl;
-115;O'Hara's Irish Red;2020;Oro;cp;28;12;Bueno;NO;33cl;
-116;O'Hara's Irish Stout;2020;Negro;cp;14;14;Bueno;NO;33cl;
-117;12·70 Lager;2020;Negro;astir;B 16;;Bueno;SI;33cl;
-118;Chimay Bleue;2020;Azul;dap;04;12;Bueno;NO;33cl;
-119;Erdinger Weissbier;2020;Oro;dap;08;5;Perfecto;NO;33cl;
-120;Bischofshof Hefe-Weissbier Dunkel;2020;Blanco;RRK;09;3 26 40/19;Perfecto;NO;50cl;
-121;Cumberland Golden Beer;2020;Gris;astir;20;82340 4-9;Perfecto;NO;33cl;
-122;Hobgoblin Ruby;2020;Azul;astir;A 06;82014 9-22;Perfecto;NO;50cl;
-123;McEwan's Levy;2020;Oro;dap;10;74512 11;Bueno;NO;50cl;
-124;Razorback;2020;Negro;astir;A 08;60884 19-18;Regular;NO;50cl;
-125;Pedigree;2020;Negro;astir;B 06;60559 17-6;Bueno;NO;50cl;
-126;Lancaster Bomber;2020;Plata;astir;B 14;;Regular;NO;33cl;
-127;Burro de Sancho Rubia;2020;Negro;cp;23;25;Bueno;NO;33cl;
-128;San Miguel Selecta;2020;Marrón;U;11;R9214 BO 23;Perfecto;SI;33cl;
-129;Ambar 1900;2020;Verde;U;21;21;Bueno;NO;33cl;
-130;Alhambra Especial;2020;Blanco;U;17;R7011 BO 5 9;Bueno;SI;33cl;
-131;Grimbergen Belgian Pale Ale;2020;Verde;cp;24;317697 13;Perfecto;SI;33cl;
-132;The Brale;2020;Negro;DKF;38-31;7-16;Perfecto;NO;33cl;
-133;San Miguel Magna;2020;Verde;U;23;R8468 BO 3 19;Perfecto;SI;33cl;
-134;Desperados Ginger;2020;Verde;dap;01;5192 21;Perfecto;NO;33cl;
-135;Especialidades 1897 Trigo;2020;Oro;RRK;08;18 20 04/20;Bueno;NO;33cl;
-136;Grimbergen Blonde;2020;Oro;cp;17;317568 6;Bueno;SI;33cl;
-137;Camaro;2020;Azul;dap;02;21;Bueno;NO;33cl;
-138;Ambar Export;2020;Azul;U;13;10;Bueno;NO;33cl;
-139;La Sagra Calabaza y Canela;2020;Negro;cp;MK 18;9;Perfecto;NO;33cl;
-140;Carlsberg;2020;Verde;cp;20;19;Perfecto;SI;33cl;
-141;Alhambra Reserva Esencia Citra IPA;2020;Amarillo;U;13;R9121 BO 27;Bueno;NO;33cl;
-142;Blanche De Charleroi;2020;Azul;U;12;16;Perfecto;NO;33cl;
-143;Te Deum Amber;2021;Rojo;BL;10;9;Perfecto;NO;33cl;
-144;Erdinger Weissbier Dunkel;2021;Violeta;RRK;23;15 09 23/20;Perfecto;NO;50cl;
-145;Abbaye D'Aulne Blonde;2021;Oro;U;21;13;Perfecto;SI;33cl;
-146;Alhambra Baltic Porter;2021;Negro;U;34;R8052 BO 22;Bueno;NO;33cl;
-147;Grevensteiner Original;2021;Blanco;RRK;12;5 27 28/20;Perfecto;NO;33cl;
-148;Budweiser Budvar Original;2021;Oro;cp;10;;Bueno;SI;33cl;
-149;Trappistes Rochefort 8;2021;Verde;DKF;32-27;6-16;Perfecto;NO;33cl;
-150;Brewdog Punk IPA;2021;Azul;Unibox;18;6;Perfecto;NO;33cl;
-151;Camden Pale Ale;2021;Blanco;U;03;4;Bueno;NO;33cl;
-152;Einstök Icelandic Toasted Porter;2021;Negro;HB;03;26;Malo;NO;33cl;
-153;Hoegaarden De Verboden Vrucht / Le Fruit Défendu;2021;Negro;HB;41;50197580 22;Regular;NO;33cl;
-154;Turia Märzen;2021;Negro;U;08;KC05502 BO 10 14;Bueno;SI;25cl;
-155;Weihenstephaner Hefeweissbier;2021;Blanco;dap;07;13;Bueno;NO;33cl;
-156;Hertog Jan Tripel;2021;Gris;Unibox;18;51223041;Bueno;NO;33cl;
-157;OXIT Blonde;2021;Blanco;Sin fabricante;31;;Bueno;NO;33cl;
-158;Ginette Bio Lager;2021;Azul;HB;22;51231945 24;Bueno;NO;33cl;
-159;312 Urban Wheat;2021;Negro;TC;L2 20;|19 13-16;Regular;NO;33cl;
-160;Modelo Especial;2021;Oro;Sin fabricante;F 23;LPVC 9-23;Regular;NO;33cl;
-161;Especialidades 1897 Gran Reserva;2021;Oro;cp;5;;Perfecto;SI;33cl;
-162;Hélécine Brune;2021;Oro;C.R.;01;3;Bueno;NO;33cl;
-163;Alhambra Barrica Ron Granadino;2021;Marrón;U;07;R8451 BO 12;Bueno;NO;33cl;
-164;Old Empire IPA;2021;Negro;astir;13;61312 13-18;Bueno;NO;50cl;
-165;Alhambra Reserva Roja;2021;Marrón;U;29;R6189 BO 4 20;Bueno;SI;33cl;
-166;Ambar IPA;2021;Blanco;U;35;23;Bueno;NO;33cl;
-167;Complot IPA;2021;Verde;U;02;KC07003 BO 1 3;Perfecto;NO;33cl;
-168;Carrefour Sensation Reserva;2021;Blanco;cp;18;12;Perfecto;NO;33cl;
-169;Pilsener;2021;Amarillo;O;30;16;Bueno;NO;33cl;
-170;Hatherwood Ginger Grizzly;2021;Naranja;astir;32;79145 3-14;Bueno;SI;33cl;
-171;Riedenburger Hefe-Weizen Hell;2021;Oro;HB;38;18;Bueno;NO;33cl;
-172;Monkey Mr. Pink;2021;Negro;Sin fabricante;32;;Regular;NO;33cl;
-173;NÓS Fox IPA;2021;Blanco;U;02;2;Bueno;SI;33cl;
-174;Domus Aurea;2021;Negro;dap;10;;Regular;NO;33cl;
-175;Maisel & Friends IPA;2021;Rojo;RRK;13;21 4 13/20;Regular;NO;33cl;
-176;Crafted for Lidl - Eureka Lager;2021;Negro;cp;02;;Regular;SI;33cl;
-177;Crafted for Lidl - Warrior;2021;Negro;cp;22;;Regular;SI;33cl;
-178;Guineu Dr. Calypso;2021;Negro;astir;A 08;23-2;Perfecto;SI;33cl;
-179;Tyris IPA;2021;Negro;astir;A 19;;Bueno;NO;33cl;
-180;La Socarrada;2021;Negro;U;02;;Regular;NO;33cl;
-181;Cerdos Voladores;2021;Rosa;U;19;26;Perfecto;NO;33cl;
-182;Maredsous Brune;2021;Marrón;RRK;06;13 04 16/21;Bueno;SI;33cl;
-183;Veltins Pilsener;2021;Blanco;HB;29;2;Perfecto;NO;33cl;
-184;Cobra Premium;2021;Amarillo;dap;19;7070095 18;Perfecto;NO;33cl;
-185;Chérie À La Framboise;2021;Blanco;U;27;13;Perfecto;NO;33cl;
-186;Vedett Extra White;2021;Blanco;RRK;23;14 02 38/20;Perfecto;NO;33cl;
-187;Lindemans Faro;2021;Oro;C.R.;22;8;Regular;SI;25cl;
-188;Schöfferhofer Hefeweizen Dunkel;2021;Oro;RRK;20;19 14 04/20;Bueno;NO;33cl;
-189;Tripel Karmeliet;2021;Crudo;dap;15;17;Perfecto;SI;33cl;
-190;Abbaye D'Aulne Ambrée;2021;Verde;U;17;1;Perfecto;NO;33cl;
-191;Abbaye D'Aulne Brune;2021;Marrón;U;22;24;Perfecto;NO;33cl;
-192;Abbaye D'Aulne Cuvée Royale;2021;Azul;U;07;12;Perfecto;NO;33cl;
-193;Madrí;2021;Blanco;dap;12;16;Perfecto;SI;33cl;
-194;New Yorker Fine Lager;2021;Azul;Unibox;3;3;Bueno;NO;33cl;
-195;15&30 IPA;2021;Oro;astir;06;9-20;Bueno;NO;33cl;
-196;Polar Pilsen;2021;Azul;U;34;R9978 BO 1 26;Bueno;NO;33cl;
-197;Ginger Beard;2021;Gris;astir;11;82015 8-14;Perfecto;NO;33cl;
-198;The Crafty Brewing Company Irish Pale Ale ;2021;Oro;dap;12;4;Perfecto;SI;33cl;
-199;Pilsner Urquell;2021;Oro;cp;02;;Perfecto;NO;33cl;
-200;Primátor Premium;2021;Blanco;RRK;16;16 22 44/20;Perfecto;NO;33cl;
-201;Abbaye D'Aulne Premier Cru;2021;Naranja;U;12;21;Perfecto;NO;33cl;
-202;Duvel;2021;Blanco;dap;14;9;Perfecto;NO;33cl;
-203;Primátor Weizen;2021;Blanco;RRK;7;2 06 11/21;Perfecto;NO;33cl;
-204;Super Bock Abadia;2021;Marrón;Unibox;R30;13;Bueno;NO;33cl;
-205;1906 Galician Irish Red Ale;2021;Azul;Unibox;A24;23;Bueno;SI;33cl;
-206;Chouffe Blanche;2021;Blanco;dap;13;22;Perfecto;NO;33cl;
-207;Duvel 6.66%;2021;Blanco;dap;14;3;Perfecto;NO;33cl;
-208;Kwak;2021;Marrón;BL;10;25;Perfecto;SI;33cl;
-209;Gulden Draak Classic;2021;Blanco;HB;01;9;Perfecto;SI;33cl;
-210;Estrella Damm;2021;Rojo;HB;29;KC02312 BO 2;Bueno;SI;33cl;
-211;Desperados Strawberry Margarita;2021;Verde;cp;21;40079762 22;Perfecto;NO;33cl;
-212;Coors Light;2021;Plata;dap;18;7070713 24;Bueno;NO;33cl;
-213;Tap 6: Mein Aventinus;2021;Oro;RRK;01;9 09 12/21;Perfecto;NO;33cl;
-214;Weltenburger Kloster Anno 1050;2021;Azul;RRK;01;10 15 09/21;Bueno;SI;50cl;
-215;Cusqueña Negra;2022;Negro;PPP;A07;5;Perfecto;NO;33cl;
-216;Maredsous Blond;2022;Cobre;RRK;03;16 15 14/21;Perfecto;NO;33cl;
-217;Brewdog Dead Pony Club;2022;Verde;Unibox;22;5;Perfecto;NO;33cl;
-218;Brugse Zot Blond;2022;Oro;HB;31;4;Perfecto;NO;33cl;
-219;Ambar 1900;2022;Verde;U;25;7;Bueno;NO;33cl;
-220;Super Bock Stout;2022;Negro;Unibox;B27;;Bueno;NO;33cl;
-221;18/70 La Rubia;2022;Plata;cp;18;05.36.25.729 25;Perfecto;NO;33cl;
-222;Brewdog Punk IPA;2022;Negro;Unibox;13;23;Perfecto;NO;33cl;
-223;Grimbergen Double Ambreé;2022;Cobre;cp;15;322987 24;Perfecto;NO;33cl;
-224;Sierra Nevada Torpedo Extra IPA;2022;Oro;Crown;L9 04;8-13;Perfecto;NO;33cl;
-225;Schöfferhofer Grapefruit Hefeweizen;2022;Plata;RRK;12;15 16 38/20;Bueno;SI;33cl;
-226;Chula IPA;2022;Negro;astir;24;3/17;Bueno;NO;33cl;
-227;Karlsbräu Helles;2022;Marrón;RRK;12;20 05 44/20;Perfecto;NO;33cl;
-228;Karlsbräu Kellerbier;2022;Marrón;RRK;12;21 03 23/21;Perfecto;NO;33cl;
-229;Victoria Málaga;2022;Multicolor;U;05;KC80607 BO 8 8;Perfecto;SI;25cl;
-230;Ambar 10;2022;Negro;U;14;14;Bueno;NO;33cl;
-231;Moritz Barcelona;2022;Amarillo;Unibox;A24;9;Bueno;NO;33cl;
-232;Oliba Green Beer;2022;Verde;U;;7;Perfecto;NO;33cl;
-233;Slash IPA;2022;Negro;cp;;24;Bueno;SI;33cl;
-234;Slash Red;2022;Negro;cp;;10;Bueno;SI;33cl;
-235;La Estrella de Galicia;2022;Oro;Unibox;A28;24;Perfecto;SI;33cl;
-236;Estrella Galicia Especial;2022;Negro;Unibox;9;6;Perfecto;SI;33cl;
-237;Rosita Original;2022;Amarillo;U;18;10;Perfecto;NO;33cl;
-238;The One IPA Americana;2022;Azul;Sin fabricante;B 15;;Regular;SI;33cl;
-239;Moritz Red IPA;2022;Negro;U;32;25;Bueno;NO;33cl;
-240;Te Deum Amber;2022;Rojo;U;08;18;Perfecto;NO;33cl;
-241;Madrí;2022;Blanco;dap;23;7071355 24;Perfecto;NO;33cl;
-242;15&30 Pilsner;2022;Oro;U;17;R10645 BO 5;Perfecto;NO;33cl;
-243;Franziskaner Premium Weissbier;2022;Oro;dap;16;51360231 22;Perfecto;NO;50cl;
-244;Grimbergen Blonde;2022;Oro;cp;03;322814 12;Perfecto;NO;33cl;
-245;The Crafty Brewing Company Irish Lager;2022;Oro;dap;2 4;24;Regular;SI;33cl;
-246;Greene King IPA;2022;Oro;Unibox;A02;P993066;Bueno;NO;50cl;
-247;Zerep Rubia;2022;Crudo;astir;11;15-19;Bueno;SI;33cl;
-248;Desperados Strawberry Margarita;2022;Rosa;cp;18;4085578 15;Perfecto;NO;33cl;
-249;Zerep Tostada;2022;Negro;TCI;;13;Bueno;NO;33cl;
-250;Mahou Negra;2010;Negro;TCI;12;R-2632 BO 8;Bueno;NO;33cl;
-251;Grimbergen Double Ambreé;2008;Marrón;TF;T;FL;Bueno;NO;33cl;
-252;Grimbergen Optimo Bruno;2008;Marrón;TF;T;FL;Perfecto;NO;33cl;
-253;Budweiser;1998;Blanco;TCI;Z;;Perfecto;NO;33cl;
-254;Budweiser;1999;Gris;TCI;T;;Perfecto;NO;33cl;
-255;Coors Gold;1999;Oro;TCI;;2;Perfecto;NO;33cl;
-256;Guinness Draught;2006;Negro;dap;1 3;332093 15 S;Bueno;NO;33cl;
-257;Coors Light;2020;Gris;dap;;70685599 6;Regular;NO;33cl;
-258;Hoegaarden Wit;2022;Blanco;HB;17;51180814 25;Perfecto;NO;33cl;
-259;Bischofshof Hefe-Weissbier Hell;2022;Rojo;RRK;97;11 21 28/21;Perfecto;NO;33cl;
-260;1906 Black Coupage;2022;Negro;Unibox;12;24;Perfecto;SI;33cl;
-261;Alhambra Tradicional;2022;Rojo;U;24;R7045 BO 2 8;Bueno;SI;25cl;
-262;Brutus The Beer;2022;Negro;U;18;R9139 BO 5;Bueno;NO;33cl;
-263;Heineken Silver;2022;Verde;cp;;05.36.25.744 27;Perfecto;SI;25cl;
-264;Mc Chouffe;2022;Amarillo;dap;21;14;Perfecto;NO;33cl;
-265;Estrella de Navidad;2022;Plata;Unibox;A15;;Perfecto;SI;33cl;
-266;Peroni Gran Riserva Doppio Malto;2023;Negro;dap;11;10;Bueno;NO;33cl;
-267;Vikingathor Boris Brew;2023;Negro;astir;01;25;Regular;NO;33cl;
-268;Pólvora Blue;2023;Naranja;astir;B 23;7 23;Perfecto;SI;33cl;
-269;Mascletà;2023;Naranja;astir;B 18;27 18;Perfecto;SI;33cl;
-270;Grimbergen Belgian Pale Ale;2023;Verde;cp;17;322945 22;Bueno;NO;33cl;
-271;Grimbergen Blanche;2023;Azul;cp;4;323050 9;Perfecto;NO;33cl;
-272;Ambar Especial;2023;Rojo;Unibox;6;4;Perfecto;SI;33cl;
-273;Schöfferhofer Hefeweizen;2023;Naranja;RRK;07;3 19 34/22;Bueno;NO;33cl;
-274;Hofbräu Original;2020;Oro;HB;07;26;Bueno;NO;33cl;
-275;Nastro Azzurro;2020;Blanco;dap;22;16;Bueno;SI;33cl;
-276;König Ludwig Weissbier Naturtrüb;2023;Blanco;DKF;36-23;22-26;Perfecto;NO;50cl;
-277;Leffe Blonde;2023;Oro;Unibox;B34;51224395;Regular;SI;33cl;
-278;Leffe Triple;2023;Oro;HB;32;;Bueno;NO;33cl;
-279;Leffe Brune;2023;Marrón;HB;40;;Regular;SI;33cl;
-280;Mahou Cinco Estrellas;1994;Oro;TCI;3383;3383 2;Malo;NO;25cl;
-281;Mahou Clásica;1994;Plata;TCI;Z;;Malo;NO;25cl;
-282;Heineken;1995;Verde;CCC;25;Lote-1;Malo;SI;33cl;
-283;Praga Premium Pils;2020;Blanco;cp;MK 1;4;Perfecto;SI;33cl;
-284;Argus Suave;2020;Blanco;U;13;KC6BNAG3 26;Perfecto;NO;33cl;
-285;El Alcázar;2023;Verde;dap;03;05.46.SP.475 4;Bueno;SI;33cl;
-286;Alhambra Lager Singular;2023;Amarillo;U;09;R10027 BO 2 10;Bueno;SI;25cl;
-287;Ambar Export;2023;Negro;U;35;;Bueno;SI;33cl;
-288;Ambar Morena;2023;Naranja;Unibox;4;20;Perfecto;SI;33cl;
-289;Cerex Pilsen;2023;Negro;Sin fabricante;B 18;;Bueno;SI;33cl;
-290;Alhambra Reserva 1925;2005;Verde;TCI;32;;Regular;NO;25cl;
-291;Stark Especial;2014;Rojo;dap;14;2;Regular;NO;33cl;
-292;Bombardier Amber Beer;2016;Multicolor;Unibox;10;23;Regular;NO;33cl;
-293;Patronus Premium Weissbier;2020;Oro;RRK;32;;Bueno;NO;33cl;
-294;Bernabeu Madrid;2023;Blanco;cp;24;6;Perfecto;NO;33cl;
-295;Caletera Tostada;2023;Negro;Sin fabricante;A 12;;Bueno;NO;33cl;
-296;San Miguel Eco;2023;Beige;U;16;R8778 BO 1 18;Perfecto;SI;25cl;
-297;Tsingtao;2023;Oro;Ziquan;14;18;Perfecto;NO;33cl;
-298;Monastère Blond;2023;Negro;cp;31;;Bueno;NO;33cl;
-299;IPA4;2023;Negro;U;8;21;Bueno;NO;33cl;
-300;Mahou Cinco Estrellas;2023;Oro;U;15;R10868 3 6;Malo;NO;33cl;
-301;Perkins Cerveza Rubia;2023;Blanco;astir;A 12;9-18;Perfecto;NO;33cl;
-302;Desperados Red;2023;Rojo;dap;19;05.36.25.764 21 9;Perfecto;NO;33cl;
-303;Alhambra Reserva 1925;2023;Verde;U;24;R10612 BO 2 25;Perfecto;NO;25cl;
-304;Mahou Cinco Estrellas Sin Gluten;2023;Rojo;U;4;R6470 BO 2 16;Bueno;NO;33cl;
-305;Cherry Chouffe;2023;Rojo;dap;13;22;Bueno;NO;33cl;
-306;Ramblers Weissbier;2023;Gris;dap;5;12 21;Bueno;NO;50cl;
-307;Ruddles Best;2023;Oro;Unibox;1;P993069 27;Perfecto;NO;50cl;
-308;Obolon Svitle;2023;Multicolor;cp;23;23;Perfecto;NO;50cl;
-309;Daura Marzën;2023;Verde;U;10;KC05802 BO 2 24;Regular;SI;33cl;
-310;Petrus Blond;2023;Negro;HB;27;11;Regular;SI;33cl;
-311;Voll-Damm;2023;Verde;U;10;KC00812 BO 3 9;Bueno;SI;25cl;
+ID;CERVEZA;AÑO;COLOR;FABRICANTE;OBTURADOR;INSCRIPCIÓN;ESTADO;REPETIDA;FORMATO;REGISTRO;IMAGEN
+1;Mahou Cinco Estrellas;2019;Rojo;U;05;R6460 BO 12 24 ;Regular;SI;25cl;;1_Mahou_Cinco_Estrellas_2019.jpg
+2;San Miguel Fresca;2019;Oro;cp;2;R-4022 BO;Bueno;SI;33cl;;2_San_Miguel_Fresca_2019.jpg
+3;Desperados Mojito;2019;Verde;dap;13;18;Perfecto;NO;33cl;;3_Desperados_Mojito_2019.jpg
+4;Desperados Original;2019;Oro;dap;03;21;Regular;NO;33cl;;4_Desperados_Original_2019.jpg
+5;Corona Extra;2019;Blanco;Z;0 11;LPVC 27-4;Bueno;NO;33cl;;5_Corona_Extra_2019.jpg
+6;Asahi Super Dry;2019;Negro;dap;25;9;Malo;NO;33cl;;6_Asahi_Super_Dry_2019.jpg
+7;Mahou Barrica Original;2019;Crudo;U;21;R-6498 BO 4 8 ;Bueno;SI;33cl;;7_Mahou_Barrica_Original_2019.jpg
+8;Mahou Maestra;2019;Azul;cp;24;R-7729 BO 10 ;Bueno;SI;33cl;;8_Mahou_Maestra_2019.jpg
+9;Voll-Damm;2019;Verde;U;17;KC00806 BO 21 ;Bueno;NO;25cl;;9_Voll-Damm_2019.jpg
+10;Judas;2019;Negro;cp;04;40026533 26;Regular;SI;33cl;;10_Judas_2019.jpg
+11;Blue Moon Belgian White;2019;Azul;dap;13;7063902 16;Bueno;SI;33cl;;11_Blue_Moon_Belgian_White_2019.jpg
+12;Grimbergen Blonde;2018;Oro;cp;373;11706820 25;Regular;NO;33cl;;12_Grimbergen Blonde_2018.jpg
+13;Grimbergen Double Ambreé;2018;Cobre;cp;18;11706822 10;Regular;NO;33cl;;13_Grimbergen_Double_Ambreé_2018.jpg
+14;Paulaner Weissbier;2018;Blanco;RRK;22;17 23 35/18;Regular;NO;50cl;;14_Paulaner_2018.jpg
+15;Franziskaner Premium Weissbier;2018;Oro;HB;B25;51160450 18;Bueno;NO;50cl;;15_Franziskaner_2018.jpg
+16;Stella Artois;2018;Blanco;HB;15;51159587 24;Regular;NO;33cl;;16_Stella_Artois_2018.jpg
+17;Heineken;2018;Plata;dap;11;53625683 4;Bueno;SI;33cl;;17_Heineken_2018.jpg
+18;Budweiser;2019;Rojo;astir;16;51200968 8-1;Bueno;NO;33cl;;18_Budweiser_2019.jpg
+19;Madrí Pilsner;2018;Rojo;Sin fabricante;;;Regular;NO;33cl;;19_Madrí_Pilsner_2018.jpg
+20;BrewDog Indie;2019;Gris;HB;17;14;Perfecto;NO;33cl;;20_BrewDog_Indie_2019jpg.jpg
+21;Cruzcampo Gran Reserva;2019;Negro;dap;06;05.36.25.718 21;Regular;NO;33cl;;21_Cruzcampo_Gran_Reserva_2019.jpg
+22;Mahou Maestra Dunkel;2019;Marrón;U;18;R8096 BO 2 16;Regular;NO;33cl;;22_Mahou_Maestra_Dunkel_2019.jpg
+23;Guinness Original;2019;Crudo;dap;17;334114 16;Bueno;NO;33cl;;23_Guinness_Original_2019.jpg
+24;Desperados Sangre;2019;Cobre;dap;27;1;Bueno;NO;33cl;;24_Desperados_Sangre_2019.jpg
+25;Löwenbräu Original;2019;Oro;HB;B11;51160452 18;Bueno;SI;33cl;;25_Löwenbräu_Original_2019.jpg
+26;Paulaner Salvator;2019;Oro;dap;06;26;Perfecto;NO;50cl;;26_Paulaner_Salvator_2019.jpg
+27;Pilsner Urquell;2019;Oro;dap;12;16;Perfecto;NO;33cl;;27_Pilsner_Urquell_2019.jpg
+28;Mahou Barrica Bourbon;2019;Verde;cp;;R-6718 BO 24;Perfecto;SI;33cl;;28_Mahou_Barrica_Bourbon_2019.jpg
+29;Inedit Damm;2019;Negro;U;15;KC 004404 BO 2 20;Bueno;SI;33cl;;29_Inedit_Damm_2019.jpg
+30;Pacífico Clara;2019;Amarillo;Z;F 19;LPVC 15-9;Bueno;SI;33cl;;30_Pacifico_Clara_2019.jpg
+31;A. K. Damm;2019;Oro;U;17;KC 01201 BO 5 1;Bueno;NO;33cl;;31_A.K._Damm_2019.jpg
+32;Sezoens Blond;2019;Blanco;cp;;VAK0120 4;Bueno;NO;33cl;;32_Sezoens_2019.jpg
+33;Leffe Triple;2019;Marrón;HB;17;50212997 23;Bueno;NO;33cl;;33_Leffe_Triple_2019.jpg
+34;Alhambra Reserva 1925;2019;Verde;U;05;R6503 BO 4 6;Regular;NO;33cl;;34_Alhambra_Reserva_1925_2019.jpg
+35;Krombacher Pils;2019;Blanco;RRK;15;22 05 20/19;Bueno;NO;33cl;;35_Krombacher_Pils_2019.jpg
+36;Moritz Epidor;2019;Rojo;U;11;12;Bueno;NO;33cl;;36_Moritz_Epidor_2019.jpg
+37;Stella Artois;2019;Oro;HB;01;51216819;Regular;NO;33cl;;37_Stella_Artois_2019_.jpg
+38;San Miguel Manila;2019;Negro;U;09;R6706 BO 2 2;Bueno;NO;33cl;;38_San_Miguel_Manila_2019_.jpg
+39;Heineken;2019;Verde;dap;30;53625727;Bueno;SI;33cl;;39_Heineken_2019_.jpg
+40;El Águila Sin Filtrar;2019;Azul;cp;;05.36.25.721 9;Bueno;NO;33cl;;40_El_Aguila_Especial_Sin_Filtrar_2019_.jpg
+41;Grimbergen Double Ambreé;2020;Cobre;cp;16;312881 19;Bueno;NO;33cl;;41_Grimbergen_Double_Ambrée_2019_.jpg
+42;Delirium Tremens;2019;Azul;Sin fabricante;01;;Perfecto;NO;33cl;;42_Delirium_Tremens_2019_.jpg
+43;Cruzcampo Trigo;2019;Negro;dap;16;05.36.25.722 9;Bueno;NO;33cl;;43_Cruzcampo_Trigo_2019_.jpg
+44;Brugse Zot Dubbel;2019;Cobre;HB;47;;Bueno;NO;33cl;;44_Brugse_Zot_Dubbel_2019_.jpg
+45;La Chouffe Blonde;2019;Amarillo;dap;18;27;Perfecto;NO;33cl;;45_La_Chouffe_Blonde_2019.jpg
+46;Birra Moretti Recetta Originale;2019;Marrón;dap;28;4;Bueno;NO;33cl;;46_Birra_Moretti_Recetta_Originale_2019.jpg
+47;San Miguel Selecta;2019;Oro;cp;371;R-5675 BO 14;Bueno;NO;33cl;;47_San_Miguel_Selecta_2019.jpg
+48;Malquerida;2019;Blanco;U;27;KC 06602 BO 2 5;Bueno;NO;33cl;;48_Malquerida_2019.jpg
+49;Quilmes Clásica;2019;Oro;C;L319;21-13;Bueno;NO;33cl;;49_Quilmes_Clásica_2019.jpg
+50;Innis & Gunn Blood Red Skin;2019;Negro;dap;08;6;Bueno;NO;33cl;;50_Innis&Gunn_Blood_Red_Skin_2019.jpg
+51;Innis & Gunn The Original;2019;Rojo;dap;9;17;Perfecto;NO;33cl;;51_Innis&Gunn_The_Original_2019.jpg
+52;Innis & Gunn Gunpowder IPA;2019;Blanco;dap;23;3;Bueno;NO;33cl;;52_Innis&Gunn_Gunpowder_IPA_2019.jpg
+53;Mahou Clásica;2019;Verde;U;15;R6463 BO 3;Bueno;SI;25cl;;53_Mahou_Clásica_2019.jpg
+54;Hop House 13;2019;Blanco;dap;11;3105416684 5;Perfecto;NO;33cl;;54_Hop_House_13_2019.jpg
+55;Miller Genuine Draft;2019;Negro;cp;22;26;Bueno;NO;33cl;;55_Miller_Genuine_Draft_2019.jpg
+56;Cubanisto;2019;Negro;HB;70;51188618 17;Bueno;NO;33cl;;56_Cubanisto_2019.jpg
+57;Sol;2019;Oro;HB;20;2;Perfecto;NO;33cl;;57_Sol_2019.jpg
+58;DAB Export;2019;Verde;RRK;17;901 14/19;Bueno;NO;33cl;;58_DAB_2019.jpg
+59;Mahou Barrica 12 Meses;2019;Negro;U;03;R-6509 BO 1 12;Bueno;NO;33cl;;59_Mahou_Barrica_12_Meses_2019.jpg
+60;Guinness Original Extra Stout;2019;Rojo;dap;13;VAK18225 3105459513 27;Bueno;NO;33cl;;60_Guinness_Original_Extra_Stout_2019.jpg
+61;Chimay Rouge;2019;Rojo;cp;;;Bueno;NO;33cl;;61_Chimay_Roja_2019.jpg
+62;La Trappe Dubbel;2020;Crudo;Unibox;12;14537 9;Perfecto;NO;33cl;;62_La_Trappe_Double_2020.jpg
+63;Lagunitas IPA;2020;Oro;Crown;08;7-13;Perfecto;NO;33cl;;63_Lagunitas_IPA_2020.jpg
+64;Complot IPA;2020;Verde;U;33;KC07001 BO 2;Perfecto;NO;33cl;;64_Complot_IPA_2019.jpg
+65;Hoegaarden Wit;2020;Azul;HB;8;51144914 7;Perfecto;SI;33cl;;65_Hoegaarden_Wit_Blanche_2020.jpg
+66;Sierra Nevada Pale Ale;2020;Verde;Crown;06;8-6;Perfecto;NO;33cl;;66_Sierra_Nevada_Pale_Ale_2020.jpg
+67;Sierra Nevada Torpedo Extra IPA;2020;Verde;Crown;04;2-19;Perfecto;NO;33cl;;67_Torpedo_Extra_IPA_2020.jpg
+68;Toro;2020;Negro;U;10;21;Bueno;NO;33cl;;68_Toro_Osborne_2020.jpg
+69;Staropramen Premium;2020;Crudo;cp;02;;Perfecto;NO;33cl;;69_Staropramen_Premium_2020.jpg
+70;Super Bock Original;2020;Rojo;Unibox;B22;;Perfecto;NO;33cl;;70_Super_Bock_2020.jpg
+71;Guinness Draught;2020;Negro;dap;17;3105433225 7;Perfecto;NO;33cl;;71_Guinness_Draught_Stout_2020.jpg
+72;Mahou Cinco Estrellas Session IPA;2020;Blanco;U;13;R8859 BO 26;Perfecto;NO;33cl;;72_Mahou_5_Estrellas_Session_IPA_2020.jpg
+73;Sierra Nevada Torpedo Tropical IPA;2020;Plata;Crown;;5-8;Perfecto;NO;33cl;;73_Sierra_Nevada_Torpedo_Tropical_2020.jpg
+74;Daura;2020;Rojo;U;07;KCO4205 BO 8 26;Bueno;NO;33cl;;74_Daura_Damm_2029.jpg
+75;Pinkus Demeter Müller’s Lagerbier;2020;Crudo;RRK;16;7 25 18/19;Malo;NO;50cl;;75_Pinkus_Muller_Demeter_Lagerbier_2020.jpg
+76;Kirin Ichiban;2020;Crudo;dap;05;;Perfecto;NO;33cl;;76_Kirin_Ichiban_2020.jpg
+77;Tiger;2020;Azul;dap;36;5159 4;Perfecto;NO;33cl;;77_Tiger_2020.jpg
+78;Vogelsberger Naturtrüb Bio Radler;2020;Oro;HB;37;;Bueno;NO;50cl;;78_Vogelsberger_Naturtrüb_Radler_2020.jpg
+79;Benediktinerabtei Plankstetten Dinkel;2020;Oro;HB;30;4;Regular;NO;50cl;;79_Benediktinerabtei_Plankstetten_2020.jpg
+80;Affligem Dubbel;2020;Azul;cp;27;40013100 15;Regular;NO;33cl;;80_Affligem_Dubbel_2020.jpg
+81;Weltenburger Kloster Helle Weiße;2020;Plata;RRK;01;3 09 28/19;Regular;NO;50cl;;81_Weltenburger_Kloster_Hefe-Weisbier_Hell_2020.jpg
+82;Hofbräu München Weisse;2020;Plata;HB;10;11;Bueno;NO;50cl;;82_Hofbräu_München_Münchner_Weisse_2020.jpg
+83;La Trappe Isid'or;2020;Crudo;Unibox;7;;Bueno;NO;33cl;;83_La_Trappe_Isid'Or_2020.jpg
+84;La Trappe Quadrupel;2020;Crudo;Unibox;16;14538 17;Perfecto;NO;33cl;;84_La_Trappe_Quadrupel_2020.jpg
+85;Waterloo Triple Blonde;2020;Rojo;HB;25;24;Bueno;NO;33cl;;85_Waterloo_Triple_Blonde_2020.jpg
+86;Timmermans Kriek Lambicus;2020;Rojo;HB;21;;Regular;NO;33cl;;86_Timmermans_Kriek_Lambicus_2020.jpg
+87;Bourgogne des Flandres;2020;Oro;BL;03;14;Perfecto;NO;33cl;;87_Bourgogne_des_Flandes_2020.jpg
+88;Burro de Sancho Rubia;2020;Blanco;GMP;13;23;Bueno;NO;33cl;;88_Burro_de_Sancho_2020.jpg
+89;La Cibeles Rubia;2020;Blanco;cp;03;16;Bueno;SI;33cl;;89_La_Cibeles_2020.jpg
+90;Madrid Lager;2020;Marrón;U;1;23;Regular;NO;33cl;;90_La_Virgen_Madrid_2020.jpg
+91;1906 Red Vintage;2020;Rojo;Unibox;A27;10;Perfecto;SI;33cl;;91_1906_Red_Vintage_2020.jpg
+92;Jamonera;2020;Marrón;U;07;13;Bueno;NO;33cl;;92_La_Virgen_Jamonera_2020.jpg
+93;Desperados Lima;2020;Verde;dap;20;5207 4;Perfecto;NO;33cl;;93_Desperados_Lima_2020.jpg
+94;San Miguel 1516;2020;Oro;cp;;R-5718 BO 17;Perfecto;SI;33cl;;94_San_Miguel_1516_2020.jpg
+95;Argus Reserva 1844;2020;Negro;U;11;KC6BEAG7 2;Perfecto;NO;33cl;;95_Argus_Reserva_1844_Lidl_2020.jpg
+96;1906 Reserva Especial;2020;Negro;Unibox;A28;10;Bueno;SI;33cl;;96_1906_Reserva_Especial_2020.jpg
+97;Bock Damm;2020;Negro;U;27;KC 01805 BO 2 7;Perfecto;NO;33cl;;97_Bock_Damm_2020.jpg
+98;Warsteiner Premium Beer;2020;Oro;DKF;39-33;3-15;Regular;SI;33cl;;98_Warsteiner_Premium_2020.jpg
+99;Cusqueña Negra;2020;Negro;PPP;07;27;Perfecto;NO;33cl;;99_Cusqueña_Negra_2020.jpg
+100;Presidente;2020;Oro;Sin fabricante;4;3-23;Perfecto;NO;33cl;;100_Presidente_2020.jpg
+101;Dos Equis Lager;2020;Verde;Crown;19;1-19;Perfecto;NO;33cl;;101_Dos_Equis_Lager_Especial_2020.jpg
+102;Founders All Day IPA;2020;Negro;astir;A 07;16-5;Bueno;SI;33cl;;102_Founders_All_Day_IPA_Session_ALE_2020.jpg
+103;Brooklyn Lager;2020;Plata;Crown;04;2-18;Perfecto;NO;33cl;;103_Brooklyn_Lager_2020.jpg
+104;Cusqueña Dorada;2020;Oro;PPP;08;20;Perfecto;NO;33cl;;104_Cusqueña_Dorada_2020.jpg
+105;Club Colombia Dorada;2020;Oro;B 1;17;8-17;Perfecto;NO;33cl;;105_Club_Colombia_Dorada_2020.jpg
+106;Spaten Münchner Hell ;2020;Blanco;Unibox;A19;51188790;Perfecto;NO;50cl;;106_Spaten_2020.jpg
+107;Altvater Weissbierbock;2020;Beige;RRK;24;21 21 12/18;Perfecto;NO;50cl;;107_Altvater_Weissbierbock_2020.jpg
+108;Amstel Oro;2020;Gris;cp;;053625698 25;Regular;SI;33cl;;108_Amstel_Oro_Dorada_2020.jpg
+109;La Salve Munich;2020;Oro;U;00;20;Bueno;NO;33cl;;109_La_Salve_Bilbao_Munich_2020.jpg
+110;Oro Bilbao;2020;Oro;U;20;KC80503 BO 1 26;Bueno;SI;33cl;;110_Oro_Bilbao_2020.jpg
+111;Mort Subite Kriek Lambic;2020;Negro;cp;05;40016371 16;Bueno;NO;33cl;;111_Mort_Subite_Kriek_Lambic_2020.jpg
+112;Desperados Mojito;2020;Verde;dap;09;053625733 24;Perfecto;NO;33cl;;112_Desperados_Mojito_2020.jpg
+113;Chang Classic;2020;Verde;Crown;24;374;Perfecto;NO;33cl;;113_Chang_Classic_2020.jpg
+114;Sandels 5.3%;2020;Crudo;FK;22;22;Perfecto;NO;33cl;;114_Sandels_Premium_2020.jpg
+115;O'Hara's Irish Red;2020;Oro;cp;28;12;Bueno;NO;33cl;;115_O'Hara's_Irish_Red_2020.jpg
+116;O'Hara's Irish Stout;2020;Negro;cp;14;14;Bueno;NO;33cl;;116_O'Hara's_Irish_Stout_2020.jpg
+117;12·70 Lager;2020;Negro;astir;B 16;;Bueno;SI;33cl;;117_1270_Premium_Lager_2020.jpg
+118;Chimay Bleue;2020;Azul;dap;04;12;Bueno;NO;33cl;;118_Chimay_Azul_2020.jpg
+119;Erdinger Weissbier;2020;Oro;dap;08;5;Perfecto;NO;33cl;;119_Erdinger_Weissbräu_2020.jpg
+120;Bischofshof Hefe-Weissbier Dunkel;2020;Blanco;RRK;09;3 26 40/19;Perfecto;NO;50cl;;120_Bischofshof_Hefe-Weissbier_Dunkel_2020.jpg
+121;Cumberland Golden Beer;2020;Gris;astir;20;82340 4-9;Perfecto;NO;33cl;;121_Cumberland_Golden_Beer_2020.jpg
+122;Hobgoblin Ruby;2020;Azul;astir;A 06;82014 9-22;Perfecto;NO;50cl;;122_Wychwood_Hobgoblin_Legendary_Ruby_2020.jpg
+123;McEwan's Levy;2020;Oro;dap;10;74512 11;Bueno;NO;50cl;;123_McEwan's_Levy_2020.jpg
+124;Razorback;2020;Negro;astir;A 08;60884 19-18;Regular;NO;50cl;;124_Ringwood_Razoback_Craft_Ale_2020.jpg
+125;Pedigree;2020;Negro;astir;B 06;60559 17-6;Bueno;NO;50cl;;125_Marston's_Pedigree_2020.jpg
+126;Lancaster Bomber;2020;Plata;astir;B 14;;Regular;NO;33cl;;126_Lancaster_Bomber_2020.jpg
+127;Burro de Sancho Rubia;2020;Negro;cp;23;25;Bueno;NO;33cl;;127_La_Sagra_Sancho_2020.jpg
+128;San Miguel Selecta;2020;Marrón;U;11;R9214 BO 23;Perfecto;SI;33cl;;128_San_Miguel_Selecta_2020.jpg
+129;Ambar 1900;2020;Verde;U;21;21;Bueno;NO;33cl;;129_Ambar_1900_Pale_Ale_2020.jpg
+130;Alhambra Especial;2020;Blanco;U;17;R7011 BO 5 9;Bueno;SI;33cl;;130_Alhambra_Especial_2020.jpg
+131;Grimbergen Belgian Pale Ale;2020;Verde;cp;24;317697 13;Perfecto;SI;33cl;;131_Grimbergen_Belgian_Pale_Ale_2020.jpg
+132;The Brale;2020;Negro;DKF;38-31;7-16;Perfecto;NO;33cl;;132_Braufactum_The_Brale_2020.jpg
+133;San Miguel Magna;2020;Verde;U;23;R8468 BO 3 19;Perfecto;SI;33cl;;133_San_Miguel_Magna_2020.jpg
+134;Desperados Ginger;2020;Verde;dap;01;5192 21;Perfecto;NO;33cl;;134_Desperados_Ginger_2020.jpg
+135;Especialidades 1897 Trigo;2020;Oro;RRK;08;18 20 04/20;Bueno;NO;33cl;;135_Especialidades_1897_Trigo_Mercadona_2020.jpg
+136;Grimbergen Blonde;2020;Oro;cp;17;317568 6;Bueno;SI;33cl;;136_Grimbergen_Blonde_2020.jpg
+137;Camaro;2020;Azul;dap;02;21;Bueno;NO;33cl;;137_Camaro_Lidl_2020.jpg
+138;Ambar Export;2020;Azul;U;13;10;Bueno;NO;33cl;;138_Ambar_Export_2020.jpg
+139;La Sagra Calabaza y Canela;2020;Negro;cp;MK 18;9;Perfecto;NO;33cl;;139_La_Sagra_Calabaza-Canela_Pumpkin_Ale_2020.jpg
+140;Carlsberg;2020;Verde;cp;20;19;Perfecto;SI;33cl;;140_Carlsberg_2020.jpg
+141;Alhambra Reserva Esencia Citra IPA;2020;Amarillo;U;13;R9121 BO 27;Bueno;NO;33cl;;141_Alhambra_Reserva_Esencia_IPA_2020.jpg
+142;Blanche De Charleroi;2020;Azul;U;12;16;Perfecto;NO;33cl;;142_Blanche_De_Charleroi_2020.jpg
+143;Te Deum Amber;2021;Rojo;BL;10;9;Perfecto;NO;33cl;;143_Te_Deum_Amber_Especial_Roja_2021.jpg
+144;Erdinger Weissbier Dunkel;2021;Violeta;RRK;23;15 09 23/20;Perfecto;NO;50cl;;144_Erdinger_Weissbräu_Dunkel_2021.jpg
+145;Abbaye D'Aulne Blonde;2021;Oro;U;21;13;Perfecto;SI;33cl;;145_Abbaye_D'Aulne_Blonde_2021.jpg
+146;Alhambra Baltic Porter;2021;Negro;U;34;R8052 BO 22;Bueno;NO;33cl;;146_Alhambra_Baltic_Porter_2021.jpg
+147;Grevensteiner Original;2021;Blanco;RRK;12;5 27 28/20;Perfecto;NO;33cl;;147_Grevensteiner_C&A_Veltins_2021.jpg
+148;Budweiser Budvar Original;2021;Oro;cp;10;;Bueno;SI;33cl;;148_Budejovicky_Budvar_2021.jpg
+149;Trappistes Rochefort 8;2021;Verde;DKF;32-27;6-16;Perfecto;NO;33cl;;149_Rochefort_8_2021.jpg
+150;Brewdog Punk IPA;2021;Azul;Unibox;18;6;Perfecto;NO;33cl;;150_Brewdog_Punk_IPA_2021.jpg
+151;Camden Pale Ale;2021;Blanco;U;03;4;Bueno;NO;33cl;;151_Camden_Town_Brewery_Pale_Ale_2021.jpg
+152;Einstök Icelandic Toasted Porter;2021;Negro;HB;03;26;Malo;NO;33cl;;152_Einstök_Oldgerd_Toasted_Porter_2021.jpg
+153;Hoegaarden De Verboden Vrucht / Le Fruit Défendu;2021;Negro;HB;41;50197580 22;Regular;NO;33cl;;153_De_Verboden_Vrucht_Le_Fruit_Défendu_2021.jpg
+154;Turia Märzen;2021;Negro;U;08;KC05502 BO 10 14;Bueno;SI;25cl;;154_Turia_Märzen_2021.jpg
+155;Weihenstephaner Hefeweissbier;2021;Blanco;dap;07;13;Bueno;NO;33cl;;155_Weihenstephaner_Hefe_Weissbier_2021.jpg
+156;Hertog Jan Tripel;2021;Gris;Unibox;18;51223041;Bueno;NO;33cl;;156_Hertog_Jan_Triplel_2021.jpg
+157;OXIT Blonde;2021;Blanco;Sin fabricante;31;;Bueno;NO;33cl;;157_Oxit_Blonde_2021.jpg
+158;Ginette Bio Lager;2021;Azul;HB;22;51231945 24;Bueno;NO;33cl;;158_Ginette_Bio_Lager_2021.jpg
+159;312 Urban Wheat;2021;Negro;TC;L2 20;|19 13-16;Regular;NO;33cl;;159_Goose_Island_Urban_2021.jpg
+160;Modelo Especial;2021;Oro;Sin fabricante;F 23;LPVC 9-23;Regular;NO;33cl;;160_Modelo_Especial_2021.jpg
+161;Especialidades 1897 Gran Reserva;2021;Oro;cp;5;;Perfecto;SI;33cl;;161_Especialidades_1897_Gran_Reserva_Mercadona_2021.jpg
+162;Hélécine Brune;2021;Oro;C.R.;01;3;Bueno;NO;33cl;;162_Hélécine_Brune_Mercadona_2021.jpg
+163;Alhambra Barrica Ron Granadino;2021;Marrón;U;07;R8451 BO 12;Bueno;NO;33cl;;163_Alhambra_Barrica_Ron_Granadino_2021.jpg
+164;Old Empire IPA;2021;Negro;astir;13;61312 13-18;Bueno;NO;50cl;;164_Marston's_Old_Empire_2021.jpg
+165;Alhambra Reserva Roja;2021;Marrón;U;29;R6189 BO 4 20;Bueno;SI;33cl;;165_Alhambra_Roja_2021.jpg
+166;Ambar IPA;2021;Blanco;U;35;23;Bueno;NO;33cl;;166_Ambar_IPA_2021.jpg
+167;Complot IPA;2021;Verde;U;02;KC07003 BO 1 3;Perfecto;NO;33cl;;167_Complot_Ipa_Mediterranean_2021.jpg
+168;Carrefour Sensation Reserva;2021;Blanco;cp;18;12;Perfecto;NO;33cl;;168_Carrefour_Sensation_Reserva_2021.jpg
+169;Pilsener;2021;Amarillo;O;30;16;Bueno;NO;33cl;;169_Pilsener_2021.jpg
+170;Hatherwood Ginger Grizzly;2021;Naranja;astir;32;79145 3-14;Bueno;SI;33cl;;170_Hatherwood_Craft_Beer_Company_Ginger_Grizzly_No._6.jpg
+171;Riedenburger Hefe-Weizen Hell;2021;Oro;HB;38;18;Bueno;NO;33cl;;171_Riedenburger_Hefe-Weizen_Hell_2021.jpg
+172;Monkey Mr. Pink;2021;Negro;Sin fabricante;32;;Regular;NO;33cl;;172_Monkey_Mr_Pink_Indian_Pale_Ale_2021.jpg
+173;NÓS Fox IPA;2021;Blanco;U;02;2;Bueno;SI;33cl;;173_Nós_Fox_IPA_2021.jpg
+174;Domus Aurea;2021;Negro;dap;10;;Regular;NO;33cl;;174_Domus_Aurea_IPA_2021.jpg
+175;Maisel & Friends IPA;2021;Rojo;RRK;13;21 4 13/20;Regular;NO;33cl;;175_Maisel_&_Friends_IPA_2021.jpg
+176;Crafted for Lidl - Eureka Lager;2021;Negro;cp;02;;Regular;SI;33cl;;176_Crafted_Beer_for_Lidl_Eureka_Lager_2021.jpg
+177;Crafted for Lidl - Warrior;2021;Negro;cp;22;;Regular;SI;33cl;;177_Crafted_Beer_for_Lidl_Warrior_2021.jpg
+178;Guineu Dr. Calypso;2021;Negro;astir;A 08;23-2;Perfecto;SI;33cl;;178_Guineu_Dr_Calypso_2021.jpg
+179;Tyris IPA;2021;Negro;astir;A 19;;Bueno;NO;33cl;;179_Tyris_IPA_2021.jpg
+180;La Socarrada;2021;Negro;U;02;;Regular;NO;33cl;;180_La_Socarrada_2021.jpg
+181;Cerdos Voladores;2021;Rosa;U;19;26;Perfecto;NO;33cl;;181_Cerdos_Voladores_2021.jpg
+182;Maredsous Brune;2021;Marrón;RRK;06;13 04 16/21;Bueno;SI;33cl;;182_Maredsous_Brune_2021.jpg
+183;Veltins Pilsener;2021;Blanco;HB;29;2;Perfecto;NO;33cl;;183_Veltins_Pilsener_2021.jpg
+184;Cobra Premium;2021;Amarillo;dap;19;7070095 18;Perfecto;NO;33cl;;184_Cobra_2021.jpg
+185;Chérie À La Framboise;2021;Blanco;U;27;13;Perfecto;NO;33cl;;185_Cherie_Bier_Blache_a_la_Frambois_2021.jpg
+186;Vedett Extra White;2021;Blanco;RRK;23;14 02 38/20;Perfecto;NO;33cl;;186_Vedett_Extra_White_2021.jpg
+187;Lindemans Faro;2021;Oro;C.R.;22;8;Regular;SI;25cl;;187_Lindemans_Faro_2021.jpg
+188;Schöfferhofer Hefeweizen Dunkel;2021;Oro;RRK;20;19 14 04/20;Bueno;NO;33cl;;188_Schöfferhofer_Dunkel_2021.jpg
+189;Tripel Karmeliet;2021;Crudo;dap;15;17;Perfecto;SI;33cl;;189_Tripel_Karmeliet_2021.jpg
+190;Abbaye D'Aulne Ambrée;2021;Verde;U;17;1;Perfecto;NO;33cl;;190_Abbaye_D'Aulne_Ambree_2021.jpg
+191;Abbaye D'Aulne Brune;2021;Marrón;U;22;24;Perfecto;NO;33cl;;191_Abbaye_D'Aulne_Brune_2021.jpg
+192;Abbaye D'Aulne Cuvée Royale;2021;Azul;U;07;12;Perfecto;NO;33cl;;192_Abbaye_D'Aulne_Cuvee_Royal_2021.jpg
+193;Madrí Pilsner;2021;Blanco;dap;12;16;Perfecto;SI;33cl;;193_Madrí_Pilsner_2021.jpg
+194;New Yorker Fine Lager;2021;Azul;Unibox;3;3;Bueno;NO;33cl;;194_New_Yorker_Fine_Lager_2021.jpg
+195;15&30 IPA;2021;Oro;astir;06;9-20;Bueno;NO;33cl;;195_15&30_IPA_2021.jpg
+196;Polar Pilsen;2021;Azul;U;34;R9978 BO 1 26;Bueno;NO;33cl;;196_Polar_Pilsen_2021.jpg
+197;Ginger Beard;2021;Gris;astir;11;82015 8-14;Perfecto;NO;33cl;;197_Wychwood_Ginger_Beard_2021.jpg
+198;The Crafty Brewing Company Irish Pale Ale ;2021;Oro;dap;12;4;Perfecto;SI;33cl;;198_The_Crafty_Brewing_Company_Irish_Pale_Ale_2021.jpg
+199;Pilsner Urquell;2021;Oro;cp;02;;Perfecto;NO;33cl;;199_Pilsner_Urquell_2021.jpg
+200;Primátor Premium;2021;Blanco;RRK;16;16 22 44/20;Perfecto;NO;33cl;;200_Primator_Premium_Lager_2021.jpg
+201;Abbaye D'Aulne Premier Cru;2021;Naranja;U;12;21;Perfecto;NO;33cl;;201_Abbaye_D'Aulne_Premier_Cru_9º_2021.jpg
+202;Duvel;2021;Blanco;dap;14;9;Perfecto;NO;33cl;;202_Duvel_2021.jpg
+203;Primátor Weizen;2021;Blanco;RRK;7;2 06 11/21;Perfecto;NO;33cl;;203_Primator_Weizen_2021.jpg
+204;Super Bock Abadia;2021;Marrón;Unibox;R30;13;Bueno;NO;33cl;;204_Super_Bock_Abadía_2021.jpg
+205;1906 Galician Irish Red Ale;2021;Azul;Unibox;A24;23;Bueno;SI;33cl;;205_1906_Galician_Irish_Red_Ale_2021.jpg
+206;Chouffe Blanche;2021;Blanco;dap;13;22;Perfecto;NO;33cl;;206_La_Chouffe_Blanche_2021.jpg
+207;Duvel 6.66%;2021;Blanco;dap;14;3;Perfecto;NO;33cl;;207_Duvel_666_2021.jpg
+208;Kwak;2021;Marrón;BL;10;25;Perfecto;SI;33cl;;208_Kwak_2021.jpg
+209;Gulden Draak Classic;2021;Blanco;HB;01;9;Perfecto;SI;33cl;;209_Gulden_Draak_2021.jpg
+210;Estrella Damm;2021;Rojo;HB;29;KC02312 BO 2;Bueno;SI;33cl;;210_Estrella_Damm_Original_2021.jpg
+211;Desperados Strawberry Margarita;2021;Verde;cp;21;40079762 22;Perfecto;NO;33cl;;211_Desperados_Strawberry_Margarita_2021.jpg
+212;Coors Light;2021;Plata;dap;18;7070713 24;Bueno;NO;33cl;;212_Coors_Light_2021.jpg
+213;Tap 6: Mein Aventinus;2021;Oro;RRK;01;9 09 12/21;Perfecto;NO;50cl;;213_Schneider_Weisse_Tap_6_Aventinus_2021.jpg
+214;Weltenburger Kloster Anno 1050;2021;Azul;RRK;01;10 15 09/21;Bueno;SI;50cl;;214_Weltenburger_Kloster_Anno_1050_2021.jpg
+215;Cusqueña Negra;2022;Negro;PPP;A07;5;Perfecto;NO;33cl;;215_Cusqueña_Negra_2022.jpg
+216;Maredsous Blond;2022;Cobre;RRK;03;16 15 14/21;Perfecto;NO;33cl;;216_Maredsous_Blond_2022.jpg
+217;Brewdog Dead Pony Club;2022;Verde;Unibox;22;5;Perfecto;NO;33cl;;217_Brewdog_Dead_Pony_Club_2022.jpg
+218;Brugse Zot Blond;2022;Oro;HB;31;4;Perfecto;NO;33cl;;218_Brugse_Zot_Blond_2022.jpg
+219;Ambar 1900;2022;Verde;U;25;7;Bueno;NO;33cl;;219_Ambar_1900_2022.jpg
+220;Super Bock Stout;2022;Negro;Unibox;B27;;Bueno;NO;33cl;;220_Super_Bock_Stout_Negra_2022.jpg
+221;18/70 La Rubia;2022;Plata;cp;18;05.36.25.729 25;Perfecto;NO;33cl;;221_18-70_2022.jpg
+222;Brewdog Punk IPA;2022;Negro;Unibox;13;23;Perfecto;NO;33cl;;222_Brewdog_Punk_IPA_2022.jpg
+223;Grimbergen Double Ambreé;2022;Cobre;cp;15;322987 24;Perfecto;NO;33cl;;223_Grimbergen_Double_Ambreé_2022.jpg
+224;Sierra Nevada Torpedo Extra IPA;2022;Oro;Crown;L9 04;8-13;Perfecto;NO;33cl;;224_Sierra_Nevada_Torpedo_2022.jpg
+225;Schöfferhofer Grapefruit Hefeweizen;2022;Plata;RRK;12;15 16 38/20;Bueno;SI;33cl;;225_Schöfferhofer_Grapefruit_2022.jpg
+226;Chula IPA;2022;Negro;astir;24;3/17;Bueno;NO;33cl;;226_Chula_Flipa_2022.jpg
+227;Karlsbräu Helles;2022;Marrón;RRK;12;20 05 44/20;Perfecto;NO;33cl;;227_Karlsbrau_Helles_Natur_Weizen_2022.jpg
+228;Karlsbräu Kellerbier;2022;Marrón;RRK;12;21 03 23/21;Perfecto;NO;33cl;;228_Karlsbrau_Naturtrübes_Kellerbier_2022.jpg
+229;Victoria Málaga;2022;Multicolor;U;05;KC80607 BO 8 8;Perfecto;SI;25cl;;229_Victoria_Málaga_2022.jpg
+230;Ambar 10;2022;Negro;U;14;14;Bueno;NO;33cl;;230_Ambiciosas_Ambar_2022.jpg
+231;Moritz Barcelona;2022;Amarillo;Unibox;A24;9;Bueno;NO;33cl;;231_Moritz_Amarilla_Barcelona_2022.jpg
+232;Oliba Green Beer;2022;Verde;U;;7;Perfecto;NO;33cl;;232_Oliba_Green_Beer_2022.jpg
+233;Slash IPA;2022;Negro;cp;;24;Bueno;SI;33cl;;233_Slash_IPA_2022.jpg
+234;Slash Red;2022;Negro;cp;;10;Bueno;SI;33cl;;234_Slash_Red_2022.jpg
+235;La Estrella de Galicia;2022;Oro;Unibox;A28;24;Perfecto;SI;33cl;;235_Estrella_Galicia_1º_Generación_2022.jpg
+236;Estrella Galicia Especial;2022;Negro;Unibox;9;6;Perfecto;SI;33cl;;236_Estrella_Galicia_2022.jpg
+237;Rosita Original;2022;Amarillo;U;18;10;Perfecto;NO;33cl;;237_Rosita_Original_2022.jpg
+238;The One IPA Americana;2022;Azul;Sin fabricante;B 15;;Regular;SI;33cl;;238_The_One_Ipa_Americana_2022.jpg
+239;Moritz Red IPA;2022;Negro;U;32;25;Bueno;NO;33cl;;239_Moritz_Red_IPA_2022.jpg
+240;Te Deum Amber;2022;Rojo;U;08;18;Perfecto;NO;33cl;;240_Te_Deum_Amber_Red_2022.jpg
+241;Madrí Excepcional;2022;Blanco;dap;23;7071355 24;Perfecto;NO;33cl;;241_Madrí_Excepcional_2022.jpg
+242;15&30 Pilsner;2022;Oro;U;17;R10645 BO 5;Perfecto;NO;33cl;;242_15&30_Pilsner_2022.jpg
+243;Franziskaner Premium Weissbier;2022;Oro;dap;16;51360231 22;Perfecto;NO;50cl;;243_Franziskaner_Weissbier_2022.jpg
+244;Grimbergen Blonde;2022;Oro;cp;03;322814 12;Perfecto;NO;33cl;;244_Grimbergen_Blonde_2022.jpg
+245;The Crafty Brewing Company Irish Lager;2022;Oro;dap;2 4;24;Regular;SI;33cl;;245_The_Crafty_Brewing_Co._Irish_Lager_2022.jpg
+246;Greene King IPA;2022;Oro;Unibox;A02;P993066;Bueno;NO;50cl;;246_Greene_King_IPA_2022.jpg
+247;Zerep Rubia;2022;Crudo;astir;11;15-19;Bueno;SI;33cl;;247_Zerep_Rubia_2022.jpg
+248;Desperados Strawberry Margarita;2022;Rosa;cp;18;4085578 15;Perfecto;NO;33cl;;248_Desperados_Strawberry_Margarita_2022.jpg
+249;Zerep Tostada;2022;Negro;TCI;;13;Bueno;NO;33cl;;249_Zerep_Tostada_2022.jpg
+250;Mahou Negra;2010;Negro;TCI;12;R-2632 BO 8;Bueno;NO;33cl;;250_Mahou_Negra_2008.jpg
+251;Grimbergen Double Ambreé;2008;Marrón;TF;T;FL;Bueno;NO;33cl;;251_Grimbergen_Double_Ambreé_2008.jpg
+252;Grimbergen Optimo Bruno;2008;Marrón;TF;T;FL;Perfecto;NO;33cl;;252_Grimbergen_Optimo_Bruno_2008.jpg
+253;Budweiser;1998;Blanco;TCI;Z;;Perfecto;NO;33cl;;253_Budweiser_1998.jpg
+254;Budweiser;1999;Gris;TCI;T;;Perfecto;NO;33cl;;254_Budweiser_1999.jpg
+255;Coors Gold;1999;Oro;TCI;;2;Perfecto;NO;33cl;;255_Coors_Gold_1999.jpg
+256;Guinness Draught;2006;Negro;dap;1 3;332093 15 S;Bueno;NO;33cl;;256_Guinness_Draught_2006.jpg
+257;Coors Light;2020;Gris;dap;;70685599 6;Regular;NO;33cl;;257_Coors_Light_2020.jpg
+258;Hoegaarden Wit;2022;Blanco;HB;17;51180814 25;Perfecto;NO;33cl;;258_Hoegaarden_Wit_Blanche_2022.jpg
+259;Bischofshof Hefe-Weissbier Hell;2022;Rojo;RRK;97;11 21 28/21;Perfecto;NO;33cl;;259_Bischofshof_Helles_Weibbier_2022.jpg
+260;1906 Black Coupage;2022;Negro;Unibox;12;24;Perfecto;SI;33cl;;260_1906_Black_Coupage_2022.jpg
+261;Alhambra Tradicional;2022;Rojo;U;24;R7045 BO 2 8;Bueno;SI;25cl;;261_Alhambra_Tradicional_2022.jpg
+262;Brutus The Beer;2022;Negro;U;18;R9139 BO 5;Bueno;NO;33cl;;262_Brutus_2022.jpg
+263;Heineken Silver;2022;Verde;cp;;05.36.25.744 27;Perfecto;SI;25cl;;263_Heineken_Silver_2022.jpg
+264;Mc Chouffe;2022;Amarillo;dap;21;14;Perfecto;NO;33cl;;264_La_Chouffe_MC_2022.jpg
+265;Estrella de Navidad;2022;Plata;Unibox;A15;;Perfecto;SI;33cl;;265_Estrella_Galicia_Estrella_Navidad_2022.jpg
+266;Peroni Gran Riserva Doppio Malto;2023;Negro;dap;11;10;Bueno;NO;33cl;;266_Peroni_Gran_Riserva_Doppio_Malto_2023.jpg
+267;Vikingathor Boris Brew;2023;Negro;astir;01;25;Regular;NO;33cl;;267_Vikingathor_2023.jpg
+268;Pólvora Blue;2023;Naranja;astir;B 23;7 23;Perfecto;SI;33cl;;268_Pólvora_Blue_2023.jpg
+269;Mascletà;2023;Naranja;astir;B 18;27 18;Perfecto;SI;33cl;;269_Mascletà_2023.jpg
+270;Grimbergen Belgian Pale Ale;2023;Verde;cp;17;322945 22;Bueno;NO;33cl;;270_Grimbergen_Belgian_Pale_Ale_2023.jpg
+271;Grimbergen Blanche;2023;Azul;cp;4;323050 9;Perfecto;NO;33cl;;271_Grimbergen_Blanche_2023.jpg
+272;Ambar Especial;2023;Rojo;Unibox;6;4;Perfecto;SI;33cl;;272_Ambar_Especial_2023.jpg
+273;Schöfferhofer Hefeweizen;2023;Naranja;RRK;07;3 19 34/22;Bueno;NO;33cl;;273_Schöfferhofer_Hefeweizen_Naturtrüb_2023.jpg
+274;Hofbräu Original;2020;Oro;HB;07;26;Bueno;NO;33cl;;274_Hofbräu_Original_2020.jpg
+275;Nastro Azzurro;2020;Blanco;dap;22;16;Bueno;SI;33cl;;275_Nastro_Azzurro_2020.jpg
+276;König Ludwig Weissbier Naturtrüb;2023;Blanco;DKF;36-23;22-26;Perfecto;NO;50cl;;276_König_Ludwig_Weissbier_Naturtrüb_2023.jpg
+277;Leffe Blonde;2023;Oro;Unibox;B34;51224395;Regular;SI;33cl;;277_Leffe_Blonde_2023.jpg
+278;Leffe Triple;2023;Oro;HB;32;;Bueno;NO;33cl;;278_Leffe_Triple_2023.jpg
+279;Leffe Brune;2023;Marrón;HB;40;;Regular;SI;33cl;;279_Leffe_Brune_2023.jpg
+280;Mahou Cinco Estrellas;1994;Oro;TCI;3383;3383 2;Malo;NO;25cl;;280_Mahou_Cinco_Estrellas_1995.jpg
+281;Mahou Clásica;1994;Plata;TCI;Z;;Malo;NO;25cl;;281_Mahou_Clásica_1995.jpg
+282;Heineken;1995;Verde;CCC;25;Lote-1;Malo;SI;33cl;;282_Heineken_1995.jpg
+283;Praga Premium Pils;2020;Blanco;cp;MK 1;4;Perfecto;SI;33cl;;283_Praga_Premium_Pils_2023.jpg
+284;Argus Suave;2020;Blanco;U;13;KC6BNAG3 26;Perfecto;NO;33cl;;284_Argus_Suave_2020.jpg
+285;El Alcázar;2023;Verde;dap;03;05.46.SP.475 4;Bueno;SI;33cl;;285_El_Alcázar_2023.jpg
+286;Alhambra Lager Singular;2023;Amarillo;U;09;R10027 BO 2 10;Bueno;SI;25cl;;286_Alhambra_Lager_Singular_2023.jpg
+287;Ambar Export;2023;Negro;U;35;;Bueno;SI;33cl;;287_Ambar_Export_2023.jpg
+288;Ambar Morena;2023;Naranja;Unibox;4;20;Perfecto;SI;33cl;;288_Ambar_Morena_2023.jpg
+289;Cerex Pilsen;2023;Negro;Sin fabricante;B 18;;Bueno;SI;33cl;;289_Cerex_Pilsen_2023.jpg
+290;Alhambra Reserva 1925;2005;Verde;TCI;32;;Regular;NO;25cl;;290_Alhambra_Reserva_1925_2005.jpg
+291;Stark Especial;2014;Rojo;dap;14;2;Regular;NO;33cl;;291_Stark_Cerveza_Especial_2016.jpg
+292;Bombardier Amber Beer;2016;Multicolor;Unibox;10;23;Regular;NO;33cl;;292_Bombardier_Amber_Beer_Union_Jack_2016.jpg
+293;Patronus Premium Weissbier;2020;Oro;RRK;32;;Bueno;NO;33cl;;293_Patronus_Premium_Weissbier_2020.jpg
+294;Bernabeu Madrid;2023;Blanco;cp;24;6;Perfecto;NO;33cl;;294_Bernabeu_Madrid_2023.jpg
+295;Caletera Tostada;2023;Negro;Sin fabricante;A 12;;Bueno;NO;33cl;;295_Caletera_Tostada_2023.jpg
+296;San Miguel Eco;2023;Beige;U;16;R8778 BO 1 18;Perfecto;SI;25cl;;296_San_Miguel_Eco_2023.jpg
+297;Tsingtao;2023;Oro;Ziquan;14;18;Perfecto;NO;33cl;;297_Tsingtao_2023.jpg
+298;Monastère Blond;2023;Negro;cp;31;;Bueno;NO;33cl;;298_Monastère_Blond_2023.jpg
+299;IPA4;2023;Negro;U;8;21;Bueno;NO;33cl;;299_Dougall's_IPA4_2023.jpg
+300;Mahou Cinco Estrellas;2023;Oro;U;15;R10868 3 6;Malo;NO;33cl;;300_Mahou_Cinco_Estrellas_2023.jpg
+301;Perkins Cerveza Rubia;2023;Blanco;astir;A 12;9-18;Perfecto;NO;33cl;;301_Perkins_Cerveza_Rubia_2023.jpg
+302;Desperados Red;2023;Rojo;dap;19;05.36.25.764 21 9;Perfecto;NO;33cl;;302_Desperados_Red_2023.jpg
+303;Alhambra Reserva 1925;2023;Verde;U;24;R10612 BO 2 25;Perfecto;NO;25cl;;303_Alhambra_Reserva_1925_2023.jpg
+304;Mahou Cinco Estrellas Sin Gluten;2023;Rojo;U;4;R6470 BO 2 16;Bueno;NO;33cl;;304_Mahou_Cinco_Estrellas_Sin_Gluten_2023.jpg
+305;Cherry Chouffe;2023;Rojo;dap;13;22;Bueno;NO;33cl;;305_Cherry_Chouffe_2023.jpg
+306;Ramblers Weissbier;2023;Gris;dap;5;12 21;Bueno;NO;50cl;;306_Ramblers_2023.jpg
+307;Ruddles Best;2023;Oro;Unibox;1;P993069 27;Perfecto;NO;50cl;;307_Ruddless_Best_2023.jpg
+308;Obolon Svitle;2023;Multicolor;cp;23;23;Perfecto;NO;50cl;;308_Obolon_Svitle_2023.jpg
+309;Daura Marzën;2023;Verde;U;10;KC05802 BO 2 24;Regular;SI;33cl;;309_Daura_Marzën_2023.jpg
+310;Petrus Blond;2023;Negro;HB;27;11;Regular;SI;33cl;;310_Petrus_Blond_2023.jpg
+311;Voll-Damm;2023;Verde;U;10;KC00812 BO 3 9;Bueno;SI;25cl;;311_Voll-Damm_2023.jpg
+312;Gulden Draak 9000 Quadruple;2023;Negro;HB;23;6;Regular;SI;33cl;;312_Gulden_Draak_9000_Quadruple_2023.jpg
+313;Schnitzer Bräu German Hirse Premium;2023;Oro;RRK;7;23 03 45/20;Bueno;SI;33cl;;313_Schnitzer_Bräu_German_Hirse_Premium_2023.jpg
+314;Piraat;2023;Multicolor;HB;43;11;Perfecto;SI;33cl;;314_Piraat_2023.jpg
+315;Liefmans Fruitesse On The Rocks;2023;Rojo;cp;47;17;Bueno;SI;25cl;;315_Liefmans_Fruitesse_On_The_Rocks_2023.jpg
+316;Er Boquerón;2023;Blanco;U;19;7;Bueno;NO;33cl;;316_Er_Boquerón_2023.jpg
+317;San Miguel Gluten Free;2023;Multicolor;U;23;R8769 BO 3 14;Perfecto;NO;33cl;;317_San_Miguel_Gluten_Free_2023.jpg
+318;Grevensteiner Naturtrübes Helles;2023;Multicolor;RRK;29;21 25 13/22;Perfecto;NO;50cl;;318_Grevensteiner_Naturtrübes_Helles_2023.jpg
+319;Mahou Cinco Estrellas Sin Filtrar;2023;Rojo;U;23;R11453 BO 1 18;Bueno;SI;33cl;;319_Mahou_Cinco_Estrellas_Sin_Filtrar_2023.jpg
+320;Estrella de Navidad;2023;Rojo;Unibox;A27;22;Bueno;SI;33cl;;320_Estrella_Galicia_Estrella_Navidad_2023.jpg
+321;Rye IPL Centeno;2024;Negro;U;14;3;Bueno;NO;33cl;;321_Arriaca_Centeno_RIPL_2024.jpg
+322;The One Celta;2024;Cobre;Sin fabricante;B 23;;Bueno;NO;33cl;;322_The_One_Celta_2024.jpg
+323;Gastro IPA Dry Hopping;2024;Negro;U;11;R9363 BO 7;Bueno;NO;33cl;;323_Gastro_IPA_Dry_Hopping_2024.jpg
+324;Brewdog Punk IPA;2024;Negro;dap;8;;Bueno;NO;33cl;;324_Brewdog_Punk_IPA_2024.jpg
+325;G de Goudale Grand Cru;2024;Negro;cp;70;7;Perfecto;NO;33cl;;325_G_De_Goudale_Grand_Cru_Millésime_2023_2024.jpg
+326;Duet;2024;Negro;U;11;KC07200 BO 8;Bueno;NO;33cl;;326_Duet_Damm_2024.jpg
+327;Straffe Hendrik Tripel;2024;Verde;HB;44;18;Bueno;SI;33cl;;327_Straffe_Hendrik_Tripel_2024.jpg
+328;Baeren Classic;2024;Beige;NCC;15;;Perfecto;NO;33cl;;328_Baeren_Classic_2024.jpg
+329;iKi Yuzu;2024;Negro;C.R.;1 0;20;Bueno;NO;33cl;;329_iKi_Yuzu_2024.jpg
+330;Jever Pilsener;2024;Oro;RRK;38;4 12 21/28;Perfecto;NO;33cl;;330_Jever_Pilsener_2024.jpg
+331;Gordon Finest Gold;2024;Amarillo;HB;44;18;Bueno;NO;33cl;;331_Gordon_Finest_Gold_2024.jpg
+332;Chouffe Lite;2024;Verde;dap;19;10 11;Perfecto;NO;33cl;;332_Chouffe_Lite_2024.jpg
+333;Lagunitas IPA;2024;Oro;dap;6;5242 4 2;Perfecto;NO;33cl;;333_Lagunitas_IPA_2024.jpg
+334;Chimay Triple;2024;Blanco;dap;11;;Bueno;NO;33cl;;334_Chimay_Triple_2024.jpg
+335;Westmalle Tripel;2024;Crudo;DKF;40-27;14-21;Bueno;NO;33cl;;335_Westmalle_Tripel_2024.jpg
+336;Orval;2024;Plata;DKF;37-29;5-15;Bueno;NO;33cl;;336_Orval_2024.jpg
+337;Tynt Meadow;2024;Verde;astir;37;22-5;Bueno;NO;33cl;;337_Tynt_Meadow_2024.jpg
+338;Saku Kuld;2024;Oro;cp;18;12;Bueno;NO;33cl;;338_Saku_Kuld_2024.jpg
+339;Tartu Hele;2024;Rojo;dap;10;22;Bueno;NO;33cl;;339_Tartu_Hele_2024.jpg
+340;Mahou Cinco Estrellas;2014;Rojo;TCI;;26;Bueno;NO;20cl;;340_Mahou_Cinco_Estrellas_Atleti_2014.jpg
+341;Mahou Cinco Estrellas;2017;Rojo;U;20;R-7235 23;Bueno;NO;20cl;;341_Mahou_Cinco_Estrellas_Atleti_2017.jpg
+342;Madrid Lager;2020;Marrón;U;60;7;Bueno;NO;33cl;;342_La_Virgen_Madrid_Lager_2020.jpg
+343;Madrid Lager;2020;Marrón;U;60;7;Bueno;NO;33cl;;343_La_Virgen_Madrid_Lager_2020.jpg
+344;Stella Artois;2006;Blanco;Sin fabricante;;1;Regular;NO;33cl;;344_Stella_Artois_2006.jpg
+345;Cruzcampo Especial;2006;Rojo;U;9 14;20 32;Bueno;NO;20cl;;345_Cruzcampo_Especial_2006.jpg
+346;Trappistes Rochefort 10;2024;Azul;DKF;35-11;8-22;Perfecto;NO;33cl;;346_Trappistes_Rochefort_10_2024.jpg
+347;Chimay 150;2024;Verde;dap;28;;Bueno;NO;33cl;;347_Chimay_150_2024.jpg
+348;La Bella Lola;2024;Gris;U;15;8;Bueno;NO;33cl;;348_La_Bella_Lola_2024.jpg
+349;Gordon Scotch Ale;2024;Multicolor;HB;11;5;Perfecto;NO;33cl;;349_Gordon_Scotch_Ale_2024.jpg
+350;Timmermans Strawberry Thyme Lambicus;2024;Rojo;HB;8;19;Perfecto;NO;33cl;;350_Timmermans_Strawberry_Thyme_Lambicus_2024.jpg
+351;Timmermans Pêche Lambicus;2024;Amarillo;HB;26;13;Bueno;NO;33cl;;351_Timmermans_Pêche_Lambicus_2024.jpg
+352;Martin's IPA 55;2024;Verde;HB;18;15;Bueno;NO;33cl;;352_Martin's_IPA_55_2024.jpg
+353;The One Blanche;2024;Blanco;Sin fabricante;2;;Bueno;NO;33cl;;353_The_One_Blanche_2024.jpg
+354;The One Blonde;2024;Amarillo;Sin fabricante;5;;Bueno;NO;33cl;;354_The_One_Blonde_2024.jpg
+355;The One Pale Ale;2024;Naranja;Sin fabricante;7;;Bueno;NO;33cl;;355_The_One_Pale_Ale_2024.jpg
+356;Consentida;2024;Rosa;U;23;17;Perfecto;NO;33cl;;356_Consentida_Pale_Lager_2024.jpg
+357;Estrella Galicia 0,0;2024;Multicolor;Unibox;22;23;Regular;NO;25cl;;357_Estrella_Galicia_Sin_2024.jpg
+358;Naturepils;2024;Blanco;U;34;R11618 BO 19;Bueno;NO;33cl;;358_Naturepils_2024.jpg
+359;Mescalina México;2024;Blanco;U;8;27;Bueno;NO;33cl;;359_Mescalina_México_2024.jpg
+360;Tap 6: Mein Aventinus;2024;Oro;RRK;03;1 22 03/22;Bueno;NO;50cl;;360_Schneider_Weisse_Tap_6_Aventinus_2024.jpg
+361;The One IPA Americana;2023;Azul;Sin fabricante;7;;Bueno;NO;33cl;;361_The_One_IPA_Americana_2023.jpg

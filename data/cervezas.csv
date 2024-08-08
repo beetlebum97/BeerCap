@@ -17,7 +17,7 @@ ID;NOMBRE;TIPO;ESTILO;GRADO;IBU;LANZAMIENTO;ESTADO;PAÍS;URL;PRODUCTOR
 16;Stella Artois;Pale Lager;European Pale Lager;4.60;24;1926;Activa;Bélgica;www.stellaartois.com;Brouwerij Artois
 17;Heineken;Pale Lager;European Pale Lager;5.00;19;1873;Activa;Países Bajos;www.heineken.com;Heineken International
 18;Budweiser;Pale Lager;American Adjunt Lager;4.80;12;1876;Activa;Estados Unidos;www.budweiser.com;Anheuser-Busch
-19;Madrí;Pale Lager;German Pilsner;5.00;12;;Activa;España;;La Sagra
+19;Madrí Pilsner;Pale Lager;German Pilsner;5.00;12;2016;Retirada;España;;La Sagra
 20;BrewDog Indie;Indian Pale Ale;English IPA;4.20;30;;Activa;Escocia;;BrewDog
 21;Cruzcampo Gran Reserva;Pale Lager;European Strong Lager;6.40;;2009;Activa;España;;Cruzcampo
 22;Mahou Maestra Dunkel;Dark Lager;Munich Dunkel;6.10;25;2018;Activa;España;;Mahou
@@ -81,13 +81,13 @@ ID;NOMBRE;TIPO;ESTILO;GRADO;IBU;LANZAMIENTO;ESTADO;PAÍS;URL;PRODUCTOR
 80;La Trappe Isid'or;Strong Ale;Belgian Pale Strong Ale;7.50;;1884;Activa;Países Bajos;es.latrappetrappist.com;Abdij Koningshoeven
 81;La Trappe Quadrupel;Strong Ale;Quadrupel;10.00;22;1884;Activa;Países Bajos;es.latrappetrappist.com;Abdij Koningshoeven
 82;Waterloo Triple Blonde;Strong Ale;Tripel;8.00;26;2005;Activa;Bélgica;waterloo-beer.com;Ferme Mont-Saint-Jean
-83;Timmermans Kriek Lambicus;Lambic;Fruit;4.00;10;;Activa;Bélgica;brtimmermans.be;Timmermans
+83;Timmermans Kriek Lambicus;Wild/Sour Beer;Fruit Lambic;4.00;10;;Activa;Bélgica;brtimmermans.be;Timmermans
 84;Bourgogne des Flandres;Wild/Sour Beer;Flanders Red Ale;5.00;17;1911;Activa;Bélgica;www.bourgognedesflandres.be;Brouwerij Bourgogne des Flandres
 85;Burro de Sancho Rubia;Pale Ale;American Blonde Ale;5.00;;2011;Activa;España;;La Sagra
 86;La Cibeles Rubia;Pale Ale;American Blonde Ale;4.50;25;2011;Activa;España;;La Cibeles
-87;Madrid Lager;Pale Lager;Helles;5.20;22;2011;Activa;España;;La Virgen
+87;Madrid Lager;Pale Lager;Helles;5.20;22;2011;Retirada;España;;La Virgen
 88;1906 Red Vintage;Bock;Doppelbock;8.00;27;2012;Activa;España;;Cervezas 1906
-89;Jamonera;Dark Lager;American Amber / Red Lager;5.50;20;;Activa;España;;La Virgen
+89;Jamonera;Dark Lager;American Amber / Red Lager;5.50;20;;Retirada;España;;La Virgen
 90;Desperados Lima;Specialty Beer;Herb and Spice Beer;3.00;;2020;Activa;Francia;www.desperados.com;Brasserie Fischer
 91;San Miguel 1516;Dark Lager;American Amber / Red Lager;5.20;;1993;Retirada;España;;San Miguel
 92;Argus Reserva 1844;Pale Lager;European Pale Lager;5.60;;;Activa;España;argus.es;Font Salem
@@ -106,7 +106,7 @@ ID;NOMBRE;TIPO;ESTILO;GRADO;IBU;LANZAMIENTO;ESTADO;PAÍS;URL;PRODUCTOR
 105;Amstel Oro;Dark Lager;European Dark Lager;6.20;;;Activa;Países Bajos;;Amstel
 106;La Salve Munich;Dark Lager;Dubbel;6.20;18;;Activa;España;;La Salve Bilbao
 107;Oro Bilbao;Dark Lager;American Amber / Red Lager;6.00;;1912;Activa;España;www.oro.eus;Damm
-108;Mort Subite Kriek Lambic;Lambic;Fruit;4.50;;;Activa;Bélgica;;Mort Subite
+108;Mort Subite Kriek Lambic;Wild/Sour Beer;Fruit Lambic;4.50;;;Activa;Bélgica;;Mort Subite
 109;Chang Classic;Pale Lager;European Pale Lager;5.00;12;1995;Activa;Tailandia;www.changbeer.com;Thai Beverage
 110;Sandels 5.3%;Pale Lager;European Pale Lager;5.30;30;1973;Activa;Finlandia;;Olvi
 111;O'Hara's Irish Red;Pale Ale;Irish Red Ale;4.30;;;Activa;Irlanda;;Carlow Brewing
@@ -274,3 +274,44 @@ ID;NOMBRE;TIPO;ESTILO;GRADO;IBU;LANZAMIENTO;ESTADO;PAÍS;URL;PRODUCTOR
 273;Obolon Svitle;Pale Lager;European Pale Lager;4.50;;;Activa;Ucrania;;Obolon
 274;Daura Marzën;Dark Lager;Märzen;7.20;34;2014;Activa;España;;Damm
 275;Petrus Blond;Pale Ale;Belgian Blonde Ale;6.50;24;;Activa;Bélgica;;De Brabandere
+276;Gulden Draak 9000 Quadruple;Strong Ale;Quadrupel;10.50;25;2011;Activa;Bélgica;www.guldendraak.be;Brouwerij Van Steenberge
+277;Schnitzer Bräu German Hirse Premium;Pale Lager;German Pilsner;5.00;;;Activa;Alemania;;Schnitzer Bräu
+278;Piraat;Strong Ale;Belgian Pale Strong Ale;10.50;23;1988;Activa;Bélgica;;Brouwerij Van Steenberge
+279;Liefmans Fruitesse On The Rocks;Specialty Beer;Fruit and Field Beer ;3.80;10;;Activa;Bélgica;;Liefmans
+280;Er Boquerón;Pale Ale;American Blonde Ale;4.80;20;2013;Activa;España;www.erboqueron.com;Cervezas La Socarrada
+281;San Miguel Gluten Free;Pale Lager;European Pale Lager;5.40;;2015;Activa;España;;San Miguel
+282;Grevensteiner Naturtrübes Helles;Pale Lager;Helles;5.20;;2016;Activa;Alemania;;C. & A. Veltins
+283;Mahou Cinco Estrellas Sin Filtrar;Pale Lager;European Pale Lager;5.50;;2023;Activa;España;;Mahou
+284;Rye IPL Centeno;Specialty Beer;Rye Beer;5.20;40;;Activa;España;;Arriaca Cervezas
+285;The One Celta;Specialty Beer;Gruit / Ancient Herbed Ale;7.50;17;;Activa;España;;The One Beer
+286;Gastro IPA Dry Hopping;Indian Pale Ale;American IPA;5.50;;;Activa;España;;Gastro Beer Company
+287;G de Goudale Grand Cru;Pale Ale;Belgian Blonde Ale;7.90;15;2023;Activa;Francia;;Brasserie Goudale
+288;Duet;Wild/Sour Beer;Fruited Kettle Sour;5.50;10;2021;Activa;España;;Damm
+289;Straffe Hendrik Tripel;Strong Ale;Tripel;9.00;35;1981;Activa;Bélgica;www.straffehendrik.be;De Halve Maan
+290;Baeren Classic;Pale Lager;European / Dortmunder Export Lager;6.00;22;;Activa;Japón;;Baeren Bier
+291;iKi Yuzu;Specialty Beer;Herb and Spice Beer;4.20;12;2005;Activa;Países Bajos;;iKi Beer
+292;Jever Pilsener;Pale Lager;German Pilsner;4.90;40;1934;Activa;Alemania;;Jever
+293;Gordon Finest Gold;Pale Lager;European Strong Lager;10.00;;1992;Activa;Bélgica;;Timmermans
+294;Chouffe Lite;Pale Ale;Belgian Pale Ale;4.00;16;;Activa;Bélgica;;Brasserie d'Achouffe
+295;Chimay Triple;Strong Ale;Tripel;8.00;38;1966;Activa;Bélgica;www.chimay.com;Abbaye de Scourmont
+296;Westmalle Tripel;Strong Ale;Tripel;9.50;38;1934;Activa;Bélgica;;Brouwerij Westmalle
+297;Orval;Pale Ale;Belgian Pale Ale;6.20;36;1932;Activa;Bélgica;;Brasserie d'Orval
+298;Tynt Meadow;Strong Ale;English Strong Ale;7.40;38;2018;Activa;Inglaterra;;Mount St Bernard Abbey
+299;Saku Kuld;Pale Lager;European Pale Lager;5.20;15;2005;Activa;Estonia;;Saku Brewery
+300;Tartu Hele;Pale Lager;European Pale Lager;4.80;;;Activa;Estonia;;Pühaste Brewery
+301;Cruzcampo Especial;Pale Lager;European Pale Lager;5.60;;1904;Activa;España;;Cruzcampo
+302;Trappistes Rochefort 10;Strong Ale;Quadrupel;11.30;27;1954;Activa;Bélgica;;Brasserie de Rochefort
+303;Chimay 150;Strong Ale;Belgian Pale Strong Ale;10.00;31;2012;Activa;Bélgica;www.chimay.com;Abbaye de Scourmont
+304;La Bella Lola;Pale Ale;American Blonde Ale;4.00;15;2013;Activa;España;;Barcelona Beer Company
+305;Gordon Scotch Ale;Strong Ale;Scotch Ale / Wee Heavy;8.60;30;1924;Activa;Bélgica;;Timmermans
+306;Timmermans Strawberry Thyme Lambicus;Wild/Sour Beer;Fruit Lambic;4.00;;1991;Activa;Bélgica;;Timmermans
+307;Timmermans Pêche Lambicus;Wild/Sour Beer;Fruit Lambic;4.00;;1993;Activa;Bélgica;;Timmermans
+308;Martin's IPA 55;Indian Pale Ale;American IPA;6.50;55;1909;Activa;Bélgica;;Martin's
+309;The One Blanche;Wheat Beer;Witbier;5.00;17;;Activa;España;;The One Beer
+310;The One Blonde;Pale Ale;American Blonde Ale;5.00;20;;Activa;España;;The One Beer
+311;Madrí Excepcional;Pale Lager;European Pale Lager;4.60;;2020;Activa;Inglaterra;www.madriexcepcional.com;Coors Brewing Company
+312;The One Pale Ale;Pale Ale;English Pale Ale;5.20;30;;Activa;España;;The One Beer
+313;Consentida;Pale Lager;European Pale Lager;5.50;32;2014;Activa;España;;La Claudia Italia
+314;Estrella Galicia 0,0;Specialty Beer;Low-Alcohol Beer;0.00;15;2008;Activa;España;;Estrella Galicia
+315;Naturepils;Pale Lager;German Pilsner;4.60;;;Activa;España;;Nómada Brewing
+316;Mescalina México;Specialty Beer;Herb and Spice Beer;4.50;;;Activa;España;;La Claudia Italia

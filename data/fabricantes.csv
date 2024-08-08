@@ -1,25 +1,27 @@
-ID;NOMBRE;EMPRESA;PAÍS;URL
-1;Sin fabricante;;;
-2;U;Jose Combalia S.A.;España;www.josecombalia.com
-3;cp;Can Pack S.A.;Polonia;www.canpack.com
-4;dap;Pelliconi & C. S.p.A.;Italia;www.pelliconi.com
-5;RRK;Rauh GmbH & Co KG;Alemania;www.rrauh.de
-6;HB;Helmut Brüninghaus GmbH;Alemania;www.h-brueninghaus.de
-7;astir;Astir Vitogiannis Bros S.A.;Grecia;www.astircrowns.com
-8;Crown;Crown Holdings;Estados Unidos;www.crowncork.com
-9;Z;Grupo Zapata S.A. de C.V.;México;www.gzapata.com
-10;C;Coroplas S.A.I.C.I.F;México;
-11;Unibox;JV UNIBOX Ltd;Bielorrusia;www.eng.unibox.by
-12;BL;Blechwarenfabrik Limburg;Alemania;www.blechwaren-limburg.de
-13;GMP;Galeb Metal Pack;Serbia;metalpack.galeb.com
-14;DKF;Delmenhorster Kork-Fabrik;Alemania;dkf-linck.de
-15;PPP;Packaging Products del Perú S.A;Perú;www.packagingperu.com
-16;B 1;Bavaria S.A. - Fábrica de Tapas;Colombia;
-17;FK;Finn-Korkki Oy;Finlandia;www.finn-korkki.com
-18;TC;Tapón Corona;México;taponcorona.com.mx
-19;C.R.;Clemente Rigamonti & C.;Italia;www.clementerigamonti.it
-20;O;Fábrica de Envases S.A. Fadesa;Ecuador;www.fadesa.com
-21;Ziquan;Shanghai Ziquan Packing Co Ltd;China;www.shziquan.en.china.cn
-22;TCI;Tapón Corona Iberica;España;
-23;TF;Tapon France S.A.S.;Francia;
-24;CCC;Crown Cork Co.;Países Bajos;
+ID;NOMBRE;EMPRESA;PAÍS;URL;IMAGEN
+1;Sin fabricante;;;;1_sin.jpg
+2;U;Jose Combalia S.A.;España;www.josecombalia.com;2_u.jpg
+3;cp;Can Pack S.A.;Polonia;www.canpack.com;3_cp.jpg
+4;dap;Pelliconi & C. S.p.A.;Italia;www.pelliconi.com;4_dap.jpg
+5;RRK;Rauh GmbH & Co KG;Alemania;www.rrauh.de;5_RRK.jpg
+6;HB;Helmut Brüninghaus GmbH;Alemania;www.h-brueninghaus.de;6_HB.jpg
+7;astir;Astir Vitogiannis Bros S.A.;Grecia;www.astircrowns.com;7_astir.jpg
+8;Crown;Crown Holdings;Estados Unidos;www.crowncork.com;8_Crown.jpg
+9;Z;Grupo Zapata S.A. de C.V.;México;www.gzapata.com;9_Z.jpg
+10;C;Coroplas S.A.I.C.I.F;México;;10_C.jpg
+11;Unibox;JV UNIBOX Ltd;Bielorrusia;www.eng.unibox.by;11_Unibox.jpg
+12;BL;Blechwarenfabrik Limburg;Alemania;www.blechwaren-limburg.de;12_BL.jpg
+13;GMP;Galeb Metal Pack;Serbia;metalpack.galeb.com;13_GMP.jpg
+14;DKF;Delmenhorster Kork-Fabrik;Alemania;dkf-linck.de;14_DKF.jpg
+15;PPP;Packaging Products del Perú S.A;Perú;www.packagingperu.com;15_PPP.jpg
+16;B 1;Bavaria S.A. - Fábrica de Tapas;Colombia;;16_B_1.jpg
+17;FK;Finn-Korkki Oy;Finlandia;www.finn-korkki.com;17_FK.jpg
+18;TC;Tapón Corona;México;taponcorona.com.mx;18_TC.jpg
+19;C.R.;Clemente Rigamonti & C.;Italia;www.clementerigamonti.it;19_CR.jpg
+20;O;Fábrica de Envases S.A. Fadesa;Ecuador;www.fadesa.com;20_Fadesa.jpg
+21;Ziquan;Shanghai Ziquan Packing Co Ltd;China;www.shziquan.en.china.cn;21_Ziquan.jpg
+22;TCI;Tapón Corona Iberica;España;;22_TCI.jpg
+23;TF;Tapon France S.A.S.;Francia;;23_TF.jpg
+24;CCC;Crown Cork Co.;Países Bajos;;24_CCC.jpg
+25;NCC;Nippon Closures Co.;Japón;www.ncc-caps.co.jp/english/;25_NCC.jpg
+26;Z I;Zapata Technologies Division;Francia;;26_Z_I.jpg

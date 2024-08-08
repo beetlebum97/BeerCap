@@ -1,4 +1,4 @@
--- CREAR BASE DE DATOS
+-- [[0. CREAR  Y USAR BASE DE DATOS]]
 
 CREATE DATABASE CHAPAS_CERVEZA
 GO
@@ -6,36 +6,23 @@ GO
 USE CHAPAS_CERVEZA
 GO
 
--- [CREATE TABLE] >> CREAR TABLAS
+-- [[1. CREAR TABLAS]]
 -- URL es una palabra reservada. Como nombre de columna debe estar entre corchetes [].
 -- Nombre de columna con espacios debe estar entre corchetes [].
 
--- [BULK INSERT] >> IMPORTAR/INSERTAR REGISTROS
--- BULK INSERT: ¡Indicar directorio de los archivos csv!
-
--- 1. Tabla Fabricantes_Chapa
+-- 1.1 TABLA FABRICANTES_CHAPA
 
 CREATE TABLE Fabricantes_Chapa(
 	ID int PRIMARY KEY,
 	Nombre nvarchar(255) UNIQUE,
 	Empresa nvarchar(255) NULL,
 	País nvarchar(255) NULL,
-	[URL] nvarchar(255) NULL
+	[URL] nvarchar(255) NULL,
+	Imagen nvarchar(255) NULL
 )
 GO
 
-BULK INSERT Fabricantes_Chapa
-FROM '\\directorio\\fabricantes.csv'
-WITH (
-    FORMAT = 'CSV',
-    FIELDTERMINATOR = ';',
-    ROWTERMINATOR = '\n',
-    FIRSTROW = 2,
-    CODEPAGE='65001'
-	)
-GO
-
--- 2. Tabla Productores_Cerveza
+-- 1.2 TABLA PRODUCTORES_CERVEZA
 
 CREATE TABLE Productores_Cerveza(
 	ID int PRIMARY KEY,
@@ -45,22 +32,12 @@ CREATE TABLE Productores_Cerveza(
 	Ciudad nvarchar(255) NULL,
 	Fundación int NULL,
 	[URL] nvarchar(255) NULL,
-	[Empresa matriz] nvarchar(255) NULL 
+	[Empresa matriz] nvarchar(255)
 )
 GO
 
-BULK INSERT Productores_Cerveza
-FROM '\\directorio\\productores.csv'
-WITH (
-    FORMAT = 'CSV',
-    FIELDTERMINATOR = ';',
-    ROWTERMINATOR = '\n',
-    FIRSTROW = 2,
-    CODEPAGE='65001'
-	)
-GO
-
--- 3. Tabla Cervezas
+-- 1.3 TABLA CERVEZAS
+-- Columna Grado: delimitador decimal tiene que ser . en lugar de ,
 
 CREATE TABLE Cervezas(
 	ID int PRIMARY KEY,
@@ -79,18 +56,7 @@ CREATE TABLE Cervezas(
 )
 GO
 
-BULK INSERT Cervezas
-FROM '\\directorio\\cervezas.csv' 
-WITH (
-    FORMAT = 'CSV',
-    FIELDTERMINATOR = ';',
-    ROWTERMINATOR = '\n',
-    FIRSTROW = 2,
-    CODEPAGE='65001'
-	)
-GO
-
--- 4. Tabla Chapas
+-- 1.4 TABLA CHAPAS
 
 CREATE TABLE Chapas(
 	ID int PRIMARY KEY,
@@ -102,26 +68,16 @@ CREATE TABLE Chapas(
 	Inscripción nvarchar(255) NULL, 
 	Estado nvarchar(255) CHECK (Estado IN('Perfecto','Bueno','Regular','Malo')),
 	Repetida nvarchar(255) CHECK (Repetida IN('SI','NO')),
-	Formato nvarchar(255) CHECK (Formato IN('25cl','33cl','50cl')),
+	Formato nvarchar(255) CHECK (Formato IN('20cl','25cl','33cl','50cl')),
 	Registro datetime DEFAULT CURRENT_TIMESTAMP,
+	Imagen nvarchar(255),
 
 	FOREIGN KEY (Cerveza) REFERENCES Cervezas (Nombre) ON UPDATE CASCADE ON DELETE CASCADE,
 	FOREIGN KEY (Fabricante) REFERENCES Fabricantes_Chapa (Nombre) ON UPDATE CASCADE ON DELETE CASCADE
 ) 
 GO
 
-BULK INSERT Chapas
-FROM '\\directorio\\chapas.csv'
-WITH (
-    FORMAT = 'CSV',
-    FIELDTERMINATOR = ';',
-    ROWTERMINATOR = '\n',
-    FIRSTROW = 2,
-    CODEPAGE='65001'
-	)
-GO
-
--- 5. Tabla Catas
+-- 1.5 TABLA CATAS
 
 CREATE TABLE Catas(
 	ID int PRIMARY KEY,
@@ -135,18 +91,126 @@ CREATE TABLE Catas(
 )
 GO
 
-BULK INSERT Catas
-FROM '\\directorio\\catas.csv'
+-- [[2. INSERTAR DATOS]]
+-- Definir @directorio
+-- BULK INSERT >> Importar/insertir registros
+
+-- 2.1 DECLARAR VARIABLES
+
+DECLARE @directorio nvarchar(255)
+SET @directorio = N'D:\\db_chapas_cerveza_dev\\data\\'
+
+DECLARE @archivo nvarchar(255)
+DECLARE @rutacompleta nvarchar(255)
+DECLARE @sql nvarchar(max)
+
+-- 2.2 DATOS TABLA FABRICANTES_CHAPA
+-- Construir consulta dinámica (Bulk insert no permite utilizar directamente una variable en FROM)
+
+SET @archivo = N'fabricantes.csv'
+SET @rutacompleta = @directorio + @archivo
+
+SET @sql = N'BULK INSERT Fabricantes_Chapa
+FROM ''' + @rutacompleta + N'''
 WITH (
-    FORMAT = 'CSV',
-    FIELDTERMINATOR = ';',
-    ROWTERMINATOR = '\n',
+    FORMAT = ''CSV'',
+    FIELDTERMINATOR = '';'',
+    ROWTERMINATOR = ''\n'',
     FIRSTROW = 2,
-    CODEPAGE='65001'
-	)
+    CODEPAGE=''65001''
+)'
+
+-- Ejecutar consulta dinámica
+
+EXEC sp_executesql @sql
+
+-- 2.3 DATOS TABLA PRODUCTORES_CERVEZA
+-- Actualizar variable archivo y rutacompleta
+-- Construir consulta dinámica (Bulk insert no permite utilizar directamente una variable en FROM)
+
+SET @archivo = N'productores.csv'
+SET @rutacompleta = @directorio + @archivo
+
+SET @sql = N'BULK INSERT Productores_Cerveza
+FROM ''' + @rutacompleta + N'''
+WITH (
+    FORMAT = ''CSV'',
+    FIELDTERMINATOR = '';'',
+    ROWTERMINATOR = ''\n'',
+    FIRSTROW = 2,
+    CODEPAGE=''65001''
+)'
+
+-- Ejecutar la consulta dinámica
+
+EXEC sp_executesql @sql
+
+-- 2.4 DATOS TABLA CERVEZAS
+-- Actualizar variable archivo y rutacompleta
+-- Construir consulta dinámica (Bulk insert no permite utilizar directamente una variable en FROM)
+
+SET @archivo = N'cervezas.csv'
+SET @rutacompleta = @directorio + @archivo
+
+SET @sql = N'BULK INSERT Cervezas
+FROM ''' + @rutacompleta + N'''
+WITH (
+    FORMAT = ''CSV'',
+    FIELDTERMINATOR = '';'',
+    ROWTERMINATOR = ''\n'',
+    FIRSTROW = 2,
+    CODEPAGE=''65001''
+)'
+
+-- Ejecutar la consulta dinámica
+
+EXEC sp_executesql @sql
+
+
+-- 2.5 DATOS TABLA CHAPAS
+-- Actualizar variable archivo y rutacompleta
+-- Construir consulta dinámica (Bulk insert no permite utilizar directamente una variable en FROM)
+
+SET @archivo = N'chapas.csv'
+SET @rutacompleta = @directorio + @archivo
+
+SET @sql = N'BULK INSERT Chapas
+FROM ''' + @rutacompleta + N'''
+WITH (
+    FORMAT = ''CSV'',
+    FIELDTERMINATOR = '';'',
+    ROWTERMINATOR = ''\n'',
+    FIRSTROW = 2,
+    CODEPAGE=''65001''
+)'
+
+-- Ejecutar la consulta dinámica
+
+EXEC sp_executesql @sql
+
+-- 2.6 DATOS TABLA CATAS
+-- Actualizar variable archivo y rutacompleta
+-- Construir consulta dinámica (Bulk insert no permite utilizar directamente una variable en FROM)
+
+SET @archivo = N'catas.csv'
+SET @rutacompleta = @directorio + @archivo
+
+SET @sql = N'BULK INSERT Catas
+FROM ''' + @rutacompleta + N'''
+WITH (
+    FORMAT = ''CSV'',
+    FIELDTERMINATOR = '';'',
+    ROWTERMINATOR = ''\n'',
+    FIRSTROW = 2,
+    CODEPAGE=''65001''
+)'
+
+-- Ejecutar la consulta dinámica
+
+EXEC sp_executesql @sql
 GO
 
--- REGISTROS DE CADA TABLA
+-- [[3. REGISTROS DE CADA TABLA]]
 
 SELECT A.Nombre AS Fabricantes_Chapa, B.Nombre AS Productores_Cerveza, C.Nombre AS Cervezas, D.ID AS Chapas, E.Cerveza AS Catas
 FROM (SELECT COUNT(FC.Nombre) AS Nombre FROM Fabricantes_Chapa FC) A

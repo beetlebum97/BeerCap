@@ -1,0 +1,2031 @@
+[{
+  "ID": "1",
+  "Cerveza": "Mahou Cinco Estrellas",
+  "Nota de cata": "Con sed entra como agua.",
+  "Sabor": "Bueno",
+  "Puntos": "8",
+  "Fecha": "2018-04-15"
+}, {
+  "ID": "2",
+  "Cerveza": "San Miguel Fresca",
+  "Nota de cata": "Meado.",
+  "Sabor": "Malo",
+  "Puntos": "1",
+  "Fecha": "2018-04-15"
+}, {
+  "ID": "3",
+  "Cerveza": "Desperados Mojito",
+  "Nota de cata": "Menta cansina.",
+  "Sabor": "Malo",
+  "Puntos": "1",
+  "Fecha": null
+}, {
+  "ID": "4",
+  "Cerveza": "Desperados Original",
+  "Nota de cata": "Sucedáneo.",
+  "Sabor": "Regular",
+  "Puntos": "4",
+  "Fecha": null
+}, {
+  "ID": "5",
+  "Cerveza": "Corona Extra",
+  "Nota de cata": "Para mujeres.",
+  "Sabor": "Regular",
+  "Puntos": "4",
+  "Fecha": null
+}, {
+  "ID": "6",
+  "Cerveza": "Asahi Super Dry",
+  "Nota de cata": "De arroz...mierda.",
+  "Sabor": "Malo",
+  "Puntos": "1",
+  "Fecha": null
+}, {
+  "ID": "7",
+  "Cerveza": "Mahou Barrica Original",
+  "Nota de cata": "No me entusiasma.",
+  "Sabor": "Regular",
+  "Puntos": "4",
+  "Fecha": null
+}, {
+  "ID": "8",
+  "Cerveza": "Mahou Maestra",
+  "Nota de cata": "Te puede dejar KO.",
+  "Sabor": "Bueno",
+  "Puntos": "8",
+  "Fecha": null
+}, {
+  "ID": "9",
+  "Cerveza": "Voll-Damm",
+  "Nota de cata": "No engaña con las maltas: dos reales.",
+  "Sabor": "Bueno",
+  "Puntos": "8",
+  "Fecha": null
+}, {
+  "ID": "10",
+  "Cerveza": "Judas",
+  "Nota de cata": "Temida por su pegada.",
+  "Sabor": "Bueno",
+  "Puntos": "8",
+  "Fecha": null
+}, {
+  "ID": "11",
+  "Cerveza": "Blue Moon Belgian White",
+  "Nota de cata": "Naranja.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": null
+}, {
+  "ID": "12",
+  "Cerveza": "Grimbergen Blonde",
+  "Nota de cata": "Cereal contundente. Rica. Completa",
+  "Sabor": "Bueno",
+  "Puntos": "8",
+  "Fecha": "2022-08-01"
+}, {
+  "ID": "13",
+  "Cerveza": "Grimbergen Double Ambreé",
+  "Nota de cata": "Decepcionante, sin persistencia.",
+  "Sabor": "Regular",
+  "Puntos": "3",
+  "Fecha": "2022-03-01"
+}, {
+  "ID": "14",
+  "Cerveza": "Paulaner Weissbier",
+  "Nota de cata": "Valor seguro.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": null
+}, {
+  "ID": "15",
+  "Cerveza": "Franziskaner Premium Weissbier",
+  "Nota de cata": "La típica alemana.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2022-08-01"
+}, {
+  "ID": "16",
+  "Cerveza": "Stella Artois",
+  "Nota de cata": "Una cerveza equilibrada. Justa medida.",
+  "Sabor": "Bueno",
+  "Puntos": "8",
+  "Fecha": "2018-09-24"
+}, {
+  "ID": "17",
+  "Cerveza": "Heineken",
+  "Nota de cata": "Prefiero la Stella.",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": null
+}, {
+  "ID": "18",
+  "Cerveza": "Budweiser",
+  "Nota de cata": "Super básica.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": null
+}, {
+  "ID": "19",
+  "Cerveza": "Madrí Pilsner",
+  "Nota de cata": "Rubia del montón. Pasable.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2022-07-01"
+}, {
+  "ID": "20",
+  "Cerveza": "BrewDog Indie",
+  "Nota de cata": "Muy rara ¿Timo?",
+  "Sabor": "Malo",
+  "Puntos": "1",
+  "Fecha": null
+}, {
+  "ID": "21",
+  "Cerveza": "Cruzcampo Gran Reserva",
+  "Nota de cata": "Mejor de lo que esperaba.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": null
+}, {
+  "ID": "22",
+  "Cerveza": "Desperados Sangre",
+  "Nota de cata": "Sangría.",
+  "Sabor": "Regular",
+  "Puntos": "4",
+  "Fecha": null
+}, {
+  "ID": "23",
+  "Cerveza": "Pilsner Urquell",
+  "Nota de cata": "Fama e historia. Nada del otro mundo.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2021-08-01"
+}, {
+  "ID": "24",
+  "Cerveza": "Mahou Barrica Bourbon",
+  "Nota de cata": "Empalaga bastante.",
+  "Sabor": "Regular",
+  "Puntos": "4",
+  "Fecha": null
+}, {
+  "ID": "25",
+  "Cerveza": "Inedit Damm",
+  "Nota de cata": "Agradable y espumosa.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": null
+}, {
+  "ID": "26",
+  "Cerveza": "A. K. Damm",
+  "Nota de cata": "Muy suave. Entra fácil.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": null
+}, {
+  "ID": "27",
+  "Cerveza": "Sezoens Blond",
+  "Nota de cata": "Espumosa pero sin mucho sabor ni ánima.",
+  "Sabor": "Regular",
+  "Puntos": "3",
+  "Fecha": null
+}, {
+  "ID": "28",
+  "Cerveza": "Leffe Triple",
+  "Nota de cata": "Espuma, cuerpo, persistencia en boca…ingrediente secreto: azúcar.",
+  "Sabor": "Regular",
+  "Puntos": "3",
+  "Fecha": "2023-04-01"
+}, {
+  "ID": "29",
+  "Cerveza": "Krombacher Pils",
+  "Nota de cata": "Suave y refrescante. Ligera.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": null
+}, {
+  "ID": "30",
+  "Cerveza": "Moritz Epidor",
+  "Nota de cata": "Rica. 7,2% amables.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": null
+}, {
+  "ID": "31",
+  "Cerveza": "San Miguel Manila",
+  "Nota de cata": "¿Oxidada? Parece que atiza.",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": "2019-08-17"
+}, {
+  "ID": "32",
+  "Cerveza": "El Águila Sin Filtrar",
+  "Nota de cata": "0 espuma pero no está mal.",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": null
+}, {
+  "ID": "33",
+  "Cerveza": "Delirium Tremens",
+  "Nota de cata": "Amargor peculiar. ",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": null
+}, {
+  "ID": "34",
+  "Cerveza": "Brugse Zot Dubbel",
+  "Nota de cata": "Chocolate.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": null
+}, {
+  "ID": "35",
+  "Cerveza": "La Chouffe Blonde",
+  "Nota de cata": "Parecida a la Delirium. Afrutada y ácida.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2019-09-07"
+}, {
+  "ID": "36",
+  "Cerveza": "Birra Moretti Recetta Originale",
+  "Nota de cata": "Insípida.",
+  "Sabor": "Malo",
+  "Puntos": "1",
+  "Fecha": "2019-09-23"
+}, {
+  "ID": "37",
+  "Cerveza": "San Miguel Selecta",
+  "Nota de cata": "Espuma ok pero no se nota el 6,2% ni los 3 lúpulos. Flojo sabor",
+  "Sabor": "Malo",
+  "Puntos": "2",
+  "Fecha": "2019-09-26"
+}, {
+  "ID": "38",
+  "Cerveza": "Malquerida",
+  "Nota de cata": "Curiosa.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": null
+}, {
+  "ID": "39",
+  "Cerveza": "Quilmes Clásica",
+  "Nota de cata": "Gaseosa, poco gusto pero se puede beber.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": null
+}, {
+  "ID": "40",
+  "Cerveza": "Innis \u0026 Gunn Blood Red Skin",
+  "Nota de cata": "Fuerte, barrica, ron...afrodisiaca .",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2019-10-14"
+}, {
+  "ID": "41",
+  "Cerveza": "Innis \u0026 Gunn The Original",
+  "Nota de cata": "Barrica de calidad. Bourbon vainilla.",
+  "Sabor": "Bueno",
+  "Puntos": "8",
+  "Fecha": "2019-10-16"
+}, {
+  "ID": "42",
+  "Cerveza": "Innis \u0026 Gunn Gunpowder IPA",
+  "Nota de cata": "Cítrica diferente.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2019-10-26"
+}, {
+  "ID": "43",
+  "Cerveza": "Hop House 13",
+  "Nota de cata": "Buen regusto, me apetece otra a los 2s .",
+  "Sabor": "Bueno",
+  "Puntos": "8",
+  "Fecha": null
+}, {
+  "ID": "44",
+  "Cerveza": "Miller Genuine Draft",
+  "Nota de cata": "Agua muy fria.",
+  "Sabor": "Malo",
+  "Puntos": "1",
+  "Fecha": null
+}, {
+  "ID": "45",
+  "Cerveza": "Cubanisto",
+  "Nota de cata": "Marketing. Mierda. Incluso Desperados le da 1000 vueltas.",
+  "Sabor": "Malo",
+  "Puntos": "0",
+  "Fecha": "2019-11-23"
+}, {
+  "ID": "46",
+  "Cerveza": "Sol",
+  "Nota de cata": "Suave, espuma botella.",
+  "Sabor": "Regular",
+  "Puntos": "4",
+  "Fecha": "2019-11-30"
+}, {
+  "ID": "47",
+  "Cerveza": "DAB Export",
+  "Nota de cata": "Cruda y dura a pesar del 5%.",
+  "Sabor": "Regular",
+  "Puntos": "4",
+  "Fecha": "2019-12-23"
+}, {
+  "ID": "48",
+  "Cerveza": "Mahou Barrica 12 Meses",
+  "Nota de cata": "Fuerte y rica.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2019-12-24"
+}, {
+  "ID": "49",
+  "Cerveza": "Guinness Original Extra Stout",
+  "Nota de cata": "Recuerda a la de barril cuando estás lleno.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2019-12-27"
+}, {
+  "ID": "50",
+  "Cerveza": "La Trappe Dubbel",
+  "Nota de cata": "Roja y rica.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2020-01-07"
+}, {
+  "ID": "51",
+  "Cerveza": "Lagunitas IPA",
+  "Nota de cata": "Hierba alegre.",
+  "Sabor": "Bueno",
+  "Puntos": "8",
+  "Fecha": "2024-03-20"
+}, {
+  "ID": "52",
+  "Cerveza": "Complot IPA",
+  "Nota de cata": "Lúpulo muy presente. Mejor IPA.",
+  "Sabor": "Bueno",
+  "Puntos": "8",
+  "Fecha": "2021-04-01"
+}, {
+  "ID": "53",
+  "Cerveza": "Hoegaarden Wit",
+  "Nota de cata": "De las más sutiles y delicadas que he probado. Tiene su punto.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2022-09-01"
+}, {
+  "ID": "54",
+  "Cerveza": "Sierra Nevada Pale Ale",
+  "Nota de cata": "Cítrica rara.",
+  "Sabor": "Regular",
+  "Puntos": "4",
+  "Fecha": "2020-02-09"
+}, {
+  "ID": "55",
+  "Cerveza": "Sierra Nevada Torpedo Extra IPA",
+  "Nota de cata": "Presencia en boca, sabor duradero.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2022-03-01"
+}, {
+  "ID": "56",
+  "Cerveza": "Toro",
+  "Nota de cata": "Suave, caramelo, sabor a fino, color cobre oscuro.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2020-03-01"
+}, {
+  "ID": "57",
+  "Cerveza": "Staropramen Premium",
+  "Nota de cata": "Ligera, refrescante, suave, bien.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2020-03-12"
+}, {
+  "ID": "58",
+  "Cerveza": "Super Bock Original",
+  "Nota de cata": "Rubia normal. Gas y amargor adecuado. Decente.",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": "2020-03-13"
+}, {
+  "ID": "59",
+  "Cerveza": "Guinness Draught",
+  "Nota de cata": "La mítica de la bola en lata o boya en cristal. Café.",
+  "Sabor": "Excelente",
+  "Puntos": "9",
+  "Fecha": "2020-03-18"
+}, {
+  "ID": "60",
+  "Cerveza": "Mahou Cinco Estrellas Session IPA",
+  "Nota de cata": "Aroma cítrico típico, refrescante...no me dice mucho.",
+  "Sabor": "Regular",
+  "Puntos": "4",
+  "Fecha": "2020-03-15"
+}, {
+  "ID": "61",
+  "Cerveza": "Sierra Nevada Torpedo Tropical IPA",
+  "Nota de cata": "Cítrica. Muy fria. Bien.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2020-03-21"
+}, {
+  "ID": "62",
+  "Cerveza": "Daura",
+  "Nota de cata": "Rubia normal sin gluten. Ni fu ni fa.",
+  "Sabor": "Regular",
+  "Puntos": "3",
+  "Fecha": "2020-03-23"
+}, {
+  "ID": "63",
+  "Cerveza": "Pinkus Demeter Müller’s Lagerbier",
+  "Nota de cata": "Punto ácido especial.",
+  "Sabor": "Bueno",
+  "Puntos": "8",
+  "Fecha": "2020-03-29"
+}, {
+  "ID": "64",
+  "Cerveza": "Kirin Ichiban",
+  "Nota de cata": "Rubia amarga sin espuma.",
+  "Sabor": "Regular",
+  "Puntos": "4",
+  "Fecha": "2020-04-04"
+}, {
+  "ID": "65",
+  "Cerveza": "Tiger",
+  "Nota de cata": "Agua coloreada. ",
+  "Sabor": "Malo",
+  "Puntos": "1",
+  "Fecha": "2020-04-07"
+}, {
+  "ID": "66",
+  "Cerveza": "Vogelsberger Naturtrüb Bio Radler",
+  "Nota de cata": "Limonada natural.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2018-04-15"
+}, {
+  "ID": "67",
+  "Cerveza": "Benediktinerabtei Plankstetten Dinkel",
+  "Nota de cata": "Sin filtrar. Cuerpo, gas, espuma correctos. Entra bien, no empalaga ni es insípida. OK.",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": "2020-04-11"
+}, {
+  "ID": "68",
+  "Cerveza": "Affligem Dubbel",
+  "Nota de cata": "Consistente caramelo, espumosa. Lo que se espera de una tostada belga.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2020-04-14"
+}, {
+  "ID": "69",
+  "Cerveza": "Weltenburger Kloster Helle Weiße",
+  "Nota de cata": "Trigo...bien pero muy suave. Sin regusto. Nombre alt: Weltenburger Kloster Hefe-Weisbier Hell.",
+  "Sabor": "Regular",
+  "Puntos": "5",
+  "Fecha": "2020-04-21"
+}, {
+  "ID": "70",
+  "Cerveza": "Hofbräu München Weisse",
+  "Nota de cata": "Trigo sin filtrar, bien y pega más que la Kloster. Más duradera.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2020-04-24"
+}, {
+  "ID": "71",
+  "Cerveza": "La Trappe Isid\u0027or",
+  "Nota de cata": "Bien.",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": "2018-04-15"
+}, {
+  "ID": "72",
+  "Cerveza": "La Trappe Quadrupel",
+  "Nota de cata": "10% sueño.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2018-04-15"
+}, {
+  "ID": "73",
+  "Cerveza": "Waterloo Triple Blonde",
+  "Nota de cata": "Activa las pápilas, eso es buena señal. Gran persistencia. Porosa.",
+  "Sabor": "Excelente",
+  "Puntos": "9",
+  "Fecha": "2020-05-11"
+}, {
+  "ID": "74",
+  "Cerveza": "Timmermans Kriek Lambicus",
+  "Nota de cata": "Chicle, gominola. Fácil de beber. Mejor que Desperados y otros sucedáneos.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2020-05-14"
+}, {
+  "ID": "75",
+  "Cerveza": "Bourgogne des Flandres",
+  "Nota de cata": "Aroma de vino (barrica). Explota en boca con una segunda espuma que estimula la lengua.",
+  "Sabor": "Excelente",
+  "Puntos": "10",
+  "Fecha": "2020-05-16"
+}, {
+  "ID": "76",
+  "Cerveza": "Burro de Sancho Rubia",
+  "Nota de cata": "Rubia de manual.",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": "2020-05-18"
+}, {
+  "ID": "77",
+  "Cerveza": "La Cibeles Rubia",
+  "Nota de cata": "Suave y refrescante, poco gas. Ok, parece de trigo.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2020-05-21"
+}, {
+  "ID": "78",
+  "Cerveza": "Madrid Lager",
+  "Nota de cata": "Rubia normalita. Se bebe rápido.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2020-05-30"
+}, {
+  "ID": "79",
+  "Cerveza": "1906 Red Vintage",
+  "Nota de cata": "No me convence. Un poco de caramelo...a ver si por lo menos pega. Eso parece.",
+  "Sabor": "Regular",
+  "Puntos": "4",
+  "Fecha": "2020-06-01"
+}, {
+  "ID": "80",
+  "Cerveza": "Jamonera",
+  "Nota de cata": "Rica, con cuerpo. Entra bien.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2020-06-15"
+}, {
+  "ID": "81",
+  "Cerveza": "Desperados Lima",
+  "Nota de cata": "Refresco.",
+  "Sabor": "Regular",
+  "Puntos": "3",
+  "Fecha": "2020-06-20"
+}, {
+  "ID": "82",
+  "Cerveza": "Argus Reserva 1844",
+  "Nota de cata": "Entre rubia y tostada. Sabor fuertecillo. Aunque no pega o eso me pareció.",
+  "Sabor": "Regular",
+  "Puntos": "3",
+  "Fecha": "2020-11-01"
+}, {
+  "ID": "83",
+  "Cerveza": "Bock Damm",
+  "Nota de cata": "Negra rica a lo Guinness. Buena espuma.",
+  "Sabor": "Bueno",
+  "Puntos": "8",
+  "Fecha": "2020-07-16"
+}, {
+  "ID": "84",
+  "Cerveza": "Warsteiner Premium Beer",
+  "Nota de cata": "Rubia blanda alemana, un poco seca amarga.",
+  "Sabor": "Regular",
+  "Puntos": "4",
+  "Fecha": "2020-07-19"
+}, {
+  "ID": "85",
+  "Cerveza": "Cusqueña Negra",
+  "Nota de cata": "Negra dulzarrona. Extraña. No me gusta.",
+  "Sabor": "Malo",
+  "Puntos": "1",
+  "Fecha": "2022-02-01"
+}, {
+  "ID": "86",
+  "Cerveza": "Presidente",
+  "Nota de cata": "Rubia decente, cuerpo, sabor, alegria, no hincha. Poco gas.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2020-07-27"
+}, {
+  "ID": "87",
+  "Cerveza": "Dos Equis Lager",
+  "Nota de cata": "Floja y aguada con una pizca de ánima.",
+  "Sabor": "Regular",
+  "Puntos": "3",
+  "Fecha": "2020-07-28"
+}, {
+  "ID": "88",
+  "Cerveza": "Founders All Day IPA",
+  "Nota de cata": "Toque naranja amarga. OK.",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": "2020-08-05"
+}, {
+  "ID": "89",
+  "Cerveza": "Brooklyn Lager",
+  "Nota de cata": "Toque cítrico. Pega un poco. Ok.",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": "2020-08-07"
+}, {
+  "ID": "90",
+  "Cerveza": "Cusqueña Dorada",
+  "Nota de cata": "Correcta, regusto seco, gas ok, olor un poco raro.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2020-08-09"
+}, {
+  "ID": "91",
+  "Cerveza": "Club Colombia Dorada",
+  "Nota de cata": "No tan seca pero bien, decente. Poca ánima.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2020-08-11"
+}, {
+  "ID": "92",
+  "Cerveza": "Spaten Münchner Hell ",
+  "Nota de cata": "Ok.",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": "2020-08-13"
+}, {
+  "ID": "93",
+  "Cerveza": "Altvater Weissbierbock",
+  "Nota de cata": "Trigo contundente (con cebada). Cuerpo, sabor, llena, rica. Bien.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2020-08-14"
+}, {
+  "ID": "94",
+  "Cerveza": "Amstel Oro",
+  "Nota de cata": "Tostada, caramelo, nada especial.",
+  "Sabor": "Regular",
+  "Puntos": "4",
+  "Fecha": "2020-08-18"
+}, {
+  "ID": "95",
+  "Cerveza": "La Salve Munich",
+  "Nota de cata": "Tostada, bonito color, pega.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2020-08-20"
+}, {
+  "ID": "96",
+  "Cerveza": "Oro Bilbao",
+  "Nota de cata": "Muy equilibrada, cuerpo, color,sabor, amargor, ánima. Me llama la atencion.",
+  "Sabor": "Bueno",
+  "Puntos": "8",
+  "Fecha": "2020-08-21"
+}, {
+  "ID": "97",
+  "Cerveza": "Mort Subite Kriek Lambic",
+  "Nota de cata": "Cerezas.",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": "2020-08-23"
+}, {
+  "ID": "98",
+  "Cerveza": "Chang Classic",
+  "Nota de cata": "Rubia seca y gaseosa. Se deja beber. El vidrio más pesado que he visto (1/3).",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2020-09-08"
+}, {
+  "ID": "99",
+  "Cerveza": "Sandels 5.3%",
+  "Nota de cata": "Rubia correcta pero no destaca en nada.",
+  "Sabor": "Regular",
+  "Puntos": "4",
+  "Fecha": "2020-09-09"
+}, {
+  "ID": "100",
+  "Cerveza": "O\u0027Hara\u0027s Irish Red",
+  "Nota de cata": "Curiosa malta caramelizada.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2018-04-15"
+}, {
+  "ID": "101",
+  "Cerveza": "O\u0027Hara\u0027s Irish Stout",
+  "Nota de cata": "Negra con sabor a café y toques de carbón. Poca ánima.",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": "2018-04-15"
+}, {
+  "ID": "102",
+  "Cerveza": "12·70 Lager",
+  "Nota de cata": "Tostada rica sin espuma.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2018-04-15"
+}, {
+  "ID": "103",
+  "Cerveza": "Chimay Bleue",
+  "Nota de cata": "Un filete batido. Rico pero contundente.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2020-09-01"
+}, {
+  "ID": "104",
+  "Cerveza": "Erdinger Weissbier",
+  "Nota de cata": "Trigo ácido.",
+  "Sabor": "Regular",
+  "Puntos": "4",
+  "Fecha": "2020-09-21"
+}, {
+  "ID": "105",
+  "Cerveza": "Bischofshof Hefe-Weissbier Dunkel",
+  "Nota de cata": "Trigo negro. Espumosa y sosa.",
+  "Sabor": "Regular",
+  "Puntos": "3",
+  "Fecha": "2018-04-15"
+}, {
+  "ID": "106",
+  "Cerveza": "Cumberland Golden Beer",
+  "Nota de cata": "Rubia ni buena ni mala…Algo plana con poca pegada 4%.",
+  "Sabor": "Regular",
+  "Puntos": "4",
+  "Fecha": "2018-04-15"
+}, {
+  "ID": "107",
+  "Cerveza": "Hobgoblin Ruby",
+  "Nota de cata": "Tostada normal. Ánima buena aunque son 50cl.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2018-04-15"
+}, {
+  "ID": "108",
+  "Cerveza": "McEwan\u0027s Levy",
+  "Nota de cata": "Negra suave. Café apetecible.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2018-04-15"
+}, {
+  "ID": "109",
+  "Cerveza": "Razorback",
+  "Nota de cata": "Sabe a madera.",
+  "Sabor": "Malo",
+  "Puntos": "2",
+  "Fecha": "2018-04-15"
+}, {
+  "ID": "110",
+  "Cerveza": "Pedigree",
+  "Nota de cata": "Poca espuma. Tostada color marrón claro bonito. No hay mucho que decir.",
+  "Sabor": "Regular",
+  "Puntos": "3",
+  "Fecha": "2020-10-01"
+}, {
+  "ID": "111",
+  "Cerveza": "Lancaster Bomber",
+  "Nota de cata": "Cítrica amarga, tostada, bonito color. Se puede beber.",
+  "Sabor": "Regular",
+  "Puntos": "4",
+  "Fecha": "2018-04-15"
+}, {
+  "ID": "112",
+  "Cerveza": "Ambar 1900",
+  "Nota de cata": "Cumple lo prometido en la etiqueta (suave, clara, refrescante).",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2022-03-01"
+}, {
+  "ID": "113",
+  "Cerveza": "Alhambra Especial",
+  "Nota de cata": "Rubia rica dentro de un estándar.",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": "2020-10-01"
+}, {
+  "ID": "114",
+  "Cerveza": "Grimbergen Belgian Pale Ale",
+  "Nota de cata": "Espuma nata, toque cítrico. Entra bien, huele bien.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2023-02-10"
+}, {
+  "ID": "115",
+  "Cerveza": "The Brale",
+  "Nota de cata": "Normalita. Amarga con una pizca de naranja.",
+  "Sabor": "Regular",
+  "Puntos": "4",
+  "Fecha": "2020-11-01"
+}, {
+  "ID": "116",
+  "Cerveza": "San Miguel Magna",
+  "Nota de cata": "Rubia con algo más de cuerpo de lo normal.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2020-11-01"
+}, {
+  "ID": "117",
+  "Cerveza": "Desperados Ginger",
+  "Nota de cata": "Se bebe muy rápido pero apenas deja regusto. Quizá un toque amargo especial.",
+  "Sabor": "Regular",
+  "Puntos": "3",
+  "Fecha": "2020-11-01"
+}, {
+  "ID": "118",
+  "Cerveza": "Especialidades 1897 Trigo",
+  "Nota de cata": "Me gusta, de trigo con cuerpo fuerte aunque olor no muy allá.",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": "2020-11-01"
+}, {
+  "ID": "119",
+  "Cerveza": "Camaro",
+  "Nota de cata": "Agua de Lidl con aditivos.",
+  "Sabor": "Malo",
+  "Puntos": "0",
+  "Fecha": "2020-12-01"
+}, {
+  "ID": "120",
+  "Cerveza": "Ambar Export",
+  "Nota de cata": "Tres maltas que parecen una.",
+  "Sabor": "Regular",
+  "Puntos": "3",
+  "Fecha": "2023-06-17"
+}, {
+  "ID": "121",
+  "Cerveza": "La Sagra Calabaza y Canela",
+  "Nota de cata": "Roja suave. Apenás hay espuma. ¿Mal tirada? Flojilla para ser roja. Poca ánima.",
+  "Sabor": "Regular",
+  "Puntos": "3",
+  "Fecha": "2020-12-01"
+}, {
+  "ID": "122",
+  "Cerveza": "Carlsberg",
+  "Nota de cata": "Cerveza de verano. Un poco de chispa.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2020-12-01"
+}, {
+  "ID": "123",
+  "Cerveza": "Alhambra Reserva Esencia Citra IPA",
+  "Nota de cata": "Una rubia reforzada con regusto a limón. No está mal. Saciante.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2020-12-01"
+}, {
+  "ID": "124",
+  "Cerveza": "Blanche De Charleroi",
+  "Nota de cata": "De trigo con cuerpo y espuma copa danone, asienta en el estomago pero no es agua. Bastante bien.",
+  "Sabor": "Bueno",
+  "Puntos": "8",
+  "Fecha": "2020-12-31"
+}, {
+  "ID": "125",
+  "Cerveza": "Te Deum Amber",
+  "Nota de cata": "Caramelo espumoso.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2022-07-01"
+}, {
+  "ID": "126",
+  "Cerveza": "Erdinger Weissbier Dunkel",
+  "Nota de cata": "Negra de trigo. Cunde mucho porque casi lleno dos pintas pero demasiado suave.",
+  "Sabor": "Regular",
+  "Puntos": "4",
+  "Fecha": "2021-01-01"
+}, {
+  "ID": "127",
+  "Cerveza": "Abbaye D\u0027Aulne Blonde",
+  "Nota de cata": "Super espuma, desborda. Amargor cítrico sin persistencia en boca. Fina. Pega pero falta de cuerpo.",
+  "Sabor": "Regular",
+  "Puntos": "4",
+  "Fecha": "2021-01-01"
+}, {
+  "ID": "128",
+  "Cerveza": "Alhambra Baltic Porter",
+  "Nota de cata": "Negra con potente sabor a café y chocolate. 7,8% muy interesante.",
+  "Sabor": "Excelente",
+  "Puntos": "9",
+  "Fecha": "2021-01-01"
+}, {
+  "ID": "129",
+  "Cerveza": "Grevensteiner Original",
+  "Nota de cata": "Huele bien. Sabor suave sin persistencia, turbia, espuma mediocre. Esperaba más cuerpo.",
+  "Sabor": "Regular",
+  "Puntos": "3",
+  "Fecha": "2021-01-01"
+}, {
+  "ID": "130",
+  "Cerveza": "Budweiser Budvar Original",
+  "Nota de cata": "Es la del litigio con Budweiser. Rubia clásica, equilibrada, alegra.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2021-01-31"
+}, {
+  "ID": "131",
+  "Cerveza": "Trappistes Rochefort 8",
+  "Nota de cata": "Densa. Toque chocolate. No invade el %. Calidad. No pierde fuerza, cada sorbo es como el primero.",
+  "Sabor": "Excelente",
+  "Puntos": "10",
+  "Fecha": "2021-02-07"
+}, {
+  "ID": "132",
+  "Cerveza": "Brewdog Punk IPA",
+  "Nota de cata": "No es un desastre pero no repito.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2024-03-03"
+}, {
+  "ID": "133",
+  "Cerveza": "Camden Pale Ale",
+  "Nota de cata": "Huele a hierba pero no es tan fresca.",
+  "Sabor": "Regular",
+  "Puntos": "4",
+  "Fecha": "2021-02-01"
+}, {
+  "ID": "134",
+  "Cerveza": "Einstök Icelandic Toasted Porter",
+  "Nota de cata": "Petróleo islándes, super negra. Licor de café. Aroma a chocolate.",
+  "Sabor": "Excelente",
+  "Puntos": "9",
+  "Fecha": "2021-02-01"
+}, {
+  "ID": "135",
+  "Cerveza": "Hoegaarden De Verboden Vrucht / Le Fruit Défendu",
+  "Nota de cata": "Caramelo pesado. No noto su 8%...mal",
+  "Sabor": "Malo",
+  "Puntos": "2",
+  "Fecha": "2021-02-01"
+}, {
+  "ID": "136",
+  "Cerveza": "Turia Märzen",
+  "Nota de cata": "Tostada correcta, más cerca de una rubia que de una morena.",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": "2021-03-01"
+}, {
+  "ID": "137",
+  "Cerveza": "Weihenstephaner Hefeweissbier",
+  "Nota de cata": "Entra como la seda, sabe a cereal aunque no tiene mucha persistencia en boca.",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": "2021-03-01"
+}, {
+  "ID": "138",
+  "Cerveza": "Hertog Jan Tripel",
+  "Nota de cata": "Buen sabor. Atiza.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2021-03-01"
+}, {
+  "ID": "139",
+  "Cerveza": "OXIT Blonde",
+  "Nota de cata": "Sabor rancio con mucho sedimento…Si no está defectuosa de lo peor que he bebido.",
+  "Sabor": "Malo",
+  "Puntos": "0",
+  "Fecha": "2021-03-01"
+}, {
+  "ID": "140",
+  "Cerveza": "Ginette Bio Lager",
+  "Nota de cata": "Rubia muy muy normalita.",
+  "Sabor": "Regular",
+  "Puntos": "4",
+  "Fecha": "2021-03-01"
+}, {
+  "ID": "141",
+  "Cerveza": "312 Urban Wheat",
+  "Nota de cata": "0 espuma pero aguanta y me activa 1 hora (Bailén).",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2021-03-01"
+}, {
+  "ID": "142",
+  "Cerveza": "Modelo Especial",
+  "Nota de cata": "Se puede beber pero lleva aditivos e-…",
+  "Sabor": "Malo",
+  "Puntos": "2",
+  "Fecha": "2021-03-01"
+}, {
+  "ID": "143",
+  "Cerveza": "Especialidades 1897 Gran Reserva",
+  "Nota de cata": "No encuentro el trigo. No sé que pinta el azucar ni el jarabe que lleva y encima la hacen en Francia..mal",
+  "Sabor": "Malo",
+  "Puntos": "0",
+  "Fecha": "2021-03-01"
+}, {
+  "ID": "144",
+  "Cerveza": "Hélécine Brune",
+  "Nota de cata": "Caramelo soso. No cansa pero tampoco alegra.",
+  "Sabor": "Regular",
+  "Puntos": "4",
+  "Fecha": "2021-03-01"
+}, {
+  "ID": "145",
+  "Cerveza": "Alhambra Barrica Ron Granadino",
+  "Nota de cata": "De menos a más. Dulce, saciante...oh ánima trascendental,tal vez no sé apreciar el ron. 1 unidad produce minutos de expansión.",
+  "Sabor": "Bueno",
+  "Puntos": "8",
+  "Fecha": "2021-04-01"
+}, {
+  "ID": "146",
+  "Cerveza": "Old Empire IPA",
+  "Nota de cata": "OK. No tomar helada.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2021-04-01"
+}, {
+  "ID": "147",
+  "Cerveza": "Alhambra Reserva Roja",
+  "Nota de cata": "Noto los 7,2 y poco más.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2021-04-01"
+}, {
+  "ID": "148",
+  "Cerveza": "Ambar IPA",
+  "Nota de cata": "Bátido de césped. Se va rápido. Floja.",
+  "Sabor": "Malo",
+  "Puntos": "2",
+  "Fecha": "2021-04-01"
+}, {
+  "ID": "149",
+  "Cerveza": "Carrefour Sensation Reserva",
+  "Nota de cata": "No lleva mierda y tiene agua de Madrid. Rica.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2021-04-01"
+}, {
+  "ID": "150",
+  "Cerveza": "Pilsener",
+  "Nota de cata": "Una pizca de gas y nada más. Cerveza aguada.",
+  "Sabor": "Malo",
+  "Puntos": "1",
+  "Fecha": "2021-04-01"
+}, {
+  "ID": "151",
+  "Cerveza": "Hatherwood Ginger Grizzly",
+  "Nota de cata": "Gengibre...dulce y especiada. No parece cerveza.",
+  "Sabor": "Regular",
+  "Puntos": "3",
+  "Fecha": "2021-04-01"
+}, {
+  "ID": "152",
+  "Cerveza": "Riedenburger Hefe-Weizen Hell",
+  "Nota de cata": "Sin mucho sabor aunque algo anima.",
+  "Sabor": "Regular",
+  "Puntos": "4",
+  "Fecha": "2021-05-01"
+}, {
+  "ID": "153",
+  "Cerveza": "Monkey Mr. Pink",
+  "Nota de cata": "Espuma atómica. Se bebe bien.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2021-05-01"
+}, {
+  "ID": "154",
+  "Cerveza": "NÓS Fox IPA",
+  "Nota de cata": "Ok rica y pega algo.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2021-05-01"
+}, {
+  "ID": "155",
+  "Cerveza": "Domus Aurea",
+  "Nota de cata": "Demasiado cítrica, ni fu ni fa.",
+  "Sabor": "Regular",
+  "Puntos": "4",
+  "Fecha": "2021-05-01"
+}, {
+  "ID": "156",
+  "Cerveza": "Maisel \u0026 Friends IPA",
+  "Nota de cata": "Amarga con aroma a hierba. Bien.",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": "2021-05-01"
+}, {
+  "ID": "157",
+  "Cerveza": "Crafted for Lidl - Eureka Lager",
+  "Nota de cata": "Plana.",
+  "Sabor": "Malo",
+  "Puntos": "2",
+  "Fecha": "2021-05-01"
+}, {
+  "ID": "158",
+  "Cerveza": "Crafted for Lidl - Warrior",
+  "Nota de cata": "Aceptable.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2021-05-01"
+}, {
+  "ID": "159",
+  "Cerveza": "Guineu Dr. Calypso",
+  "Nota de cata": "Turbia con cuerpo. Aprobado.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2021-05-22"
+}, {
+  "ID": "160",
+  "Cerveza": "Tyris IPA",
+  "Nota de cata": "IPA decente.",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": "2021-05-01"
+}, {
+  "ID": "161",
+  "Cerveza": "La Socarrada",
+  "Nota de cata": "Club gourmet mis cojones. Muy floja, 0 chispa 0 regusto.",
+  "Sabor": "Malo",
+  "Puntos": "1",
+  "Fecha": "2021-05-01"
+}, {
+  "ID": "162",
+  "Cerveza": "Cerdos Voladores",
+  "Nota de cata": "IPA con cuerpo, bien.",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": "2021-06-01"
+}, {
+  "ID": "163",
+  "Cerveza": "Maredsous Brune",
+  "Nota de cata": "Sabor rico pero no noto el 8%.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2021-06-01"
+}, {
+  "ID": "164",
+  "Cerveza": "Veltins Pilsener",
+  "Nota de cata": "Otra rubia más.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2021-06-01"
+}, {
+  "ID": "165",
+  "Cerveza": "Cobra Premium",
+  "Nota de cata": "Se agarra a la lengua, aceptable.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2021-06-01"
+}, {
+  "ID": "166",
+  "Cerveza": "Chérie À La Framboise",
+  "Nota de cata": "Sabor frambresa es un win win pero es una trampa: azúcar, concentrado, etc.",
+  "Sabor": "Regular",
+  "Puntos": "3",
+  "Fecha": "2021-06-01"
+}, {
+  "ID": "167",
+  "Cerveza": "Vedett Extra White",
+  "Nota de cata": "Ni la entiendo ni me gusta. Amargor plano",
+  "Sabor": "Malo",
+  "Puntos": "1",
+  "Fecha": "2021-06-01"
+}, {
+  "ID": "168",
+  "Cerveza": "Lindemans Faro",
+  "Nota de cata": "Vino dulce de Oporto.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2021-06-01"
+}, {
+  "ID": "169",
+  "Cerveza": "Schöfferhofer Hefeweizen Dunkel",
+  "Nota de cata": "Trigo negro potente, no te la bebes en 0, como otras de trigo.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2021-06-01"
+}, {
+  "ID": "170",
+  "Cerveza": "Tripel Karmeliet",
+  "Nota de cata": "Mal asunto cuando solo noto el alcohol. Da pereza acabarla. Decepciona.",
+  "Sabor": "Regular",
+  "Puntos": "3",
+  "Fecha": "2021-07-01"
+}, {
+  "ID": "171",
+  "Cerveza": "Abbaye D\u0027Aulne Ambrée",
+  "Nota de cata": "Birra de otoño. Poca ánima, sabor regular, tonos caramelo.",
+  "Sabor": "Regular",
+  "Puntos": "4",
+  "Fecha": "2021-07-01"
+}, {
+  "ID": "172",
+  "Cerveza": "Abbaye D\u0027Aulne Brune",
+  "Nota de cata": "Muy empalagosa. Acabo harto.",
+  "Sabor": "Malo",
+  "Puntos": "1",
+  "Fecha": "2021-07-01"
+}, {
+  "ID": "173",
+  "Cerveza": "Abbaye D\u0027Aulne Cuvée Royale",
+  "Nota de cata": "Ni frio ni calor. Negra mediocre.",
+  "Sabor": "Malo",
+  "Puntos": "2",
+  "Fecha": "2021-07-01"
+}, {
+  "ID": "174",
+  "Cerveza": "New Yorker Fine Lager",
+  "Nota de cata": "Rubia fresca, ligera sin renunciar a la sustancia.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2021-07-01"
+}, {
+  "ID": "175",
+  "Cerveza": "15\u002630 IPA",
+  "Nota de cata": "Saborcillo a Jerez, madera...vale. Aprobada.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2021-07-01"
+}, {
+  "ID": "176",
+  "Cerveza": "Polar Pilsen",
+  "Nota de cata": "Poco sabor. Fresca seca. Olvidable.",
+  "Sabor": "Malo",
+  "Puntos": "2",
+  "Fecha": "2021-07-01"
+}, {
+  "ID": "177",
+  "Cerveza": "Ginger Beard",
+  "Nota de cata": "Gengibre. Regusto algo picante… No me convencen estas birras. Para mezclar.",
+  "Sabor": "Regular",
+  "Puntos": "4",
+  "Fecha": "2021-08-01"
+}, {
+  "ID": "178",
+  "Cerveza": "The Crafty Brewing Company Irish Pale Ale ",
+  "Nota de cata": "Aceptable. No te harás adicto. No la vomitarás.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2021-08-01"
+}, {
+  "ID": "179",
+  "Cerveza": "Primátor Premium",
+  "Nota de cata": "Lager para el veranito.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2021-08-01"
+}, {
+  "ID": "180",
+  "Cerveza": "Abbaye D\u0027Aulne Premier Cru",
+  "Nota de cata": "Mejor que otras cervezas de la marca.",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": "2021-08-01"
+}, {
+  "ID": "181",
+  "Cerveza": "Duvel",
+  "Nota de cata": "Rubia golpeadora.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2021-08-01"
+}, {
+  "ID": "182",
+  "Cerveza": "Primátor Weizen",
+  "Nota de cata": "Trigo rico y fresco sin ser soso.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2021-09-01"
+}, {
+  "ID": "183",
+  "Cerveza": "Super Bock Abadia",
+  "Nota de cata": "0 sabor.",
+  "Sabor": "Malo",
+  "Puntos": "1",
+  "Fecha": "2021-09-01"
+}, {
+  "ID": "184",
+  "Cerveza": "1906 Galician Irish Red Ale",
+  "Nota de cata": "Llena, sabe y refresca. Bastante bien.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2021-09-01"
+}, {
+  "ID": "185",
+  "Cerveza": "Chouffe Blanche",
+  "Nota de cata": "Trigo consistente. No se esfuma.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2021-10-01"
+}, {
+  "ID": "186",
+  "Cerveza": "Duvel 6.66%",
+  "Nota de cata": "Rica pero demasiado suave, tonos cítricos, espuma de ducha.",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": "2021-10-01"
+}, {
+  "ID": "187",
+  "Cerveza": "Kwak",
+  "Nota de cata": "Pega, tomé varias, la 1º me encantó, luego de más a menos. Toque a vino dulce. Caducadas 6m. Vaso…",
+  "Sabor": "Bueno",
+  "Puntos": "8",
+  "Fecha": "2021-10-01"
+}, {
+  "ID": "188",
+  "Cerveza": "Gulden Draak Classic",
+  "Nota de cata": "Roja fuerte ¿record 10,5%? Espumosa e interesante. Alcohol secundario.",
+  "Sabor": "Excelente",
+  "Puntos": "10",
+  "Fecha": "2021-11-01"
+}, {
+  "ID": "189",
+  "Cerveza": "Estrella Damm",
+  "Nota de cata": "Ok, floja pero rica.",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": "2021-11-01"
+}, {
+  "ID": "190",
+  "Cerveza": "Desperados Strawberry Margarita",
+  "Nota de cata": "Refresco.",
+  "Sabor": "Regular",
+  "Puntos": "3",
+  "Fecha": "2022-09-01"
+}, {
+  "ID": "191",
+  "Cerveza": "Coors Light",
+  "Nota de cata": "Seca y muy fría. Sin amargor. Cumple.",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": "2021-12-01"
+}, {
+  "ID": "192",
+  "Cerveza": "Tap 6: Mein Aventinus",
+  "Nota de cata": "Empalaga un poco y atiza. Grado real.",
+  "Sabor": "Bueno",
+  "Puntos": "8",
+  "Fecha": "2024-07-12"
+}, {
+  "ID": "193",
+  "Cerveza": "Weltenburger Kloster Anno 1050",
+  "Nota de cata": "Sin fuerza. No ofrece nada.",
+  "Sabor": "Malo",
+  "Puntos": "2",
+  "Fecha": "2021-12-01"
+}, {
+  "ID": "194",
+  "Cerveza": "Maredsous Blond",
+  "Nota de cata": "Ok.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2022-02-01"
+}, {
+  "ID": "195",
+  "Cerveza": "Brewdog Dead Pony Club",
+  "Nota de cata": "Floja, sin gracia.",
+  "Sabor": "Malo",
+  "Puntos": "2",
+  "Fecha": "2022-02-01"
+}, {
+  "ID": "196",
+  "Cerveza": "Brugse Zot Blond",
+  "Nota de cata": "Rica pero plana.",
+  "Sabor": "Regular",
+  "Puntos": "4",
+  "Fecha": "2022-03-01"
+}, {
+  "ID": "197",
+  "Cerveza": "Super Bock Stout",
+  "Nota de cata": "Morena mediocre.",
+  "Sabor": "Regular",
+  "Puntos": "3",
+  "Fecha": "2022-03-01"
+}, {
+  "ID": "198",
+  "Cerveza": "18/70 La Rubia",
+  "Nota de cata": "Psé.",
+  "Sabor": "Regular",
+  "Puntos": "3",
+  "Fecha": "2022-03-01"
+}, {
+  "ID": "199",
+  "Cerveza": "Schöfferhofer Grapefruit Hefeweizen",
+  "Nota de cata": "Fanta de naranja.",
+  "Sabor": "Regular",
+  "Puntos": "3",
+  "Fecha": "2022-04-01"
+}, {
+  "ID": "200",
+  "Cerveza": "Chula IPA",
+  "Nota de cata": "IPA espesa, me gusta.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2022-04-01"
+}, {
+  "ID": "201",
+  "Cerveza": "Karlsbräu Helles",
+  "Nota de cata": "Trigo rico. Para beber en grandes cantidades.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2022-04-01"
+}, {
+  "ID": "202",
+  "Cerveza": "Karlsbräu Kellerbier",
+  "Nota de cata": "Ok.",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": "2022-04-01"
+}, {
+  "ID": "203",
+  "Cerveza": "Victoria Málaga",
+  "Nota de cata": "Rubia decente.",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": "2022-04-01"
+}, {
+  "ID": "204",
+  "Cerveza": "Ambar 10",
+  "Nota de cata": "Se nota el 10%. Amarga.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2022-05-01"
+}, {
+  "ID": "205",
+  "Cerveza": "Moritz Barcelona",
+  "Nota de cata": "Rubia normalita.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2022-05-01"
+}, {
+  "ID": "206",
+  "Cerveza": "Oliba Green Beer",
+  "Nota de cata": "Suave y rara.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2022-05-01"
+}, {
+  "ID": "207",
+  "Cerveza": "Slash IPA",
+  "Nota de cata": "Aceptable. Sin sorpresas.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2022-05-01"
+}, {
+  "ID": "208",
+  "Cerveza": "Slash Red",
+  "Nota de cata": "Sabor fruta, lambic, rica…pero va dopada (ázucar, colorantes,etc).",
+  "Sabor": "Regular",
+  "Puntos": "3",
+  "Fecha": "2022-05-01"
+}, {
+  "ID": "209",
+  "Cerveza": "La Estrella de Galicia",
+  "Nota de cata": "Rubia clásica, estándar en todo (amargura, espuma, gas, %, etc).",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2022-06-01"
+}, {
+  "ID": "210",
+  "Cerveza": "Estrella Galicia Especial",
+  "Nota de cata": "Equilibrada.",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": "2022-07-01"
+}, {
+  "ID": "211",
+  "Cerveza": "Rosita Original",
+  "Nota de cata": "Normalita. Sin pena ni gloria.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2022-07-01"
+}, {
+  "ID": "212",
+  "Cerveza": "The One IPA Americana",
+  "Nota de cata": "Miro la etiqueta a ver si está caducada. Sabor extraño, malo.",
+  "Sabor": "Malo",
+  "Puntos": "0",
+  "Fecha": "2022-07-01"
+}, {
+  "ID": "213",
+  "Cerveza": "Moritz Red IPA",
+  "Nota de cata": "Me quedo igual que estaba.",
+  "Sabor": "Regular",
+  "Puntos": "4",
+  "Fecha": "2022-07-01"
+}, {
+  "ID": "214",
+  "Cerveza": "15\u002630 Pilsner",
+  "Nota de cata": "Cuerpo decente.",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": "2022-07-01"
+}, {
+  "ID": "215",
+  "Cerveza": "The Crafty Brewing Company Irish Lager",
+  "Nota de cata": "Normal.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2022-08-01"
+}, {
+  "ID": "216",
+  "Cerveza": "Greene King IPA",
+  "Nota de cata": "Hierba rancia.",
+  "Sabor": "Malo",
+  "Puntos": "1",
+  "Fecha": "2022-08-01"
+}, {
+  "ID": "217",
+  "Cerveza": "Zerep Rubia",
+  "Nota de cata": "Correcta, refrescante. Cuerpo.",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": "2022-08-01"
+}, {
+  "ID": "218",
+  "Cerveza": "Zerep Tostada",
+  "Nota de cata": "Tostada insípida. Con esto no entrarás en calor.",
+  "Sabor": "Malo",
+  "Puntos": "1",
+  "Fecha": "2022-09-01"
+}, {
+  "ID": "219",
+  "Cerveza": "Bischofshof Hefe-Weissbier Hell",
+  "Nota de cata": "Rica alemana.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2022-09-01"
+}, {
+  "ID": "220",
+  "Cerveza": "1906 Black Coupage",
+  "Nota de cata": "Negra correcta.",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": "2022-09-01"
+}, {
+  "ID": "221",
+  "Cerveza": "Alhambra Tradicional",
+  "Nota de cata": "Rubia conservadora.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2022-10-01"
+}, {
+  "ID": "222",
+  "Cerveza": "Brutus The Beer",
+  "Nota de cata": "Plana.",
+  "Sabor": "Malo",
+  "Puntos": "2",
+  "Fecha": "2022-10-01"
+}, {
+  "ID": "223",
+  "Cerveza": "Heineken Silver",
+  "Nota de cata": "Quita la sed y no hincha el estómago.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2022-11-01"
+}, {
+  "ID": "224",
+  "Cerveza": "Mc Chouffe",
+  "Nota de cata": "Roja oscura que entra rápido, dame más.",
+  "Sabor": "Excelente",
+  "Puntos": "9",
+  "Fecha": "2022-12-01"
+}, {
+  "ID": "225",
+  "Cerveza": "Estrella de Navidad",
+  "Nota de cata": "No aburre. Saciante. Perdura en boca.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2022-12-01"
+}, {
+  "ID": "226",
+  "Cerveza": "Peroni Gran Riserva Doppio Malto",
+  "Nota de cata": "Gourmet. Calidad.",
+  "Sabor": "Excelente",
+  "Puntos": "10",
+  "Fecha": "2023-12-01"
+}, {
+  "ID": "227",
+  "Cerveza": "Vikingathor Boris Brew",
+  "Nota de cata": "Caramelo café rico.",
+  "Sabor": "Bueno",
+  "Puntos": "8",
+  "Fecha": "2023-12-01"
+}, {
+  "ID": "228",
+  "Cerveza": "Pólvora Blue",
+  "Nota de cata": "Refrescante con cuerpo, rubia agradable.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2023-12-01"
+}, {
+  "ID": "229",
+  "Cerveza": "Mascletà",
+  "Nota de cata": "Prometía pero nada especial. Sin espuma, sin gas, regusto infusión...meh.",
+  "Sabor": "Malo",
+  "Puntos": "2",
+  "Fecha": "2023-12-01"
+}, {
+  "ID": "230",
+  "Cerveza": "Ambar Especial",
+  "Nota de cata": "Rubia decente.",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": "2023-03-02"
+}, {
+  "ID": "231",
+  "Cerveza": "Schöfferhofer Hefeweizen",
+  "Nota de cata": "Trigo aguado.",
+  "Sabor": "Malo",
+  "Puntos": "2",
+  "Fecha": "2023-03-05"
+}, {
+  "ID": "232",
+  "Cerveza": "König Ludwig Weissbier Naturtrüb",
+  "Nota de cata": "Huele bien, distinta. Trigo firme revoltoso. 5,5 reales. Buena.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2023-03-30"
+}, {
+  "ID": "233",
+  "Cerveza": "Leffe Blonde",
+  "Nota de cata": "Espumosa y alimenticia. Abre el estómago.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2023-03-31"
+}, {
+  "ID": "234",
+  "Cerveza": "Leffe Brune",
+  "Nota de cata": "Caramelo con azúcar…",
+  "Sabor": "Regular",
+  "Puntos": "3",
+  "Fecha": "2023-04-01"
+}, {
+  "ID": "235",
+  "Cerveza": "Praga Premium Pils",
+  "Nota de cata": "Ok.",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": "2023-02-06"
+}, {
+  "ID": "236",
+  "Cerveza": "El Alcázar",
+  "Nota de cata": "Se deja beber. Honesta",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": "2023-05-15"
+}, {
+  "ID": "237",
+  "Cerveza": "Alhambra Lager Singular",
+  "Nota de cata": "De singular nada. Aprobado raspado.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2023-06-01"
+}, {
+  "ID": "238",
+  "Cerveza": "Ambar Morena",
+  "Nota de cata": "Irrelevante.",
+  "Sabor": "Regular",
+  "Puntos": "3",
+  "Fecha": "2023-07-19"
+}, {
+  "ID": "239",
+  "Cerveza": "Cerex Pilsen",
+  "Nota de cata": "En la etiqueta pone: mejor cerveza de España de 2015. Ni de coña. Sin matices. No sé a que sabe.",
+  "Sabor": "Malo",
+  "Puntos": "2",
+  "Fecha": "2023-08-02"
+}, {
+  "ID": "240",
+  "Cerveza": "Bernabeu Madrid",
+  "Nota de cata": "Ni fu ni fa.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2023-08-08"
+}, {
+  "ID": "241",
+  "Cerveza": "Caletera Tostada",
+  "Nota de cata": "Bonito color. Espuma densa. Gusto agradable.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2023-08-11"
+}, {
+  "ID": "242",
+  "Cerveza": "San Miguel Eco",
+  "Nota de cata": "Calma un poco la sed y ya. Olvidable.",
+  "Sabor": "Regular",
+  "Puntos": "4",
+  "Fecha": "2023-08-21"
+}, {
+  "ID": "243",
+  "Cerveza": "Tsingtao",
+  "Nota de cata": "Lo que se espera de una rubia normal. Sin experimentos ni cosas raras.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2023-08-20"
+}, {
+  "ID": "244",
+  "Cerveza": "Monastère Blond",
+  "Nota de cata": "Pan líquido los primeros sorbos pero luego se pierde. De más a menos. Lleva azúcar. Trampa rica.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2023-08-23"
+}, {
+  "ID": "245",
+  "Cerveza": "IPA4",
+  "Nota de cata": "Fresco amargor.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2023-08-27"
+}, {
+  "ID": "246",
+  "Cerveza": "Perkins Cerveza Rubia",
+  "Nota de cata": "Tiene ánima. Hincha la barriga. Sabor neutro.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2023-09-02"
+}, {
+  "ID": "247",
+  "Cerveza": "Desperados Red",
+  "Nota de cata": "Refresco.",
+  "Sabor": "Regular",
+  "Puntos": "4",
+  "Fecha": "2023-09-07"
+}, {
+  "ID": "248",
+  "Cerveza": "Cherry Chouffe",
+  "Nota de cata": "Gominola con cuerpo de cerveza. Bien de espuma y gas. Azucarada.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2023-09-21"
+}, {
+  "ID": "249",
+  "Cerveza": "Ramblers Weissbier",
+  "Nota de cata": "Trigo bien llevado (casi siempre lo es). Trigo normalito.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2023-09-28"
+}, {
+  "ID": "250",
+  "Cerveza": "Ruddles Best",
+  "Nota de cata": "English bitter, sí…amarga.",
+  "Sabor": "Regular",
+  "Puntos": "4",
+  "Fecha": "2023-09-30"
+}, {
+  "ID": "251",
+  "Cerveza": "Obolon Svitle",
+  "Nota de cata": "Falta potencia. Escaso sabor.",
+  "Sabor": "Malo",
+  "Puntos": "2",
+  "Fecha": "2023-10-05"
+}, {
+  "ID": "252",
+  "Cerveza": "Petrus Blond",
+  "Nota de cata": "Entra bien, rápido. Espuma rica. Regular persistencia. Azúcar.",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": "2023-10-17"
+}, {
+  "ID": "253",
+  "Cerveza": "Gulden Draak 9000 Quadruple",
+  "Nota de cata": "Locura de espuma viva. Espesa.",
+  "Sabor": "Bueno",
+  "Puntos": "8",
+  "Fecha": "2023-10-21"
+}, {
+  "ID": "254",
+  "Cerveza": "Schnitzer Bräu German Hirse Premium",
+  "Nota de cata": "Sabe envejecida, diferente, fresca, aromática…aunque lleva cosas raras.",
+  "Sabor": "Bueno",
+  "Puntos": "8",
+  "Fecha": "2023-10-22"
+}, {
+  "ID": "255",
+  "Cerveza": "Piraat",
+  "Nota de cata": "Calidad. Espuma viva.",
+  "Sabor": "Excelente",
+  "Puntos": "9",
+  "Fecha": "2024-02-18"
+}, {
+  "ID": "256",
+  "Cerveza": "Er Boquerón",
+  "Nota de cata": "No me llama la atención.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2023-11-10"
+}, {
+  "ID": "257",
+  "Cerveza": "San Miguel Gluten Free",
+  "Nota de cata": "Correcta.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2023-11-01"
+}, {
+  "ID": "258",
+  "Cerveza": "Grevensteiner Naturtrübes Helles",
+  "Nota de cata": "Muy decepcionante. ¿Mala elección copa? Nada destacable.",
+  "Sabor": "Malo",
+  "Puntos": "2",
+  "Fecha": "2023-11-18"
+}, {
+  "ID": "259",
+  "Cerveza": "Mahou Cinco Estrellas Sin Filtrar",
+  "Nota de cata": "Mahou 5 valor seguro. Da igual el matiz.",
+  "Sabor": "Bueno",
+  "Puntos": "8",
+  "Fecha": "2023-11-25"
+}, {
+  "ID": "260",
+  "Cerveza": "Estrella de Navidad",
+  "Nota de cata": "Prescindible.",
+  "Sabor": "Regular",
+  "Puntos": "4",
+  "Fecha": "2023-12-26"
+}, {
+  "ID": "261",
+  "Cerveza": "Rye IPL Centeno",
+  "Nota de cata": "Hierba con cierto cuerpo. Se nota en el estomago. Un poco pesada.",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": "2024-01-17"
+}, {
+  "ID": "262",
+  "Cerveza": "The One Celta",
+  "Nota de cata": "Madera, fruta…regusto escaso sin espuma.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2024-01-26"
+}, {
+  "ID": "263",
+  "Cerveza": "Gastro IPA Dry Hopping",
+  "Nota de cata": "Rica, agradable.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2024-02-02"
+}, {
+  "ID": "264",
+  "Cerveza": "G de Goudale Grand Cru",
+  "Nota de cata": "Elegante y fuerte.",
+  "Sabor": "Excelente",
+  "Puntos": "9",
+  "Fecha": "2024-02-06"
+}, {
+  "ID": "265",
+  "Cerveza": "Duet",
+  "Nota de cata": "Mosto. Muy ácida. Mal experimento.",
+  "Sabor": "Malo",
+  "Puntos": "2",
+  "Fecha": "2024-02-09"
+}, {
+  "ID": "266",
+  "Cerveza": "Straffe Hendrik Tripel",
+  "Nota de cata": "Tiene todo para triunfar (grado, volumen, cuerpo) pero no despunta en nada. Tripel normalita.",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": "2024-02-17"
+}, {
+  "ID": "267",
+  "Cerveza": "Baeren Classic",
+  "Nota de cata": "Cereal refrescante.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2024-02-22"
+}, {
+  "ID": "268",
+  "Cerveza": "iKi Yuzu",
+  "Nota de cata": "Gas sin mucho sabor. Lleva té verde.",
+  "Sabor": "Regular",
+  "Puntos": "4",
+  "Fecha": "2024-03-01"
+}, {
+  "ID": "269",
+  "Cerveza": "Jever Pilsener",
+  "Nota de cata": "Agradable birra. Refrescante amargor.",
+  "Sabor": "Bueno",
+  "Puntos": "8",
+  "Fecha": "2024-03-06"
+}, {
+  "ID": "270",
+  "Cerveza": "Gordon Finest Gold",
+  "Nota de cata": "Retiene la temperatura. Muy fría. 10% ligero. Sin sustancia.",
+  "Sabor": "Regular",
+  "Puntos": "3",
+  "Fecha": "2024-03-07"
+}, {
+  "ID": "271",
+  "Cerveza": "Chouffe Lite",
+  "Nota de cata": "Sabor extraño.",
+  "Sabor": "Regular",
+  "Puntos": "3",
+  "Fecha": "2024-03-14"
+}, {
+  "ID": "272",
+  "Cerveza": "Chimay Triple",
+  "Nota de cata": "Al ser trapense mantiene el tipo pero no me dice nada.",
+  "Sabor": "Regular",
+  "Puntos": "4",
+  "Fecha": "2024-03-27"
+}, {
+  "ID": "273",
+  "Cerveza": "Westmalle Tripel",
+  "Nota de cata": "Dulzor agudo.",
+  "Sabor": "Bueno",
+  "Puntos": "8",
+  "Fecha": "2024-03-31"
+}, {
+  "ID": "274",
+  "Cerveza": "Orval",
+  "Nota de cata": "Agitada en boca tiene su punto, pero le falta algo de sabor.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2024-04-03"
+}, {
+  "ID": "275",
+  "Cerveza": "Tynt Meadow",
+  "Nota de cata": "Cafetera cósmica.",
+  "Sabor": "Excelente",
+  "Puntos": "9",
+  "Fecha": "2024-04-04"
+}, {
+  "ID": "276",
+  "Cerveza": "Saku Kuld",
+  "Nota de cata": "Mantiene la temperatura y poco más. Ligera. Se mea rápido.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2024-04-12"
+}, {
+  "ID": "277",
+  "Cerveza": "Tartu Hele",
+  "Nota de cata": "Parece una IPA. Está buena.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2024-04-11"
+}, {
+  "ID": "278",
+  "Cerveza": "Trappistes Rochefort 10",
+  "Nota de cata": "Café fuerte especiado pero dura menos que la 8. Esperaba más.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2024-04-24"
+}, {
+  "ID": "279",
+  "Cerveza": "Chimay 150",
+  "Nota de cata": "Estoy un poco malo…la noto fuerte y ácida pero sin notas de cereal o malta. Ánima sí.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2024-04-28"
+}, {
+  "ID": "280",
+  "Cerveza": "La Bella Lola",
+  "Nota de cata": "Trigo amargo y ligero con espuma cremosa.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2024-04-30"
+}, {
+  "ID": "281",
+  "Cerveza": "Gordon Scotch Ale",
+  "Nota de cata": "Café duro y rico.",
+  "Sabor": "Bueno",
+  "Puntos": "8",
+  "Fecha": "2024-05-05"
+}, {
+  "ID": "282",
+  "Cerveza": "Timmermans Strawberry Thyme Lambicus",
+  "Nota de cata": "Apenas sabe a fruta. Color y poco más.",
+  "Sabor": "Regular",
+  "Puntos": "3",
+  "Fecha": "2024-05-30"
+}, {
+  "ID": "283",
+  "Cerveza": "Timmermans Pêche Lambicus",
+  "Nota de cata": "Ok aunque tiene pinta de empalagar.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2024-06-01"
+}, {
+  "ID": "284",
+  "Cerveza": "Martin\u0027s IPA 55",
+  "Nota de cata": "Espuma y aroma. Sabor de mas a menos.",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": "2024-06-05"
+}, {
+  "ID": "285",
+  "Cerveza": "The One Blanche",
+  "Nota de cata": "Extraña. Trigo regulero.",
+  "Sabor": "Regular",
+  "Puntos": "4",
+  "Fecha": "2024-06-07"
+}, {
+  "ID": "286",
+  "Cerveza": "The One Blonde",
+  "Nota de cata": "Todo bien (espuma, cuerpo, olor) excepto el sabor…",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2024-06-09"
+}, {
+  "ID": "287",
+  "Cerveza": "The One Pale Ale",
+  "Nota de cata": "Decente. Atiza un poco. Equilibrada y con sustancia.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2024-06-13"
+}, {
+  "ID": "288",
+  "Cerveza": "Consentida",
+  "Nota de cata": "Sabor mediocre con buena aparencia.",
+  "Sabor": "Regular",
+  "Puntos": "3",
+  "Fecha": "2024-07-03"
+}, {
+  "ID": "289",
+  "Cerveza": "Naturepils",
+  "Nota de cata": "Rubia fresca pero bastante sosa.",
+  "Sabor": "Regular",
+  "Puntos": "4",
+  "Fecha": "2024-07-10"
+}, {
+  "ID": "290",
+  "Cerveza": "Mescalina México",
+  "Nota de cata": "Para esto me tomo una Desperados",
+  "Sabor": "Malo",
+  "Puntos": "2",
+  "Fecha": "2024-07-11"
+}]

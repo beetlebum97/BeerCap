@@ -2,8 +2,8 @@ import sys
 import mysql.connector
 import pyodbc
 
-def conectar_a_base_de_datos(tipo,servidor,usuario,contraseña):
-    if tipo.lower() == 'mysql':
+def conectar_a_base_de_datos(motor,servidor,usuario,contraseña):
+    if motor.lower() == 'mysql':
         cnx = mysql.connector.connect(user=usuario, password=contraseña,
                                       host=servidor,autocommit=True)
         cursor = cnx.cursor()
@@ -11,35 +11,36 @@ def conectar_a_base_de_datos(tipo,servidor,usuario,contraseña):
         print("Conectado a MySQL")
         print()
         
-        # 0. Crear y usar Base de Datos
+# 0. CREAR Y USAR LA BASE DE DATOS
         cursor.execute('CREATE DATABASE CHAPAS_CERVEZA')
         cursor.execute('USE CHAPAS_CERVEZA')
         
-        # 1. Tabla Fabricantes_Chapa
+# 1. TABLA FABRICANTES_CHAPA
         CREAR_FABRICANTES = """
             CREATE TABLE Fabricantes_Chapa(
             ID int PRIMARY KEY,
             Nombre varchar(255) UNIQUE,
             Empresa varchar(255) NULL,
             País varchar(255) NULL,
-            URL varchar(255) NULL
+            URL varchar(255) NULL,
+            Imagen varchar(255)
             ); """
         cursor.execute(CREAR_FABRICANTES)
-            
+        
         INSERTAR_FABRICANTES = """
-            LOAD DATA INFILE '/directorio/fabricantes.csv'
+            LOAD DATA INFILE '/var/lib/mysql-files/fabricantes.csv'
             INTO TABLE Fabricantes_Chapa
             FIELDS TERMINATED BY ';'
             LINES TERMINATED BY '\n'
             IGNORE 1 LINES
-            (ID,Nombre,@Empresa,@País,@URL)
+            (ID,Nombre,@Empresa,@País,@URL,Imagen)
             SET Empresa = NULLIF(@Empresa,''),
             País = NULLIF(@País,''),
             URL = NULLIF(@URL,'')
             ; """
         cursor.execute(INSERTAR_FABRICANTES)
         
-        # 2. Tabla Productores_Cerveza
+# 2. TABLA PRODUCTORES_CERVEZA
         CREAR_PRODUCTORES = """
             CREATE TABLE Productores_Cerveza(
             ID int PRIMARY KEY,
@@ -49,12 +50,12 @@ def conectar_a_base_de_datos(tipo,servidor,usuario,contraseña):
             Ciudad varchar (255) NULL,
             Fundación int NULL,
             URL varchar(255) NULL,
-            `Empresa matriz` varchar(255) NULL)
-            ; """
+            `Empresa matriz` varchar(255) NULL
+            ); """
         cursor.execute(CREAR_PRODUCTORES)
         
         INSERTAR_PRODUCTORES = """
-            LOAD DATA INFILE '/directorio/productores.csv'
+            LOAD DATA INFILE '/var/lib/mysql-files/productores.csv'
             INTO TABLE Productores_Cerveza
             FIELDS TERMINATED BY ';'
             LINES TERMINATED BY '\n'
@@ -69,10 +70,10 @@ def conectar_a_base_de_datos(tipo,servidor,usuario,contraseña):
             ; """
         cursor.execute(INSERTAR_PRODUCTORES)
         
-        # 3. Tabla Cervezas
+# 3. TABLA CERVEZAS
         CREAR_CERVEZAS = """
             CREATE TABLE Cervezas(
-            ID int AUTO_INCREMENT PRIMARY KEY,
+            ID int PRIMARY KEY,
             Nombre varchar(255) UNIQUE,
             Tipo varchar(255) NOT NULL,
             Estilo varchar(255) NOT NULL,
@@ -89,19 +90,20 @@ def conectar_a_base_de_datos(tipo,servidor,usuario,contraseña):
         cursor.execute(CREAR_CERVEZAS)
         
         INSERTAR_CERVEZAS = """
-            LOAD DATA INFILE '/directorio/cervezas.csv'
+            LOAD DATA INFILE '/var/lib/mysql-files/cervezas.csv'
             INTO TABLE Cervezas
             FIELDS TERMINATED BY ';'
             LINES TERMINATED BY '\n'
             IGNORE 1 LINES
-            (ID,Nombre,Tipo,Estilo,Grado,@IBU,@Lanzamiento,Estado,País,@URL,Productor)
+            (ID,Nombre,Tipo,Estilo,Grado,@IBU,@Lanzamiento,Estado,País,@URL,@Productor)
             SET IBU = NULLIF(@IBU,''),
             Lanzamiento = NULLIF(@Lanzamiento,''),
-            URL = NULLIF(@URL,'')
+            URL = NULLIF(@URL,''),
+            Productor = TRIM(TRAILING '\r' FROM @Productor)
             ; """
         cursor.execute(INSERTAR_CERVEZAS)
         
-       # 4. Tabla Chapas
+# 4. TABLA CHAPAS
         CREAR_CHAPAS = """
             CREATE TABLE Chapas(
             ID int PRIMARY KEY,
@@ -113,8 +115,9 @@ def conectar_a_base_de_datos(tipo,servidor,usuario,contraseña):
             Inscripción varchar(255) NULL,
             Estado varchar (255) CHECK (Estado IN('Perfecto','Bueno','Regular','Malo')),
             Repetida varchar (255) CHECK (Repetida IN('SI','NO')),
-            Formato varchar (255) CHECK (Formato IN('25cl','33cl','50cl')),
+            Formato varchar (255) CHECK (Formato IN('20cl','25cl','33cl','50cl')),
             Registro datetime DEFAULT CURRENT_TIMESTAMP,
+            Imagen varchar(255),
 
             FOREIGN KEY (Cerveza) REFERENCES Cervezas (Nombre) ON UPDATE CASCADE ON DELETE CASCADE,
             FOREIGN KEY (Fabricante) REFERENCES Fabricantes_Chapa (Nombre) ON UPDATE CASCADE ON DELETE CASCADE
@@ -122,12 +125,12 @@ def conectar_a_base_de_datos(tipo,servidor,usuario,contraseña):
         cursor.execute(CREAR_CHAPAS)
         
         INSERTAR_CHAPAS = """
-            LOAD DATA INFILE '/directorio/chapas.csv'
+            LOAD DATA INFILE '/var/lib/mysql-files/chapas.csv'
             INTO TABLE Chapas
             FIELDS TERMINATED BY ';'
             LINES TERMINATED BY '\n'
             IGNORE 1 LINES
-            (ID,Cerveza,Año,Color,Fabricante,@Obturador,@Inscripción,Estado,Repetida,@Formato,@Registro)
+            (ID,Cerveza,Año,Color,Fabricante,@Obturador,@Inscripción,Estado,Repetida,@Formato,@Registro,Imagen)
             SET Obturador = NULLIF(@Obturador,''),
             Inscripción = NULLIF(@Inscripción,''),
             Formato = NULLIF(@Formato,''),
@@ -135,7 +138,7 @@ def conectar_a_base_de_datos(tipo,servidor,usuario,contraseña):
             ; """
         cursor.execute(INSERTAR_CHAPAS)
         
-        # 5. Tabla Catas
+# 5. TABLA CATAS
         CREAR_CATAS = """
             CREATE TABLE Catas(
             ID int PRIMARY KEY,
@@ -143,24 +146,24 @@ def conectar_a_base_de_datos(tipo,servidor,usuario,contraseña):
             `Nota de Cata` varchar (255) NOT NULL,
             Sabor varchar (255) CHECK (Sabor IN('Excelente','Bueno','Aceptable','Regular','Malo')),
             Puntos int NOT NULL,
-            Fecha date NULL,
+            Fecha date,
 
             FOREIGN KEY (Cerveza) REFERENCES Cervezas (Nombre) ON UPDATE CASCADE ON DELETE CASCADE
             ); """
-        cursor.execute(CREAR_CATAS)  
-
+        cursor.execute(CREAR_CATAS)
+        
         INSERTAR_CATAS = """
-            LOAD DATA INFILE '/directorio/catas.csv'
+            LOAD DATA INFILE '/var/lib/mysql-files/catas.csv'
             INTO TABLE Catas
             FIELDS TERMINATED BY ';'
             LINES TERMINATED BY '\n'
             IGNORE 1 LINES
             (ID,Cerveza,`Nota de Cata`,Sabor,Puntos,@Fecha)
-            SET Fecha = NULLIF(@Fecha,'')
+            SET Fecha = NULLIF(TRIM(TRAILING '\r' FROM @Fecha),'')
             ; """
         cursor.execute(INSERTAR_CATAS)
-
-        # Registros totales
+        
+# 6. REGISTROS TOTALES
         REGISTROS = """
             SELECT A.Nombre AS Fabricantes_Chapa, B.Nombre AS Productores_Cerveza, C.Nombre AS Cervezas, D.ID AS Chapas, E.Cerveza AS Catas
             FROM (SELECT COUNT(FC.Nombre) AS Nombre FROM Fabricantes_Chapa FC) A
@@ -182,11 +185,11 @@ def conectar_a_base_de_datos(tipo,servidor,usuario,contraseña):
         #for fila in resultado:
             #print(fila)
         
-        # Cerrar conexión
+# 7. CERRAR CONEXIÓN
         cursor.close()
         cnx.close()
         
-    elif tipo.lower() == 'sql-server':
+    elif motor.lower() == 'sql-server':
         cnx = pyodbc.connect('DRIVER={ODBC Driver 17 for SQL Server};'
                              'SERVER=' + servidor + ';'
                              'UID=' + usuario + ';'
@@ -198,24 +201,25 @@ def conectar_a_base_de_datos(tipo,servidor,usuario,contraseña):
         print("Conectado a SQL Server")
         print()
         
-        # 0. Crear y usar la Base de Datos
+# 0. CREAR Y USAR LA BASE DE DATOS
         cursor.execute('CREATE DATABASE CHAPAS_CERVEZA')
         cursor.execute('USE CHAPAS_CERVEZA')
         
-        # 1. Tabla Fabricantes_Chapa
+# 1. TABLA FABRICANTES_CHAPA
         CREAR_FABRICANTES = """ 
             CREATE TABLE Fabricantes_Chapa(
             ID int PRIMARY KEY,
             Nombre nvarchar(255) UNIQUE,
             Empresa nvarchar(255) NULL,
             País nvarchar(255) NULL,
-            [URL] nvarchar(255) NULL
+            [URL] nvarchar(255) NULL,
+            Imagen nvarchar(255) NULL
             ) """
         cursor.execute(CREAR_FABRICANTES)
 
         INSERTAR_FABRICANTES = """
             BULK INSERT Fabricantes_Chapa
-            FROM '\\directorio\\fabricantes.csv'
+            FROM 'D:\\db_chapas_cerveza_dev\\data\\fabricantes.csv'
             WITH (
             FORMAT = 'CSV',
             FIELDTERMINATOR = ';',
@@ -225,7 +229,7 @@ def conectar_a_base_de_datos(tipo,servidor,usuario,contraseña):
             ) """
         cursor.execute(INSERTAR_FABRICANTES)
         
-        # 2. Tabla Productores_Cerveza
+# 2. TABLA PRODUCTORES_CERVEZA
         CREAR_PRODUCTORES = """
             CREATE TABLE Productores_Cerveza(
             ID int PRIMARY KEY,
@@ -235,13 +239,13 @@ def conectar_a_base_de_datos(tipo,servidor,usuario,contraseña):
             Ciudad nvarchar(255) NULL,
             Fundación int NULL,
             [URL] nvarchar(255) NULL,
-            [Empresa matriz] nvarchar(255) NULL 
+            [Empresa matriz] nvarchar(255) NULL
             ) """
         cursor.execute(CREAR_PRODUCTORES)
         
         INSERTAR_PRODUCTORES = """
             BULK INSERT Productores_Cerveza
-            FROM '\\directorio\\productores.csv'
+            FROM 'D:\\db_chapas_cerveza_dev\\data\\productores.csv'
             WITH (
             FORMAT = 'CSV',
             FIELDTERMINATOR = ';',
@@ -250,8 +254,8 @@ def conectar_a_base_de_datos(tipo,servidor,usuario,contraseña):
             CODEPAGE='65001'
             ) """
         cursor.execute(INSERTAR_PRODUCTORES)
-        
-        # 3. Tabla Cervezas
+
+# 3. TABLA CERVEZAS
         CREAR_CERVEZAS = """
             CREATE TABLE Cervezas(
             ID int PRIMARY KEY,
@@ -272,7 +276,7 @@ def conectar_a_base_de_datos(tipo,servidor,usuario,contraseña):
         
         INSERTAR_CERVEZAS = """
             BULK INSERT Cervezas
-            FROM '\\directorio\\cervezas.csv' 
+            FROM 'D:\\db_chapas_cerveza_dev\\data\\cervezas.csv' 
             WITH (
             FORMAT = 'CSV',
             FIELDTERMINATOR = ';',
@@ -282,7 +286,7 @@ def conectar_a_base_de_datos(tipo,servidor,usuario,contraseña):
             ) """
         cursor.execute(INSERTAR_CERVEZAS)
         
-        # 4. Tabla Chapas
+# 4. TABLA CHAPAS
         CREAR_CHAPAS = """
             CREATE TABLE Chapas(
             ID int PRIMARY KEY,
@@ -294,8 +298,9 @@ def conectar_a_base_de_datos(tipo,servidor,usuario,contraseña):
             Inscripción nvarchar(255) NULL, 
             Estado nvarchar(255) CHECK (Estado IN('Perfecto','Bueno','Regular','Malo')),
             Repetida nvarchar(255) CHECK (Repetida IN('SI','NO')),
-            Formato nvarchar(255) CHECK (Formato IN('25cl','33cl','50cl')),
+            Formato nvarchar(255) CHECK (Formato IN('20cl','25cl','33cl','50cl')),
             Registro datetime DEFAULT CURRENT_TIMESTAMP,
+            Imagen nvarchar(255) NULL,
 
             FOREIGN KEY (Cerveza) REFERENCES Cervezas (Nombre) ON UPDATE CASCADE ON DELETE CASCADE,
             FOREIGN KEY (Fabricante) REFERENCES Fabricantes_Chapa (Nombre) ON UPDATE CASCADE ON DELETE CASCADE
@@ -304,7 +309,7 @@ def conectar_a_base_de_datos(tipo,servidor,usuario,contraseña):
         
         INSERTAR_CHAPAS = """
             BULK INSERT Chapas
-            FROM '\\directorio\\chapas.csv'
+            FROM 'D:\\db_chapas_cerveza_dev\\data\\chapas.csv'
             WITH (
             FORMAT = 'CSV',
             FIELDTERMINATOR = ';',
@@ -314,7 +319,7 @@ def conectar_a_base_de_datos(tipo,servidor,usuario,contraseña):
             ) """
         cursor.execute(INSERTAR_CHAPAS)
         
-        # 5. Tabla Catas
+# 5. TABLA CATAS
         CREAR_CATAS = """
             CREATE TABLE Catas(
             ID int PRIMARY KEY,
@@ -330,7 +335,7 @@ def conectar_a_base_de_datos(tipo,servidor,usuario,contraseña):
         
         INSERTAR_CATAS = """
             BULK INSERT Catas
-            FROM '\\directorio\\catas.csv'
+            FROM 'D:\\db_chapas_cerveza_dev\\data\\catas.csv'
             WITH (
             FORMAT = 'CSV',
             FIELDTERMINATOR = ';',
@@ -340,7 +345,7 @@ def conectar_a_base_de_datos(tipo,servidor,usuario,contraseña):
             ) """
         cursor.execute(INSERTAR_CATAS)
         
-        # Registros totales
+# 6. REGISTROS TOTALES
         REGISTROS = """
             SELECT A.Nombre AS Fabricantes_Chapa, B.Nombre AS Productores_Cerveza, C.Nombre AS Cervezas, D.ID AS Chapas, E.Cerveza AS Catas
             FROM (SELECT COUNT(FC.Nombre) AS Nombre FROM Fabricantes_Chapa FC) A
@@ -361,18 +366,19 @@ def conectar_a_base_de_datos(tipo,servidor,usuario,contraseña):
         #for fila in resultado:
             #print(fila)
         
-        # Cerrar conexión
+        
+# 7. CERRAR CONEXIÓN
         cursor.close()
         cnx.close()
         
     else:
-        print("Tipo de base de datos no reconocido.")
+        print("Motor de base de datos no reconocido.")
 
-# Parámetros 1º Tipo BBDD, 2º Servidor, 3º Usuario, 4º Contraseña 
+# Argumentos script: 1º Motor BBDD, 2º Servidor, 3º Usuario, 4º Contraseña 
 if len(sys.argv) > 4:
     conectar_a_base_de_datos(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4])
 else:
-    print("Por favor, proporciona el tipo de base de datos, el servidor, el usuario y la contraseña como parámetros.")
+    print("Por favor, proporciona motor, servidor, usuario y contraseña como argumentos.")
 
 
 

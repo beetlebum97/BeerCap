@@ -1,0 +1,32 @@
+[
+    {
+        "name": "ID",
+        "type": "INTEGER",
+        "mode": "REQUIRED"
+    },
+    {
+        "name": "Nombre",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "Empresa",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "País",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "URL",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+	{
+		"name": "Imagen",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    }
+]

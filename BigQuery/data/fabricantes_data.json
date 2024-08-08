@@ -1,0 +1,183 @@
+[{
+  "ID": "1",
+  "Nombre": "Sin fabricante",
+  "Empresa": null,
+  "País": null,
+  "URL": null,
+  "Imagen": "1_sin.jpg"
+}, {
+  "ID": "2",
+  "Nombre": "U",
+  "Empresa": "Jose Combalia S.A.",
+  "País": "España",
+  "URL": "www.josecombalia.com",
+  "Imagen": "2_u.jpg"
+}, {
+  "ID": "3",
+  "Nombre": "cp",
+  "Empresa": "Can Pack S.A.",
+  "País": "Polonia",
+  "URL": "www.canpack.com",
+  "Imagen": "3_cp.jpg"
+}, {
+  "ID": "4",
+  "Nombre": "dap",
+  "Empresa": "Pelliconi \u0026 C. S.p.A.",
+  "País": "Italia",
+  "URL": "www.pelliconi.com",
+  "Imagen": "4_dap.jpg"
+}, {
+  "ID": "5",
+  "Nombre": "RRK",
+  "Empresa": "Rauh GmbH \u0026 Co KG",
+  "País": "Alemania",
+  "URL": "www.rrauh.de",
+  "Imagen": "5_RRK.jpg"
+}, {
+  "ID": "6",
+  "Nombre": "HB",
+  "Empresa": "Helmut Brüninghaus GmbH",
+  "País": "Alemania",
+  "URL": "www.h-brueninghaus.de",
+  "Imagen": "6_HB.jpg"
+}, {
+  "ID": "7",
+  "Nombre": "astir",
+  "Empresa": "Astir Vitogiannis Bros S.A.",
+  "País": "Grecia",
+  "URL": "www.astircrowns.com",
+  "Imagen": "7_astir.jpg"
+}, {
+  "ID": "8",
+  "Nombre": "Crown",
+  "Empresa": "Crown Holdings",
+  "País": "Estados Unidos",
+  "URL": "www.crowncork.com",
+  "Imagen": "8_Crown.jpg"
+}, {
+  "ID": "9",
+  "Nombre": "Z",
+  "Empresa": "Grupo Zapata S.A. de C.V.",
+  "País": "México",
+  "URL": "www.gzapata.com",
+  "Imagen": "9_Z.jpg"
+}, {
+  "ID": "10",
+  "Nombre": "C",
+  "Empresa": "Coroplas S.A.I.C.I.F",
+  "País": "México",
+  "URL": null,
+  "Imagen": "10_C.jpg"
+}, {
+  "ID": "11",
+  "Nombre": "Unibox",
+  "Empresa": "JV UNIBOX Ltd",
+  "País": "Bielorrusia",
+  "URL": "www.eng.unibox.by",
+  "Imagen": "11_Unibox.jpg"
+}, {
+  "ID": "12",
+  "Nombre": "BL",
+  "Empresa": "Blechwarenfabrik Limburg",
+  "País": "Alemania",
+  "URL": "www.blechwaren-limburg.de",
+  "Imagen": "12_BL.jpg"
+}, {
+  "ID": "13",
+  "Nombre": "GMP",
+  "Empresa": "Galeb Metal Pack",
+  "País": "Serbia",
+  "URL": "metalpack.galeb.com",
+  "Imagen": "13_GMP.jpg"
+}, {
+  "ID": "14",
+  "Nombre": "DKF",
+  "Empresa": "Delmenhorster Kork-Fabrik",
+  "País": "Alemania",
+  "URL": "dkf-linck.de",
+  "Imagen": "14_DKF.jpg"
+}, {
+  "ID": "15",
+  "Nombre": "PPP",
+  "Empresa": "Packaging Products del Perú S.A",
+  "País": "Perú",
+  "URL": "www.packagingperu.com",
+  "Imagen": "15_PPP.jpg"
+}, {
+  "ID": "16",
+  "Nombre": "B 1",
+  "Empresa": "Bavaria S.A. - Fábrica de Tapas",
+  "País": "Colombia",
+  "URL": null,
+  "Imagen": "16_B_1.jpg"
+}, {
+  "ID": "17",
+  "Nombre": "FK",
+  "Empresa": "Finn-Korkki Oy",
+  "País": "Finlandia",
+  "URL": "www.finn-korkki.com",
+  "Imagen": "17_FK.jpg"
+}, {
+  "ID": "18",
+  "Nombre": "TC",
+  "Empresa": "Tapón Corona",
+  "País": "México",
+  "URL": "taponcorona.com.mx",
+  "Imagen": "18_TC.jpg"
+}, {
+  "ID": "19",
+  "Nombre": "C.R.",
+  "Empresa": "Clemente Rigamonti \u0026 C.",
+  "País": "Italia",
+  "URL": "www.clementerigamonti.it",
+  "Imagen": "19_CR.jpg"
+}, {
+  "ID": "20",
+  "Nombre": "O",
+  "Empresa": "Fábrica de Envases S.A. Fadesa",
+  "País": "Ecuador",
+  "URL": "www.fadesa.com",
+  "Imagen": "20_Fadesa.jpg"
+}, {
+  "ID": "21",
+  "Nombre": "Ziquan",
+  "Empresa": "Shanghai Ziquan Packing Co Ltd",
+  "País": "China",
+  "URL": "www.shziquan.en.china.cn",
+  "Imagen": "21_Ziquan.jpg"
+}, {
+  "ID": "22",
+  "Nombre": "TCI",
+  "Empresa": "Tapón Corona Iberica",
+  "País": "España",
+  "URL": null,
+  "Imagen": "22_TCI.jpg"
+}, {
+  "ID": "23",
+  "Nombre": "TF",
+  "Empresa": "Tapon France S.A.S.",
+  "País": "Francia",
+  "URL": null,
+  "Imagen": "23_TF.jpg"
+}, {
+  "ID": "24",
+  "Nombre": "CCC",
+  "Empresa": "Crown Cork Co.",
+  "País": "Países Bajos",
+  "URL": null,
+  "Imagen": "24_CCC.jpg"
+}, {
+  "ID": "25",
+  "Nombre": "NCC",
+  "Empresa": "Nippon Closures Co.",
+  "País": "Japón",
+  "URL": "www.ncc-caps.co.jp/english/",
+  "Imagen": "25_NCC.jpg"
+}, {
+  "ID": "26",
+  "Nombre": "Z I",
+  "Empresa": "Zapata Technologies Division",
+  "País": "Francia",
+  "URL": null,
+  "Imagen": "26_Z_I.jpg"
+}]

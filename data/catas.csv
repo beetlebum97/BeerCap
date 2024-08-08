@@ -1,6 +1,6 @@
 ID;CERVEZA;NOTA DE CATA;SABOR;PUNTOS;FECHA
 1;Mahou Cinco Estrellas;Con sed entra como agua.;Bueno;8;2018-04-15
-2;San Miguel Fresca;Meado.;Malo;1;
+2;San Miguel Fresca;Meado.;Malo;1;2018-04-15
 3;Desperados Mojito;Menta cansina.;Malo;1;
 4;Desperados Original;Sucedáneo.;Regular;4;
 5;Corona Extra;Para mujeres.;Regular;4;
@@ -17,7 +17,7 @@ ID;CERVEZA;NOTA DE CATA;SABOR;PUNTOS;FECHA
 16;Stella Artois;Una cerveza equilibrada. Justa medida.;Bueno;8;2018-09-24
 17;Heineken;Prefiero la Stella.;Aceptable;6;
 18;Budweiser;Super básica.;Aceptable;5;
-19;Madrí;Rubia del montón. Pasable.;Aceptable;5;2022-07-01
+19;Madrí Pilsner;Rubia del montón. Pasable.;Aceptable;5;2022-07-01
 20;BrewDog Indie;Muy rara ¿Timo?;Malo;1;
 21;Cruzcampo Gran Reserva;Mejor de lo que esperaba.;Bueno;7;
 22;Desperados Sangre;Sangría.;Regular;4;
@@ -49,7 +49,7 @@ ID;CERVEZA;NOTA DE CATA;SABOR;PUNTOS;FECHA
 48;Mahou Barrica 12 Meses;Fuerte y rica.;Bueno;7;2019-12-24
 49;Guinness Original Extra Stout;Recuerda a la de barril cuando estás lleno.;Bueno;7;2019-12-27
 50;La Trappe Dubbel;Roja y rica.;Bueno;7;2020-01-07
-51;Lagunitas IPA;Cítrica alegre.;Bueno;7;2020-01-10
+51;Lagunitas IPA;Hierba alegre.;Bueno;8;2024-03-20
 52;Complot IPA;Lúpulo muy presente. Mejor IPA.;Bueno;8;2021-04-01
 53;Hoegaarden Wit;De las más sutiles y delicadas que he probado. Tiene su punto.;Bueno;7;2022-09-01
 54;Sierra Nevada Pale Ale;Cítrica rara.;Regular;4;2020-02-09
@@ -64,13 +64,13 @@ ID;CERVEZA;NOTA DE CATA;SABOR;PUNTOS;FECHA
 63;Pinkus Demeter Müller’s Lagerbier;Punto ácido especial.;Bueno;8;2020-03-29
 64;Kirin Ichiban;Rubia amarga sin espuma.;Regular;4;2020-04-04
 65;Tiger;Agua coloreada. ;Malo;1;2020-04-07
-66;Vogelsberger Naturtrüb Bio Radler;Limonada natural.;Aceptable;5;
+66;Vogelsberger Naturtrüb Bio Radler;Limonada natural.;Aceptable;5;2018-04-15
 67;Benediktinerabtei Plankstetten Dinkel;Sin filtrar. Cuerpo, gas, espuma correctos. Entra bien, no empalaga ni es insípida. OK.;Aceptable;6;2020-04-11
 68;Affligem Dubbel;Consistente caramelo, espumosa. Lo que se espera de una tostada belga.;Bueno;7;2020-04-14
 69;Weltenburger Kloster Helle Weiße;Trigo...bien pero muy suave. Sin regusto. Nombre alt: Weltenburger Kloster Hefe-Weisbier Hell.;Regular;5;2020-04-21
 70;Hofbräu München Weisse;Trigo sin filtrar, bien y pega más que la Kloster. Más duradera.;Bueno;7;2020-04-24
-71;La Trappe Isid'or;Bien.;Aceptable;6;
-72;La Trappe Quadrupel;10% sueño.;Bueno;7;
+71;La Trappe Isid'or;Bien.;Aceptable;6;2018-04-15
+72;La Trappe Quadrupel;10% sueño.;Bueno;7;2018-04-15
 73;Waterloo Triple Blonde;Activa las pápilas, eso es buena señal. Gran persistencia. Porosa.;Excelente;9;2020-05-11
 74;Timmermans Kriek Lambicus;Chicle, gominola. Fácil de beber. Mejor que Desperados y otros sucedáneos.;Bueno;7;2020-05-14
 75;Bourgogne des Flandres;Aroma de vino (barrica). Explota en boca con una segunda espuma que estimula la lengua.;Excelente;10;2020-05-16
@@ -98,28 +98,28 @@ ID;CERVEZA;NOTA DE CATA;SABOR;PUNTOS;FECHA
 97;Mort Subite Kriek Lambic;Cerezas.;Aceptable;6;2020-08-23
 98;Chang Classic;Rubia seca y gaseosa. Se deja beber. El vidrio más pesado que he visto (1/3).;Aceptable;5;2020-09-08
 99;Sandels 5.3%;Rubia correcta pero no destaca en nada.;Regular;4;2020-09-09
-100;O'Hara's Irish Red;Curiosa malta caramelizada.;Bueno;7;
-101;O'Hara's Irish Stout;Negra con sabor a café y toques de carbón. Poca ánima.;Aceptable;6;
-102;12·70 Lager;Tostada rica sin espuma.;Bueno;7;
+100;O'Hara's Irish Red;Curiosa malta caramelizada.;Bueno;7;2018-04-15
+101;O'Hara's Irish Stout;Negra con sabor a café y toques de carbón. Poca ánima.;Aceptable;6;2018-04-15
+102;12·70 Lager;Tostada rica sin espuma.;Bueno;7;2018-04-15
 103;Chimay Bleue;Un filete batido. Rico pero contundente.;Bueno;7;2020-09-01
 104;Erdinger Weissbier;Trigo ácido.;Regular;4;2020-09-21
-105;Bischofshof Hefe-Weissbier Dunkel;Trigo negro. Espumosa y sosa.;Regular;3;
-106;Cumberland Golden Beer;Rubia ni buena ni mala…Algo plana con poca pegada 4%.;Regular;4;
-107;Hobgoblin Ruby;Tostada normal. Ánima buena aunque son 50cl.;Aceptable;5;
-108;McEwan's Levy;Negra suave. Café apetecible.;Bueno;7;
-109;Razorback;Sabe a madera.;Malo;2;
+105;Bischofshof Hefe-Weissbier Dunkel;Trigo negro. Espumosa y sosa.;Regular;3;2018-04-15
+106;Cumberland Golden Beer;Rubia ni buena ni mala…Algo plana con poca pegada 4%.;Regular;4;2018-04-15
+107;Hobgoblin Ruby;Tostada normal. Ánima buena aunque son 50cl.;Aceptable;5;2018-04-15
+108;McEwan's Levy;Negra suave. Café apetecible.;Bueno;7;2018-04-15
+109;Razorback;Sabe a madera.;Malo;2;2018-04-15
 110;Pedigree;Poca espuma. Tostada color marrón claro bonito. No hay mucho que decir.;Regular;3;2020-10-01
-111;Lancaster Bomber;Cítrica amarga, tostada, bonito color. Se puede beber.;Regular;4;
+111;Lancaster Bomber;Cítrica amarga, tostada, bonito color. Se puede beber.;Regular;4;2018-04-15
 112;Ambar 1900;Cumple lo prometido en la etiqueta (suave, clara, refrescante).;Bueno;7;2022-03-01
 113;Alhambra Especial;Rubia rica dentro de un estándar.;Aceptable;6;2020-10-01
 114;Grimbergen Belgian Pale Ale;Espuma nata, toque cítrico. Entra bien, huele bien.;Bueno;7;2023-02-10
 115;The Brale;Normalita. Amarga con una pizca de naranja.;Regular;4;2020-11-01
-116;San Miguel Magna;Rubia con algo más de cuerpo de lo normal. ;Aceptable;5;2020-11-01
-117;Desperados Ginger;Se bebe muy rápido pero apenas deja regusto. Quizá un toque amargo especial. ;Regular;3;2020-11-01
-118;Especialidades 1897 Trigo;Me gusta, de trigo con cuerpo fuerte aunque olor no muy allá.;Aceptable ;6;2020-11-01
-119;Camaro;Agua de Lidl con aditivos. ;Malo;0;2020-12-01
+116;San Miguel Magna;Rubia con algo más de cuerpo de lo normal.;Aceptable;5;2020-11-01
+117;Desperados Ginger;Se bebe muy rápido pero apenas deja regusto. Quizá un toque amargo especial.;Regular;3;2020-11-01
+118;Especialidades 1897 Trigo;Me gusta, de trigo con cuerpo fuerte aunque olor no muy allá.;Aceptable;6;2020-11-01
+119;Camaro;Agua de Lidl con aditivos.;Malo;0;2020-12-01
 120;Ambar Export;Tres maltas que parecen una.;Regular;3;2023-06-17
-121;La Sagra Calabaza y Canela;Roja suave. Apenás hay espuma ¿la habré tirado bien? Flojilla para ser roja. Poca ánima.;Regular;3;2020-12-01
+121;La Sagra Calabaza y Canela;Roja suave. Apenás hay espuma. ¿Mal tirada? Flojilla para ser roja. Poca ánima.;Regular;3;2020-12-01
 122;Carlsberg;Cerveza de verano. Un poco de chispa.;Aceptable;5;2020-12-01
 123;Alhambra Reserva Esencia Citra IPA;Una rubia reforzada con regusto a limón. No está mal. Saciante.;Bueno;7;2020-12-01
 124;Blanche De Charleroi;De trigo con cuerpo y espuma copa danone, asienta en el estomago pero no es agua. Bastante bien.;Bueno;8;2020-12-31
@@ -130,7 +130,7 @@ ID;CERVEZA;NOTA DE CATA;SABOR;PUNTOS;FECHA
 129;Grevensteiner Original;Huele bien. Sabor suave sin persistencia, turbia, espuma mediocre. Esperaba más cuerpo.;Regular;3;2021-01-01
 130;Budweiser Budvar Original;Es la del litigio con Budweiser. Rubia clásica, equilibrada, alegra.;Bueno;7;2021-01-31
 131;Trappistes Rochefort 8;Densa. Toque chocolate. No invade el %. Calidad. No pierde fuerza, cada sorbo es como el primero.;Excelente;10;2021-02-07
-132;Brewdog Punk IPA;Ok, regusto aceptable a lúpulo. 5,6% que empana. ;Aceptable;6;2022-03-01
+132;Brewdog Punk IPA;No es un desastre pero no repito.;Aceptable;5;2024-03-03
 133;Camden Pale Ale;Huele a hierba pero no es tan fresca.;Regular;4;2021-02-01
 134;Einstök Icelandic Toasted Porter;Petróleo islándes, super negra. Licor de café. Aroma a chocolate.;Excelente;9;2021-02-01
 135;Hoegaarden De Verboden Vrucht / Le Fruit Défendu;Caramelo pesado. No noto su 8%...mal;Malo;2;2021-02-01
@@ -138,7 +138,7 @@ ID;CERVEZA;NOTA DE CATA;SABOR;PUNTOS;FECHA
 137;Weihenstephaner Hefeweissbier;Entra como la seda, sabe a cereal aunque no tiene mucha persistencia en boca.;Aceptable;6;2021-03-01
 138;Hertog Jan Tripel;Buen sabor. Atiza.;Bueno;7;2021-03-01
 139;OXIT Blonde;Sabor rancio con mucho sedimento…Si no está defectuosa de lo peor que he bebido.;Malo;0;2021-03-01
-140;Ginette Bio Lager;Rubia muy muy normalita. ;Regular;4;2021-03-01
+140;Ginette Bio Lager;Rubia muy muy normalita.;Regular;4;2021-03-01
 141;312 Urban Wheat;0 espuma pero aguanta y me activa 1 hora (Bailén).;Bueno;7;2021-03-01
 142;Modelo Especial;Se puede beber pero lleva aditivos e-…;Malo;2;2021-03-01
 143;Especialidades 1897 Gran Reserva;No encuentro el trigo. No sé que pinta el azucar ni el jarabe que lleva y encima la hacen en Francia..mal;Malo;0;2021-03-01
@@ -190,7 +190,7 @@ ID;CERVEZA;NOTA DE CATA;SABOR;PUNTOS;FECHA
 189;Estrella Damm;Ok, floja pero rica.;Aceptable;6;2021-11-01
 190;Desperados Strawberry Margarita;Refresco.;Regular;3;2022-09-01
 191;Coors Light;Seca y muy fría. Sin amargor. Cumple.;Aceptable;6;2021-12-01
-192;Tap 6: Mein Aventinus;Empalaga y atiza.;Aceptable;6;2021-12-01
+192;Tap 6: Mein Aventinus;Empalaga un poco y atiza. Grado real.;Bueno;8;2024-07-12
 193;Weltenburger Kloster Anno 1050;Sin fuerza. No ofrece nada.;Malo;2;2021-12-01
 194;Maredsous Blond;Ok.;Aceptable;5;2022-02-01
 195;Brewdog Dead Pony Club;Floja, sin gracia.;Malo;2;2022-02-01
@@ -221,7 +221,7 @@ ID;CERVEZA;NOTA DE CATA;SABOR;PUNTOS;FECHA
 220;1906 Black Coupage;Negra correcta.;Aceptable;6;2022-09-01
 221;Alhambra Tradicional;Rubia conservadora.;Aceptable;5;2022-10-01
 222;Brutus The Beer;Plana.;Malo;2;2022-10-01
-223;Heineken Silver;Quita la sed y no hincha el estómago. ;Bueno;7;2022-11-01
+223;Heineken Silver;Quita la sed y no hincha el estómago.;Bueno;7;2022-11-01
 224;Mc Chouffe;Roja oscura que entra rápido, dame más.;Excelente;9;2022-12-01
 225;Estrella de Navidad;No aburre. Saciante. Perdura en boca.;Bueno;7;2022-12-01
 226;Peroni Gran Riserva Doppio Malto;Gourmet. Calidad.;Excelente;10;2023-12-01
@@ -251,3 +251,41 @@ ID;CERVEZA;NOTA DE CATA;SABOR;PUNTOS;FECHA
 250;Ruddles Best;English bitter, sí…amarga.;Regular;4;2023-09-30
 251;Obolon Svitle;Falta potencia. Escaso sabor.;Malo;2;2023-10-05
 252;Petrus Blond;Entra bien, rápido. Espuma rica. Regular persistencia. Azúcar.;Aceptable;6;2023-10-17
+253;Gulden Draak 9000 Quadruple;Locura de espuma viva. Espesa.;Bueno;8;2023-10-21
+254;Schnitzer Bräu German Hirse Premium;Sabe envejecida, diferente, fresca, aromática…aunque lleva cosas raras.;Bueno;8;2023-10-22
+255;Piraat;Calidad. Espuma viva.;Excelente;9;2024-02-18
+256;Er Boquerón;No me llama la atención.;Aceptable;5;2023-11-10
+257;San Miguel Gluten Free;Correcta.;Bueno;7;2023-11-01
+258;Grevensteiner Naturtrübes Helles;Muy decepcionante. ¿Mala elección copa? Nada destacable.;Malo;2;2023-11-18
+259;Mahou Cinco Estrellas Sin Filtrar;Mahou 5 valor seguro. Da igual el matiz.;Bueno;8;2023-11-25
+260;Estrella de Navidad;Prescindible.;Regular;4;2023-12-26
+261;Rye IPL Centeno;Hierba con cierto cuerpo. Se nota en el estomago. Un poco pesada.;Aceptable;6;2024-01-17
+262;The One Celta;Madera, fruta…regusto escaso sin espuma.;Aceptable;5;2024-01-26
+263;Gastro IPA Dry Hopping;Rica, agradable.;Bueno;7;2024-02-02
+264;G de Goudale Grand Cru;Elegante y fuerte.;Excelente;9;2024-02-06
+265;Duet;Mosto. Muy ácida. Mal experimento.;Malo;2;2024-02-09
+266;Straffe Hendrik Tripel;Tiene todo para triunfar (grado, volumen, cuerpo) pero no despunta en nada. Tripel normalita.;Aceptable;6;2024-02-17
+267;Baeren Classic;Cereal refrescante.;Bueno;7;2024-02-22
+268;iKi Yuzu;Gas sin mucho sabor. Lleva té verde.;Regular;4;2024-03-01
+269;Jever Pilsener;Agradable birra. Refrescante amargor.;Bueno;8;2024-03-06
+270;Gordon Finest Gold;Retiene la temperatura. Muy fría. 10% ligero. Sin sustancia.;Regular;3;2024-03-07
+271;Chouffe Lite;Sabor extraño.;Regular;3;2024-03-14
+272;Chimay Triple;Al ser trapense mantiene el tipo pero no me dice nada.;Regular;4;2024-03-27
+273;Westmalle Tripel;Dulzor agudo.;Bueno;8;2024-03-31
+274;Orval;Agitada en boca tiene su punto, pero le falta algo de sabor.;Bueno;7;2024-04-03
+275;Tynt Meadow;Cafetera cósmica.;Excelente;9;2024-04-04
+276;Saku Kuld;Mantiene la temperatura y poco más. Ligera. Se mea rápido.;Aceptable;5;2024-04-12
+277;Tartu Hele;Parece una IPA. Está buena.;Bueno;7;2024-04-11
+278;Trappistes Rochefort 10;Café fuerte especiado pero dura menos que la 8. Esperaba más.;Bueno;7;2024-04-24
+279;Chimay 150;Estoy un poco malo…la noto fuerte y ácida pero sin notas de cereal o malta. Ánima sí.;Bueno;7;2024-04-28
+280;La Bella Lola;Trigo amargo y ligero con espuma cremosa.;Bueno;7;2024-04-30
+281;Gordon Scotch Ale;Café duro y rico.;Bueno;8;2024-05-05
+282;Timmermans Strawberry Thyme Lambicus;Apenas sabe a fruta. Color y poco más.;Regular;3;2024-05-30
+283;Timmermans Pêche Lambicus;Ok aunque tiene pinta de empalagar.;Aceptable;5;2024-06-01
+284;Martin's IPA 55;Espuma y aroma. Sabor de mas a menos.;Aceptable;6;2024-06-05
+285;The One Blanche;Extraña. Trigo regulero.;Regular;4;2024-06-07
+286;The One Blonde;Todo bien (espuma, cuerpo, olor) excepto el sabor…;Aceptable;5;2024-06-09
+287;The One Pale Ale;Decente. Atiza un poco. Equilibrada y con sustancia.;Bueno;7;2024-06-13
+288;Consentida;Sabor mediocre con buena aparencia.;Regular;3;2024-07-03
+289;Naturepils;Rubia fresca pero bastante sosa.;Regular;4;2024-07-10
+290;Mescalina México;Para esto me tomo una Desperados;Malo;2;2024-07-11
