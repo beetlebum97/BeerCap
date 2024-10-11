@@ -211,7 +211,7 @@ ID;CERVEZA;AÑO;COLOR;FABRICANTE;OBTURADOR;INSCRIPCIÓN;ESTADO;REPETIDA;FORMATO;
 210;Estrella Damm;2021;Rojo;HB;29;KC02312 BO 2;Bueno;SI;33cl;;210_Estrella_Damm_Original_2021.jpg
 211;Desperados Strawberry Margarita;2021;Verde;cp;21;40079762 22;Perfecto;NO;33cl;;211_Desperados_Strawberry_Margarita_2021.jpg
 212;Coors Light;2021;Plata;dap;18;7070713 24;Bueno;NO;33cl;;212_Coors_Light_2021.jpg
-213;Tap 6: Mein Aventinus;2021;Oro;RRK;01;9 09 12/21;Perfecto;NO;50cl;;213_Schneider_Weisse_Tap_6_Aventinus_2021.jpg
+213;Tap 06: Aventinus;2021;Oro;RRK;01;9 09 12/21;Perfecto;NO;50cl;;213_Schneider_Weisse_Tap06_Aventinus_2021.jpg
 214;Weltenburger Kloster Anno 1050;2021;Azul;RRK;01;10 15 09/21;Bueno;SI;50cl;;214_Weltenburger_Kloster_Anno_1050_2021.jpg
 215;Cusqueña Negra;2022;Negro;PPP;A07;5;Perfecto;NO;33cl;;215_Cusqueña_Negra_2022.jpg
 216;Maredsous Blond;2022;Cobre;RRK;03;16 15 14/21;Perfecto;NO;33cl;;216_Maredsous_Blond_2022.jpg
@@ -355,8 +355,19 @@ ID;CERVEZA;AÑO;COLOR;FABRICANTE;OBTURADOR;INSCRIPCIÓN;ESTADO;REPETIDA;FORMATO;
 354;The One Blonde;2024;Amarillo;Sin fabricante;5;;Bueno;NO;33cl;;354_The_One_Blonde_2024.jpg
 355;The One Pale Ale;2024;Naranja;Sin fabricante;7;;Bueno;NO;33cl;;355_The_One_Pale_Ale_2024.jpg
 356;Consentida;2024;Rosa;U;23;17;Perfecto;NO;33cl;;356_Consentida_Pale_Lager_2024.jpg
-357;Estrella Galicia 0,0;2024;Multicolor;Unibox;22;23;Regular;NO;25cl;;357_Estrella_Galicia_Sin_2024.jpg
+357;Estrella Galicia 0.0;2024;Multicolor;Unibox;22;23;Regular;NO;25cl;;357_Estrella_Galicia_Sin_2024.jpg
 358;Naturepils;2024;Blanco;U;34;R11618 BO 19;Bueno;NO;33cl;;358_Naturepils_2024.jpg
 359;Mescalina México;2024;Blanco;U;8;27;Bueno;NO;33cl;;359_Mescalina_México_2024.jpg
-360;Tap 6: Mein Aventinus;2024;Oro;RRK;03;1 22 03/22;Bueno;NO;50cl;;360_Schneider_Weisse_Tap_6_Aventinus_2024.jpg
+360;Tap 06: Aventinus;2024;Oro;RRK;03;1 22 03/22;Bueno;NO;50cl;;360_Schneider_Weisse_Tap06_Aventinus_2024.jpg
 361;The One IPA Americana;2023;Azul;Sin fabricante;7;;Bueno;NO;33cl;;361_The_One_IPA_Americana_2023.jpg
+362;Duir;2024;Oro;U;24;11;Perfecto;NO;33cl;;362_Menduiña_Duir_Red_Ale_2024.jpg
+363;Tap 01: Helle Weisse;2024;Blanco;RRK;26;2 26 26/22;Perfecto;NO;50cl;;363_Schneider_Weisse_Tap01_Helle_Weisse_2024.jpg
+364;Clausthaler Original;2024;Blanco;DKF;40-31;14-28;Bueno;SI;33cl;;364_Clausthaler_Original_2024.jpg
+365;Erdinger Urweisse;2024;Beige;RRK;35;5 25 34/23;Bueno;NO;50cl;;365_Erdinger_Urweisse_2024.jpg
+366;Ambar 1900 Sin Filtrar;2024;Verde;Unibox;A24;5;Bueno;NO;33cl;;366_Ambar_1900_Sin_Filtrar_2024.jpg
+367;Zundert 8 Tripel Trappist;2024;Crudo;Unibox;6;25987 25;Bueno;NO;33cl;;367_Zundert_8_Tripel_Trappist_2024.jpg
+368;Kirin Free;2024;Azul;dap;13;27 3;Bueno;NO;33cl;;368_Kirin_Free_2024.jpg
+369;Bitburger Premium Pils;2024;Oro;HB;8;15;Bueno;NO;33cl;;369_Bitburger_Premium_Pils_2024.jpg
+370;Kwak;2024;Marrón;HB;48;51376909 16;Bueno;NO;33cl;;370_Kwak_Ambrée_2024.jpg
+371;Cruzcampo Gran Reserva;2024;Negro;dap;0;05.36.25.757 13 22;Perfecto;NO;33cl;;371_Cruzcampo_Gran_Reserva_2024.jpg
+372;Perlenbacher Premium Pils;2024;Oro;dap;6;3;Bueno;SI;50cl;;372_Perlenbacher Premium Pils_2024.jpg

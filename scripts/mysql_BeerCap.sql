@@ -1,8 +1,8 @@
 -- [[0. CREAR  Y USAR BASE DE DATOS]]
 
-CREATE DATABASE CHAPAS_CERVEZA;
+CREATE DATABASE BeerCap;
 
-USE CHAPAS_CERVEZA;
+USE BeerCap;
 
 -- [[1. CREAR TABLAS]]
 -- Nombres de columnas con espacios en blanco: `nombre columna`.

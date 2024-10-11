@@ -2756,7 +2756,7 @@
   "Imagen": "212_Coors_Light_2021.jpg"
 }, {
   "ID": "213",
-  "Cerveza": "Tap 6: Mein Aventinus",
+  "Cerveza": "Tap 06: Aventinus",
   "Año": "2021",
   "Color": "Oro",
   "Fabricante": "RRK",
@@ -2766,7 +2766,7 @@
   "Repetida": "NO",
   "Formato": "50cl",
   "Registro": null,
-  "Imagen": "213_Schneider_Weisse_Tap_6_Aventinus_2021.jpg"
+  "Imagen": "213_Schneider_Weisse_Tap06_Aventinus_2021.jpg"
 }, {
   "ID": "214",
   "Cerveza": "Weltenburger Kloster Anno 1050",
@@ -4628,7 +4628,7 @@
   "Imagen": "356_Consentida_Pale_Lager_2024.jpg"
 }, {
   "ID": "357",
-  "Cerveza": "Estrella Galicia 0,0",
+  "Cerveza": "Estrella Galicia 0.0",
   "Año": "2024",
   "Color": "Multicolor",
   "Fabricante": "Unibox",
@@ -4667,7 +4667,7 @@
   "Imagen": "359_Mescalina_México_2024.jpg"
 }, {
   "ID": "360",
-  "Cerveza": "Tap 6: Mein Aventinus",
+  "Cerveza": "Tap 06: Aventinus",
   "Año": "2024",
   "Color": "Oro",
   "Fabricante": "RRK",
@@ -4677,7 +4677,7 @@
   "Repetida": "NO",
   "Formato": "50cl",
   "Registro": null,
-  "Imagen": "360_Schneider_Weisse_Tap_6_Aventinus_2024.jpg"
+  "Imagen": "360_Schneider_Weisse_Tap06_Aventinus_2024.jpg"
 }, {
   "ID": "361",
   "Cerveza": "The One IPA Americana",
@@ -4691,4 +4691,147 @@
   "Formato": "33cl",
   "Registro": null,
   "Imagen": "361_The_One_IPA_Americana_2023.jpg"
+}, {
+  "ID": "362",
+  "Cerveza": "Duir",
+  "Año": "2024",
+  "Color": "Oro",
+  "Fabricante": "U",
+  "Obturador": "24",
+  "Inscripción": "11",
+  "Estado": "Perfecto",
+  "Repetida": "NO",
+  "Formato": "33cl",
+  "Registro": null,
+  "Imagen": "362_Menduiña_Duir_Red_Ale_2024.jpg"
+}, {
+  "ID": "363",
+  "Cerveza": "Tap 01: Helle Weisse",
+  "Año": "2024",
+  "Color": "Blanco",
+  "Fabricante": "RRK",
+  "Obturador": "26",
+  "Inscripción": "2 26 26/22",
+  "Estado": "Perfecto",
+  "Repetida": "NO",
+  "Formato": "50cl",
+  "Registro": null,
+  "Imagen": "363_Schneider_Weisse_Tap01_Helle_Weisse_2024.jpg"
+}, {
+  "ID": "364",
+  "Cerveza": "Clausthaler Original",
+  "Año": "2024",
+  "Color": "Blanco",
+  "Fabricante": "DKF",
+  "Obturador": "40-31",
+  "Inscripción": "14-28",
+  "Estado": "Bueno",
+  "Repetida": "SI",
+  "Formato": "33cl",
+  "Registro": null,
+  "Imagen": "364_Clausthaler_Original_2024.jpg"
+}, {
+  "ID": "365",
+  "Cerveza": "Erdinger Urweisse",
+  "Año": "2024",
+  "Color": "Beige",
+  "Fabricante": "RRK",
+  "Obturador": "35",
+  "Inscripción": "5 25 34/23",
+  "Estado": "Bueno",
+  "Repetida": "NO",
+  "Formato": "50cl",
+  "Registro": null,
+  "Imagen": "365_Erdinger_Urweisse_2024.jpg"
+}, {
+  "ID": "366",
+  "Cerveza": "Ambar 1900 Sin Filtrar",
+  "Año": "2024",
+  "Color": "Verde",
+  "Fabricante": "Unibox",
+  "Obturador": "A24",
+  "Inscripción": "5",
+  "Estado": "Bueno",
+  "Repetida": "NO",
+  "Formato": "33cl",
+  "Registro": null,
+  "Imagen": "366_Ambar_1900_Sin_Filtrar_2024.jpg"
+}, {
+  "ID": "367",
+  "Cerveza": "Zundert 8 Tripel Trappist",
+  "Año": "2024",
+  "Color": "Crudo",
+  "Fabricante": "Unibox",
+  "Obturador": "6",
+  "Inscripción": "25987 25",
+  "Estado": "Bueno",
+  "Repetida": "NO",
+  "Formato": "33cl",
+  "Registro": null,
+  "Imagen": "367_Zundert_8_Tripel_Trappist_2024.jpg"
+}, {
+  "ID": "368",
+  "Cerveza": "Kirin Free",
+  "Año": "2024",
+  "Color": "Azul",
+  "Fabricante": "dap",
+  "Obturador": "13",
+  "Inscripción": "27 3",
+  "Estado": "Bueno",
+  "Repetida": "NO",
+  "Formato": "33cl",
+  "Registro": null,
+  "Imagen": "368_Kirin_Free_2024.jpg"
+}, {
+  "ID": "369",
+  "Cerveza": "Bitburger Premium Pils",
+  "Año": "2024",
+  "Color": "Oro",
+  "Fabricante": "HB",
+  "Obturador": "8",
+  "Inscripción": "15",
+  "Estado": "Bueno",
+  "Repetida": "NO",
+  "Formato": "33cl",
+  "Registro": null,
+  "Imagen": "369_Bitburger_Premium_Pils_2024.jpg"
+}, {
+  "ID": "370",
+  "Cerveza": "Kwak",
+  "Año": "2024",
+  "Color": "Marrón",
+  "Fabricante": "HB",
+  "Obturador": "48",
+  "Inscripción": "51376909 16",
+  "Estado": "Bueno",
+  "Repetida": "NO",
+  "Formato": "33cl",
+  "Registro": null,
+  "Imagen": "370_Kwak_Ambrée_2024.jpg"
+}, {
+  "ID": "371",
+  "Cerveza": "Cruzcampo Gran Reserva",
+  "Año": "2024",
+  "Color": "Negro",
+  "Fabricante": "dap",
+  "Obturador": "0",
+  "Inscripción": "05.36.25.757 13 22",
+  "Estado": "Perfecto",
+  "Repetida": "NO",
+  "Formato": "33cl",
+  "Registro": null,
+  "Imagen": "371_Cruzcampo_Gran_Reserva_2024.jpg"
+}, {
+  "ID": "372",
+  "Cerveza": "Perlenbacher Premium Pils",
+  "Año": "2024",
+  "Color": "Oro",
+  "Fabricante": "dap",
+  "Obturador": "6",
+  "Inscripción": "3",
+  "Estado": "Bueno",
+  "Repetida": "SI",
+  "Formato": "50cl",
+  "Registro": null,
+  "Imagen": "372_Perlenbacher Premium Pils_2024.jpg"
 }]

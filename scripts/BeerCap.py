@@ -2,6 +2,15 @@ import sys
 import mysql.connector
 import pyodbc
 
+# VARIABLES
+data_mysql = '/var/lib/mysql-files/'
+data_sql_server = 'D:\\BeerCap_dev\\data\\'
+fabricantes = 'fabricantes.csv'
+productores = 'productores.csv'
+cervezas = 'cervezas.csv'
+chapas = 'chapas.csv'
+catas = 'catas.csv'
+
 def conectar_a_base_de_datos(motor,servidor,usuario,contraseña):
     if motor.lower() == 'mysql':
         cnx = mysql.connector.connect(user=usuario, password=contraseña,
@@ -12,9 +21,9 @@ def conectar_a_base_de_datos(motor,servidor,usuario,contraseña):
         print()
         
 # 0. CREAR Y USAR LA BASE DE DATOS
-        cursor.execute('CREATE DATABASE CHAPAS_CERVEZA')
-        cursor.execute('USE CHAPAS_CERVEZA')
-        
+        cursor.execute('CREATE DATABASE BeerCap')
+        cursor.execute('USE BeerCap')
+
 # 1. TABLA FABRICANTES_CHAPA
         CREAR_FABRICANTES = """
             CREATE TABLE Fabricantes_Chapa(
@@ -27,8 +36,8 @@ def conectar_a_base_de_datos(motor,servidor,usuario,contraseña):
             ); """
         cursor.execute(CREAR_FABRICANTES)
         
-        INSERTAR_FABRICANTES = """
-            LOAD DATA INFILE '/var/lib/mysql-files/fabricantes.csv'
+        INSERTAR_FABRICANTES = f"""
+            LOAD DATA INFILE '{data_mysql}{fabricantes}'
             INTO TABLE Fabricantes_Chapa
             FIELDS TERMINATED BY ';'
             LINES TERMINATED BY '\n'
@@ -54,8 +63,8 @@ def conectar_a_base_de_datos(motor,servidor,usuario,contraseña):
             ); """
         cursor.execute(CREAR_PRODUCTORES)
         
-        INSERTAR_PRODUCTORES = """
-            LOAD DATA INFILE '/var/lib/mysql-files/productores.csv'
+        INSERTAR_PRODUCTORES = f"""
+            LOAD DATA INFILE '{data_mysql}{productores}'
             INTO TABLE Productores_Cerveza
             FIELDS TERMINATED BY ';'
             LINES TERMINATED BY '\n'
@@ -89,8 +98,8 @@ def conectar_a_base_de_datos(motor,servidor,usuario,contraseña):
             ); """
         cursor.execute(CREAR_CERVEZAS)
         
-        INSERTAR_CERVEZAS = """
-            LOAD DATA INFILE '/var/lib/mysql-files/cervezas.csv'
+        INSERTAR_CERVEZAS = f"""
+            LOAD DATA INFILE '{data_mysql}{cervezas}'
             INTO TABLE Cervezas
             FIELDS TERMINATED BY ';'
             LINES TERMINATED BY '\n'
@@ -124,8 +133,8 @@ def conectar_a_base_de_datos(motor,servidor,usuario,contraseña):
             ); """
         cursor.execute(CREAR_CHAPAS)
         
-        INSERTAR_CHAPAS = """
-            LOAD DATA INFILE '/var/lib/mysql-files/chapas.csv'
+        INSERTAR_CHAPAS = f"""
+            LOAD DATA INFILE '{data_mysql}{chapas}'
             INTO TABLE Chapas
             FIELDS TERMINATED BY ';'
             LINES TERMINATED BY '\n'
@@ -152,8 +161,8 @@ def conectar_a_base_de_datos(motor,servidor,usuario,contraseña):
             ); """
         cursor.execute(CREAR_CATAS)
         
-        INSERTAR_CATAS = """
-            LOAD DATA INFILE '/var/lib/mysql-files/catas.csv'
+        INSERTAR_CATAS = f"""
+            LOAD DATA INFILE '{data_mysql}{catas}'
             INTO TABLE Catas
             FIELDS TERMINATED BY ';'
             LINES TERMINATED BY '\n'
@@ -202,8 +211,8 @@ def conectar_a_base_de_datos(motor,servidor,usuario,contraseña):
         print()
         
 # 0. CREAR Y USAR LA BASE DE DATOS
-        cursor.execute('CREATE DATABASE CHAPAS_CERVEZA')
-        cursor.execute('USE CHAPAS_CERVEZA')
+        cursor.execute('CREATE DATABASE BeerCap')
+        cursor.execute('USE BeerCap')
         
 # 1. TABLA FABRICANTES_CHAPA
         CREAR_FABRICANTES = """ 
@@ -217,9 +226,9 @@ def conectar_a_base_de_datos(motor,servidor,usuario,contraseña):
             ) """
         cursor.execute(CREAR_FABRICANTES)
 
-        INSERTAR_FABRICANTES = """
+        INSERTAR_FABRICANTES = f"""
             BULK INSERT Fabricantes_Chapa
-            FROM 'D:\\db_chapas_cerveza_dev\\data\\fabricantes.csv'
+            FROM '{data_sql_server}{fabricantes}'
             WITH (
             FORMAT = 'CSV',
             FIELDTERMINATOR = ';',
@@ -245,7 +254,7 @@ def conectar_a_base_de_datos(motor,servidor,usuario,contraseña):
         
         INSERTAR_PRODUCTORES = """
             BULK INSERT Productores_Cerveza
-            FROM 'D:\\db_chapas_cerveza_dev\\data\\productores.csv'
+            FROM 'D:\\BeerCap_dev\\data\\productores.csv'
             WITH (
             FORMAT = 'CSV',
             FIELDTERMINATOR = ';',
@@ -276,7 +285,7 @@ def conectar_a_base_de_datos(motor,servidor,usuario,contraseña):
         
         INSERTAR_CERVEZAS = """
             BULK INSERT Cervezas
-            FROM 'D:\\db_chapas_cerveza_dev\\data\\cervezas.csv' 
+            FROM 'D:\\BeerCap_dev\\data\\cervezas.csv' 
             WITH (
             FORMAT = 'CSV',
             FIELDTERMINATOR = ';',
@@ -309,7 +318,7 @@ def conectar_a_base_de_datos(motor,servidor,usuario,contraseña):
         
         INSERTAR_CHAPAS = """
             BULK INSERT Chapas
-            FROM 'D:\\db_chapas_cerveza_dev\\data\\chapas.csv'
+            FROM 'D:\\BeerCap_dev\\data\\chapas.csv'
             WITH (
             FORMAT = 'CSV',
             FIELDTERMINATOR = ';',
@@ -335,7 +344,7 @@ def conectar_a_base_de_datos(motor,servidor,usuario,contraseña):
         
         INSERTAR_CATAS = """
             BULK INSERT Catas
-            FROM 'D:\\db_chapas_cerveza_dev\\data\\catas.csv'
+            FROM 'D:\\BeerCap_dev\\data\\catas.csv'
             WITH (
             FORMAT = 'CSV',
             FIELDTERMINATOR = ';',

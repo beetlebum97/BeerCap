@@ -1026,13 +1026,13 @@
   "Empresa matriz": "Molson Coors"
 }, {
   "ID": "115",
-  "Nombre": "G. Schneider \u0026 Sohn",
+  "Nombre": "Schneider Weisse",
   "País": "Alemania",
   "Región": "Baviera",
   "Ciudad": "Kelheim",
   "Fundación": "1872",
   "URL": "schneider-weisse.de",
-  "Empresa matriz": null
+  "Empresa matriz": "G. Schneider \u0026 Sohn"
 }, {
   "ID": "116",
   "Nombre": "Cervezas Villa de Madrid",
@@ -1438,4 +1438,40 @@
   "Fundación": "2011",
   "URL": "www.nomadabrewing.com",
   "Empresa matriz": "Mahou-San Miguel"
+}, {
+  "ID": "161",
+  "Nombre": "Menduiña",
+  "País": "España",
+  "Región": "Galicia",
+  "Ciudad": "Cangas de Morrazo",
+  "Fundación": "2008",
+  "URL": "www.menduina.eu",
+  "Empresa matriz": null
+}, {
+  "ID": "162",
+  "Nombre": "Clausthaler",
+  "País": "Alemania",
+  "Región": "Hesse",
+  "Ciudad": "Frankfurt",
+  "Fundación": "1970",
+  "URL": "www.clausthaler.de",
+  "Empresa matriz": "Radeberger Gruppe"
+}, {
+  "ID": "163",
+  "Nombre": "Trappistenbrouwerij de Kievit",
+  "País": "Países Bajos",
+  "Región": "Brabante Septentrional",
+  "Ciudad": "Zundert",
+  "Fundación": "2013",
+  "URL": "www.zunderttrappist.nl",
+  "Empresa matriz": null
+}, {
+  "ID": "164",
+  "Nombre": "Bitburger",
+  "País": "Alemania",
+  "Región": "Renania-Palatinado",
+  "Ciudad": "Bitburg",
+  "Fundación": "1817",
+  "URL": "www.bitburger.com",
+  "Empresa matriz": null
 }]

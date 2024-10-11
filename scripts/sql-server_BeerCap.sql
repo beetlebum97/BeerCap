@@ -1,9 +1,9 @@
 -- [[0. CREAR  Y USAR BASE DE DATOS]]
 
-CREATE DATABASE CHAPAS_CERVEZA
+CREATE DATABASE BeerCap
 GO
 
-USE CHAPAS_CERVEZA
+USE BeerCap
 GO
 
 -- [[1. CREAR TABLAS]]
@@ -98,7 +98,7 @@ GO
 -- 2.1 DECLARAR VARIABLES
 
 DECLARE @directorio nvarchar(255)
-SET @directorio = N'D:\\db_chapas_cerveza_dev\\data\\'
+SET @directorio = N'D:\\BeerCap_dev\\data\\'
 
 DECLARE @archivo nvarchar(255)
 DECLARE @rutacompleta nvarchar(255)

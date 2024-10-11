@@ -201,7 +201,7 @@ ID;NOMBRE;TIPO;ESTILO;GRADO;IBU;LANZAMIENTO;ESTADO;PAÍS;URL;PRODUCTOR
 200;Estrella Damm;Pale Lager;European Pale Lager;5.40;26;1876;Activa;España;;Damm
 201;Desperados Strawberry Margarita;Specialty Beer;Fruit and Field Beer ;3.00;;;Activa;Polonia;www.desperados.com;Zywiec Brewery
 202;Coors Light;Pale Lager;Light Lager;4.00;10;1978;Activa;Estados Unidos;;Coors Brewing Company
-203;Tap 6: Mein Aventinus;Bock;Weizenbock;8.20;16;1907;Activa;Alemania;;G. Schneider & Sohn
+203;Tap 06: Aventinus;Bock;Weizenbock;8.20;16;1907;Activa;Alemania;;Schneider Weisse
 204;Weltenburger Kloster Anno 1050;Dark Lager;Märzen;5.50;24;;Activa;Alemania;;Klosterbrauerei Weltenburg
 205;Maredsous Blond;Pale Ale;Belgian Blonde Ale;6.50;;;Activa;Bélgica;www.maredsousbieres.be;Abbaye de Maredsous 
 206;Brewdog Dead Pony Club;Pale Ale;American Pale Ale;3.80;35;2012;Activa;Escocia;;BrewDog
@@ -312,6 +312,15 @@ ID;NOMBRE;TIPO;ESTILO;GRADO;IBU;LANZAMIENTO;ESTADO;PAÍS;URL;PRODUCTOR
 311;Madrí Excepcional;Pale Lager;European Pale Lager;4.60;;2020;Activa;Inglaterra;www.madriexcepcional.com;Coors Brewing Company
 312;The One Pale Ale;Pale Ale;English Pale Ale;5.20;30;;Activa;España;;The One Beer
 313;Consentida;Pale Lager;European Pale Lager;5.50;32;2014;Activa;España;;La Claudia Italia
-314;Estrella Galicia 0,0;Specialty Beer;Low-Alcohol Beer;0.00;15;2008;Activa;España;;Estrella Galicia
+314;Estrella Galicia 0.0;Specialty Beer;Low-Alcohol Beer;0.00;15;2008;Activa;España;;Estrella Galicia
 315;Naturepils;Pale Lager;German Pilsner;4.60;;;Activa;España;;Nómada Brewing
 316;Mescalina México;Specialty Beer;Herb and Spice Beer;4.50;;;Activa;España;;La Claudia Italia
+317;Duir;Pale Ale;American Amber / Red Ale;5.50;32;;Activa;España;;Menduiña
+318;Tap 01: Helle Weisse;Wheat Beer;Hefeweizen;4.90;14;1994;Activa;Alemania;;Schneider Weisse
+319;Clausthaler Original;Specialty Beer;Low-Alcohol Beer;0.50;29;1979;Activa;Alemania;;Clausthaler
+320;Erdinger Urweisse;Wheat Beer;Hefeweizen;4.90;12;1886;Activa;Alemania;;Erdinger Weissbräu
+321;Ambar 1900 Sin Filtrar;Pale Lager;European Pale Lager;5.80;21;2024;Activa;España;;Cervezas Ambar
+322;Zundert 8 Tripel Trappist;Strong Ale;Belgian Pale Strong Ale;8.00;34;2013;Activa;Países Bajos;;Trappistenbrouwerij de Kievit
+323;Kirin Free;Specialty Beer;Low-Alcohol Beer;0.00;;2009;Activa;Japón;;Kirin Brewery Company
+324;Bitburger Premium Pils;Pale Lager;German Pilsner;4.80;23;1971;Activa;Alemania;;Bitburger
+325;Perlenbacher Premium Pils;Pale Lager;German Pilsner;4.90;15;;Activa;Alemania;;Lidl

@@ -2424,7 +2424,7 @@
   "Productor": "Coors Brewing Company"
 }, {
   "ID": "203",
-  "Nombre": "Tap 6: Mein Aventinus",
+  "Nombre": "Tap 06: Aventinus",
   "Tipo": "Bock",
   "Estilo": "Weizenbock",
   "Grado": "8.2",
@@ -2433,7 +2433,7 @@
   "Estado": "Activa",
   "País": "Alemania",
   "URL": null,
-  "Productor": "G. Schneider \u0026 Sohn"
+  "Productor": "Schneider Weisse"
 }, {
   "ID": "204",
   "Nombre": "Weltenburger Kloster Anno 1050",
@@ -3756,7 +3756,7 @@
   "Productor": "La Claudia Italia"
 }, {
   "ID": "314",
-  "Nombre": "Estrella Galicia 0,0",
+  "Nombre": "Estrella Galicia 0.0",
   "Tipo": "Specialty Beer",
   "Estilo": "Low-Alcohol Beer",
   "Grado": "0.0",
@@ -3790,4 +3790,112 @@
   "País": "España",
   "URL": null,
   "Productor": "La Claudia Italia"
+}, {
+  "ID": "317",
+  "Nombre": "Duir",
+  "Tipo": "Pale Ale",
+  "Estilo": "American Amber / Red Ale",
+  "Grado": "5.5",
+  "IBU": "32",
+  "Lanzamiento": null,
+  "Estado": "Activa",
+  "País": "España",
+  "URL": null,
+  "Productor": "Menduiña"
+}, {
+  "ID": "318",
+  "Nombre": "Tap 01: Helle Weisse",
+  "Tipo": "Wheat Beer",
+  "Estilo": "Hefeweizen",
+  "Grado": "4.9",
+  "IBU": "14",
+  "Lanzamiento": "1994",
+  "Estado": "Activa",
+  "País": "Alemania",
+  "URL": null,
+  "Productor": "Schneider Weisse"
+}, {
+  "ID": "319",
+  "Nombre": "Clausthaler Original",
+  "Tipo": "Specialty Beer",
+  "Estilo": "Low-Alcohol Beer",
+  "Grado": "0.5",
+  "IBU": "29",
+  "Lanzamiento": "1979",
+  "Estado": "Activa",
+  "País": "Alemania",
+  "URL": null,
+  "Productor": "Clausthaler"
+}, {
+  "ID": "320",
+  "Nombre": "Erdinger Urweisse",
+  "Tipo": "Wheat Beer",
+  "Estilo": "Hefeweizen",
+  "Grado": "4.9",
+  "IBU": "12",
+  "Lanzamiento": "1886",
+  "Estado": "Activa",
+  "País": "Alemania",
+  "URL": null,
+  "Productor": "Erdinger Weissbräu"
+}, {
+  "ID": "321",
+  "Nombre": "Ambar 1900 Sin Filtrar",
+  "Tipo": "Pale Lager",
+  "Estilo": "European Pale Lager",
+  "Grado": "5.8",
+  "IBU": "21",
+  "Lanzamiento": "2024",
+  "Estado": "Activa",
+  "País": "España",
+  "URL": null,
+  "Productor": "Cervezas Ambar"
+}, {
+  "ID": "322",
+  "Nombre": "Zundert 8 Tripel Trappist",
+  "Tipo": "Strong Ale",
+  "Estilo": "Belgian Pale Strong Ale",
+  "Grado": "8.0",
+  "IBU": "34",
+  "Lanzamiento": "2013",
+  "Estado": "Activa",
+  "País": "Países Bajos",
+  "URL": null,
+  "Productor": "Trappistenbrouwerij de Kievit"
+}, {
+  "ID": "323",
+  "Nombre": "Kirin Free",
+  "Tipo": "Specialty Beer",
+  "Estilo": "Low-Alcohol Beer",
+  "Grado": "0.0",
+  "IBU": null,
+  "Lanzamiento": "2009",
+  "Estado": "Activa",
+  "País": "Japón",
+  "URL": null,
+  "Productor": "Kirin Brewery Company"
+}, {
+  "ID": "324",
+  "Nombre": "Bitburger Premium Pils",
+  "Tipo": "Pale Lager",
+  "Estilo": "German Pilsner",
+  "Grado": "4.8",
+  "IBU": "23",
+  "Lanzamiento": "1971",
+  "Estado": "Activa",
+  "País": "Alemania",
+  "URL": null,
+  "Productor": "Bitburger"
+}, {
+  "ID": "325",
+  "Nombre": "Perlenbacher Premium Pils",
+  "Tipo": "Pale Lager",
+  "Estilo": "German Pilsner",
+  "Grado": "4.9",
+  "IBU": "15",
+  "Lanzamiento": null,
+  "Estado": "Activa",
+  "País": "Alemania",
+  "URL": null,
+  "Productor": "Lidl"
 }]

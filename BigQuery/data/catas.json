@@ -1303,10 +1303,10 @@
 }, {
   "ID": "187",
   "Cerveza": "Kwak",
-  "Nota de cata": "Pega, tomé varias, la 1º me encantó, luego de más a menos. Toque a vino dulce. Caducadas 6m. Vaso…",
-  "Sabor": "Bueno",
-  "Puntos": "8",
-  "Fecha": "2021-10-01"
+  "Nota de cata": "Ola del Dharma.",
+  "Sabor": "Excelente",
+  "Puntos": "9",
+  "Fecha": "2024-08-17"
 }, {
   "ID": "188",
   "Cerveza": "Gulden Draak Classic",
@@ -1337,7 +1337,7 @@
   "Fecha": "2021-12-01"
 }, {
   "ID": "192",
-  "Cerveza": "Tap 6: Mein Aventinus",
+  "Cerveza": "Tap 06: Aventinus",
   "Nota de cata": "Empalaga un poco y atiza. Grado real.",
   "Sabor": "Bueno",
   "Puntos": "8",
@@ -2024,8 +2024,43 @@
 }, {
   "ID": "290",
   "Cerveza": "Mescalina México",
-  "Nota de cata": "Para esto me tomo una Desperados",
+  "Nota de cata": "Para esto me tomo una Desperados.",
   "Sabor": "Malo",
   "Puntos": "2",
   "Fecha": "2024-07-11"
+}, {
+  "ID": "291",
+  "Cerveza": "Duir",
+  "Nota de cata": "Roja ligera.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2024-08-02"
+}, {
+  "ID": "292",
+  "Cerveza": "Tap 01: Helle Weisse",
+  "Nota de cata": "Flojo sabor con escasa espuma.",
+  "Sabor": "Regular",
+  "Puntos": "3",
+  "Fecha": "2024-07-25"
+}, {
+  "ID": "293",
+  "Cerveza": "Ambar 1900 Sin Filtrar",
+  "Nota de cata": "Lager con cuerpo. Le falta un poco de persistencia.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2024-08-09"
+}, {
+  "ID": "294",
+  "Cerveza": "Bitburger Premium Pils",
+  "Nota de cata": "Amarga, dura, seca y fría.",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": "2024-08-14"
+}, {
+  "ID": "295",
+  "Cerveza": "Perlenbacher Premium Pils",
+  "Nota de cata": "Apañada. Calidad-precio.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2024-09-04"
 }]
