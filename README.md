@@ -9,7 +9,7 @@ Consta de 5 tablas y 1182 registros:
 | Chapas | 372 |
 | Catas | 295 |
 
-[![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/BeerCap/main/diagrama.png)](https://raw.githubusercontent.com/beetlebum97/BeerCap/main/diagrama.png)
+![N|Diagrama](https://raw.githubusercontent.com/beetlebum97/BeerCap/main/diagrama.png)
 El repositorio contiene los scripts y archivos necesarios para generar la Base de Datos en servidores SQL Server y MySQL. También se puede crear en BigQuery.
 
 [SCRIPTS CREACIÓN BBDD + CARGA DE DATOS]
@@ -104,8 +104,7 @@ OPCIÓN 3: SQL Server Management Studio (SSMS)
 
 Cargar script sql y lanzar (F5).
 
-[![N|SSMS](https://raw.githubusercontent.com/beetlebum97/BeerCap/main/imagenes/resultados/ejecucion_ssms.jpg)]
-(https://raw.githubusercontent.com/beetlebum97/BeerCap/main/imagenes/resultados/ejecucion_ssms.jpg)
+![N|SSMS](https://raw.githubusercontent.com/beetlebum97/BeerCap/main/imagenes/resultados/ejecucion_ssms.jpg)
 
 RESULTADO
 ```sh
@@ -252,8 +251,7 @@ Records: 295  Deleted: 0  Skipped: 0  Warnings: 0
 OPCIÓN 3: MySQL WORKBENCH
 Cargar script sql y lanzar.
 
-[![N|workbench](https://raw.githubusercontent.com/beetlebum97/BeerCap/main/imagenes/resultados/ejecucion_workbench.jpg)]
-(https://raw.githubusercontent.com/beetlebum97/BeerCap/main/imagenes/resultados/ejecucion_workbench.jpg)
+![N|workbench](https://raw.githubusercontent.com/beetlebum97/BeerCap/main/imagenes/resultados/ejecucion_workbench.jpg)
 
 
 ## BACKUP
@@ -275,4 +273,4 @@ Ejecutar por línea de comandos o herramienta gráfica.
 5) Delimitador de campos > Personalizado: ;
 6) Filas del encabezado que se omitirán: 0
 
-[[![N|workbench](https://raw.githubusercontent.com/beetlebum97/BeerCap/main/imagenes/resultados/bigquery.jpg)](https://raw.githubusercontent.com/beetlebum97/BeerCap/main/imagenes/resultados/bigquery.jpg)
+![N|workbench](https://raw.githubusercontent.com/beetlebum97/BeerCap/main/imagenes/resultados/bigquery.jpg)
