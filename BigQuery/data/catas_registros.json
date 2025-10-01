@@ -806,10 +806,10 @@
 }, {
   "ID": "116",
   "Cerveza": "San Miguel Magna",
-  "Nota de cata": "Rubia con algo más de cuerpo de lo normal.",
-  "Sabor": "Aceptable",
-  "Puntos": "5",
-  "Fecha": "2020-11-01"
+  "Nota de cata": "Se toma bien aunque sin pegada.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2024-11-08"
 }, {
   "ID": "117",
   "Cerveza": "Desperados Ginger",
@@ -840,11 +840,11 @@
   "Fecha": "2023-06-17"
 }, {
   "ID": "121",
-  "Cerveza": "La Sagra Calabaza y Canela",
-  "Nota de cata": "Roja suave. Apenás hay espuma. ¿Mal tirada? Flojilla para ser roja. Poca ánima.",
+  "Cerveza": "La Sagra Calabaza",
+  "Nota de cata": "Sin espuma ni sabor. Solo un toque a especie o fruta.",
   "Sabor": "Regular",
   "Puntos": "3",
-  "Fecha": "2020-12-01"
+  "Fecha": "2024-11-14"
 }, {
   "ID": "122",
   "Cerveza": "Carlsberg",
@@ -1296,10 +1296,10 @@
 }, {
   "ID": "186",
   "Cerveza": "Duvel 6.66%",
-  "Nota de cata": "Rica pero demasiado suave, tonos cítricos, espuma de ducha.",
-  "Sabor": "Aceptable",
-  "Puntos": "6",
-  "Fecha": "2021-10-01"
+  "Nota de cata": "Bien balanceada. Ni empalaga ni es floja. ",
+  "Sabor": "Bueno",
+  "Puntos": "8",
+  "Fecha": "2025-02-01"
 }, {
   "ID": "187",
   "Cerveza": "Kwak",
@@ -1387,10 +1387,10 @@
 }, {
   "ID": "199",
   "Cerveza": "Schöfferhofer Grapefruit Hefeweizen",
-  "Nota de cata": "Fanta de naranja.",
-  "Sabor": "Regular",
-  "Puntos": "3",
-  "Fecha": "2022-04-01"
+  "Nota de cata": "Fanta de pomelo, pero me gusta su acidez.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2025-02-23"
 }, {
   "ID": "200",
   "Cerveza": "Chula IPA",
@@ -1730,10 +1730,10 @@
 }, {
   "ID": "248",
   "Cerveza": "Cherry Chouffe",
-  "Nota de cata": "Gominola con cuerpo de cerveza. Bien de espuma y gas. Azucarada.",
+  "Nota de cata": "Lambrusco amargo.",
   "Sabor": "Bueno",
   "Puntos": "7",
-  "Fecha": "2023-09-21"
+  "Fecha": "2025-09-27"
 }, {
   "ID": "249",
   "Cerveza": "Ramblers Weissbier",
@@ -1779,10 +1779,10 @@
 }, {
   "ID": "255",
   "Cerveza": "Piraat",
-  "Nota de cata": "Calidad. Espuma viva.",
-  "Sabor": "Excelente",
-  "Puntos": "9",
-  "Fecha": "2024-02-18"
+  "Nota de cata": "Quita el 10,5%. Quita Bélgica. Quita gourment. Quita parafernalia...Entonces solo aromas de algo grande",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": "2024-11-24"
 }, {
   "ID": "256",
   "Cerveza": "Er Boquerón",
@@ -2063,4 +2063,102 @@
   "Sabor": "Bueno",
   "Puntos": "7",
   "Fecha": "2024-09-04"
+}, {
+  "ID": "296",
+  "Cerveza": "Piraat Triple Hop",
+  "Nota de cata": "Caramelo decente.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2024-09-05"
+}, {
+  "ID": "297",
+  "Cerveza": "Ambar Sin Gluten",
+  "Nota de cata": "Ok.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2025-01-19"
+}, {
+  "ID": "298",
+  "Cerveza": "N\u0027Ice Chouffe",
+  "Nota de cata": "Escaso sabor. Gusto alcoholico. Entra bien en sangre.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2025-01-21"
+}, {
+  "ID": "299",
+  "Cerveza": "Bali Hai Premium",
+  "Nota de cata": "Suave sin persistencia. Cerveza para sensibles.",
+  "Sabor": "Aceptable",
+  "Puntos": "5",
+  "Fecha": "2025-01-22"
+}, {
+  "ID": "300",
+  "Cerveza": "Madrid One IPA",
+  "Nota de cata": "IPA espumosa. Sabe a campo.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2024-12-18"
+}, {
+  "ID": "301",
+  "Cerveza": "The One Tostada No Limit",
+  "Nota de cata": "Da juego.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2025-01-09"
+}, {
+  "ID": "302",
+  "Cerveza": "Nortada Märzen",
+  "Nota de cata": "Rubia de medio cuerpo sin amargor.",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": "2025-02-23"
+}, {
+  "ID": "303",
+  "Cerveza": "Salitos Mojito",
+  "Nota de cata": "Mejor de lo esperado. Menta agradable.",
+  "Sabor": "Aceptable",
+  "Puntos": "6",
+  "Fecha": "2025-03-08"
+}, {
+  "ID": "304",
+  "Cerveza": "Salitos Blue",
+  "Nota de cata": "Chupachups de pitufos.",
+  "Sabor": "Malo",
+  "Puntos": "0",
+  "Fecha": "2025-03-16"
+}, {
+  "ID": "305",
+  "Cerveza": "Salitos Pink",
+  "Nota de cata": "Piruleta mala mala. Tremendo mierdón.",
+  "Sabor": "Malo",
+  "Puntos": "0",
+  "Fecha": "2025-03-17"
+}, {
+  "ID": "306",
+  "Cerveza": "Mahou Reserva",
+  "Nota de cata": "Rica.",
+  "Sabor": "Bueno",
+  "Puntos": "8",
+  "Fecha": "2025-03-27"
+}, {
+  "ID": "307",
+  "Cerveza": "Waterloo Double Brune",
+  "Nota de cata": "Tostada pura.",
+  "Sabor": "Bueno",
+  "Puntos": "8",
+  "Fecha": "2025-04-26"
+}, {
+  "ID": "308",
+  "Cerveza": "Brunehaut Blonde",
+  "Nota de cata": "Trigo rico y espumoso.",
+  "Sabor": "Bueno",
+  "Puntos": "7",
+  "Fecha": "2025-05-05"
+}, {
+  "ID": "309",
+  "Cerveza": "La Chouffe Sin Alcohol",
+  "Nota de cata": "Le falta algo.",
+  "Sabor": "Regular",
+  "Puntos": "3",
+  "Fecha": "2025-09-23"
 }]

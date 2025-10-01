@@ -1,4 +1,9 @@
 -- [[0. CREAR  Y USAR BASE DE DATOS]]
+-- Eliminar la base de datos si existe
+DROP DATABASE IF EXISTS BeerCap
+GO
+
+-- Crear base de datos
 
 CREATE DATABASE BeerCap
 GO
@@ -98,20 +103,20 @@ GO
 -- 2.1 DECLARAR VARIABLES
 
 DECLARE @directorio nvarchar(255)
-SET @directorio = N'D:\\BeerCap_dev\\data\\'
+SET @directorio = N'E:\\BeerCap\\data\\'
 
 DECLARE @archivo nvarchar(255)
-DECLARE @rutacompleta nvarchar(255)
+DECLARE @registros nvarchar(255)
 DECLARE @sql nvarchar(max)
 
 -- 2.2 DATOS TABLA FABRICANTES_CHAPA
 -- Construir consulta dinámica (Bulk insert no permite utilizar directamente una variable en FROM)
 
 SET @archivo = N'fabricantes.csv'
-SET @rutacompleta = @directorio + @archivo
+SET @registros = @directorio + @archivo
 
 SET @sql = N'BULK INSERT Fabricantes_Chapa
-FROM ''' + @rutacompleta + N'''
+FROM ''' + @registros + N'''
 WITH (
     FORMAT = ''CSV'',
     FIELDTERMINATOR = '';'',
@@ -129,10 +134,10 @@ EXEC sp_executesql @sql
 -- Construir consulta dinámica (Bulk insert no permite utilizar directamente una variable en FROM)
 
 SET @archivo = N'productores.csv'
-SET @rutacompleta = @directorio + @archivo
+SET @registros = @directorio + @archivo
 
 SET @sql = N'BULK INSERT Productores_Cerveza
-FROM ''' + @rutacompleta + N'''
+FROM ''' + @registros + N'''
 WITH (
     FORMAT = ''CSV'',
     FIELDTERMINATOR = '';'',
@@ -150,10 +155,10 @@ EXEC sp_executesql @sql
 -- Construir consulta dinámica (Bulk insert no permite utilizar directamente una variable en FROM)
 
 SET @archivo = N'cervezas.csv'
-SET @rutacompleta = @directorio + @archivo
+SET @registros = @directorio + @archivo
 
 SET @sql = N'BULK INSERT Cervezas
-FROM ''' + @rutacompleta + N'''
+FROM ''' + @registros + N'''
 WITH (
     FORMAT = ''CSV'',
     FIELDTERMINATOR = '';'',
@@ -172,10 +177,10 @@ EXEC sp_executesql @sql
 -- Construir consulta dinámica (Bulk insert no permite utilizar directamente una variable en FROM)
 
 SET @archivo = N'chapas.csv'
-SET @rutacompleta = @directorio + @archivo
+SET @registros = @directorio + @archivo
 
 SET @sql = N'BULK INSERT Chapas
-FROM ''' + @rutacompleta + N'''
+FROM ''' + @registros + N'''
 WITH (
     FORMAT = ''CSV'',
     FIELDTERMINATOR = '';'',
@@ -193,10 +198,10 @@ EXEC sp_executesql @sql
 -- Construir consulta dinámica (Bulk insert no permite utilizar directamente una variable en FROM)
 
 SET @archivo = N'catas.csv'
-SET @rutacompleta = @directorio + @archivo
+SET @registros = @directorio + @archivo
 
 SET @sql = N'BULK INSERT Catas
-FROM ''' + @rutacompleta + N'''
+FROM ''' + @registros + N'''
 WITH (
     FORMAT = ''CSV'',
     FIELDTERMINATOR = '';'',

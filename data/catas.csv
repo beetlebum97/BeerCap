@@ -114,12 +114,12 @@ ID;CERVEZA;NOTA DE CATA;SABOR;PUNTOS;FECHA
 113;Alhambra Especial;Rubia rica dentro de un estándar.;Aceptable;6;2020-10-01
 114;Grimbergen Belgian Pale Ale;Espuma nata, toque cítrico. Entra bien, huele bien.;Bueno;7;2023-02-10
 115;The Brale;Normalita. Amarga con una pizca de naranja.;Regular;4;2020-11-01
-116;San Miguel Magna;Rubia con algo más de cuerpo de lo normal.;Aceptable;5;2020-11-01
+116;San Miguel Magna;Se toma bien aunque sin pegada.;Bueno;7;2024-11-08
 117;Desperados Ginger;Se bebe muy rápido pero apenas deja regusto. Quizá un toque amargo especial.;Regular;3;2020-11-01
 118;Especialidades 1897 Trigo;Me gusta, de trigo con cuerpo fuerte aunque olor no muy allá.;Aceptable;6;2020-11-01
 119;Camaro;Agua de Lidl con aditivos.;Malo;0;2020-12-01
 120;Ambar Export;Tres maltas que parecen una.;Regular;3;2023-06-17
-121;La Sagra Calabaza y Canela;Roja suave. Apenás hay espuma. ¿Mal tirada? Flojilla para ser roja. Poca ánima.;Regular;3;2020-12-01
+121;La Sagra Calabaza;Sin espuma ni sabor. Solo un toque a especie o fruta.;Regular;3;2024-11-14
 122;Carlsberg;Cerveza de verano. Un poco de chispa.;Aceptable;5;2020-12-01
 123;Alhambra Reserva Esencia Citra IPA;Una rubia reforzada con regusto a limón. No está mal. Saciante.;Bueno;7;2020-12-01
 124;Blanche De Charleroi;De trigo con cuerpo y espuma copa danone, asienta en el estomago pero no es agua. Bastante bien.;Bueno;8;2020-12-31
@@ -184,7 +184,7 @@ ID;CERVEZA;NOTA DE CATA;SABOR;PUNTOS;FECHA
 183;Super Bock Abadia;0 sabor.;Malo;1;2021-09-01
 184;1906 Galician Irish Red Ale;Llena, sabe y refresca. Bastante bien.;Bueno;7;2021-09-01
 185;Chouffe Blanche;Trigo consistente. No se esfuma.;Bueno;7;2021-10-01
-186;Duvel 6.66%;Rica pero demasiado suave, tonos cítricos, espuma de ducha.;Aceptable;6;2021-10-01
+186;Duvel 6.66%;Bien balanceada. Ni empalaga ni es floja. ;Bueno;8;2025-02-01
 187;Kwak;Ola del Dharma.;Excelente;9;2024-08-17
 188;Gulden Draak Classic;Roja fuerte ¿record 10,5%? Espumosa e interesante. Alcohol secundario.;Excelente;10;2021-11-01
 189;Estrella Damm;Ok, floja pero rica.;Aceptable;6;2021-11-01
@@ -197,7 +197,7 @@ ID;CERVEZA;NOTA DE CATA;SABOR;PUNTOS;FECHA
 196;Brugse Zot Blond;Rica pero plana.;Regular;4;2022-03-01
 197;Super Bock Stout;Morena mediocre.;Regular;3;2022-03-01
 198;18/70 La Rubia;Psé.;Regular;3;2022-03-01
-199;Schöfferhofer Grapefruit Hefeweizen;Fanta de naranja.;Regular;3;2022-04-01
+199;Schöfferhofer Grapefruit Hefeweizen;Fanta de pomelo, pero me gusta su acidez.;Bueno;7;2025-02-23
 200;Chula IPA;IPA espesa, me gusta.;Bueno;7;2022-04-01
 201;Karlsbräu Helles;Trigo rico. Para beber en grandes cantidades.;Bueno;7;2022-04-01
 202;Karlsbräu Kellerbier;Ok.;Aceptable;6;2022-04-01
@@ -246,14 +246,14 @@ ID;CERVEZA;NOTA DE CATA;SABOR;PUNTOS;FECHA
 245;IPA4;Fresco amargor.;Bueno;7;2023-08-27
 246;Perkins Cerveza Rubia;Tiene ánima. Hincha la barriga. Sabor neutro.;Bueno;7;2023-09-02
 247;Desperados Red;Refresco.;Regular;4;2023-09-07
-248;Cherry Chouffe;Gominola con cuerpo de cerveza. Bien de espuma y gas. Azucarada.;Bueno;7;2023-09-21
+248;Cherry Chouffe;Lambrusco amargo.;Bueno;7;2025-09-27
 249;Ramblers Weissbier;Trigo bien llevado (casi siempre lo es). Trigo normalito.;Aceptable;5;2023-09-28
 250;Ruddles Best;English bitter, sí…amarga.;Regular;4;2023-09-30
 251;Obolon Svitle;Falta potencia. Escaso sabor.;Malo;2;2023-10-05
 252;Petrus Blond;Entra bien, rápido. Espuma rica. Regular persistencia. Azúcar.;Aceptable;6;2023-10-17
 253;Gulden Draak 9000 Quadruple;Locura de espuma viva. Espesa.;Bueno;8;2023-10-21
 254;Schnitzer Bräu German Hirse Premium;Sabe envejecida, diferente, fresca, aromática…aunque lleva cosas raras.;Bueno;8;2023-10-22
-255;Piraat;Calidad. Espuma viva.;Excelente;9;2024-02-18
+255;Piraat;Quita el 10,5%. Quita Bélgica. Quita gourment. Quita parafernalia...Entonces solo aromas de algo grande;Aceptable;6;2024-11-24
 256;Er Boquerón;No me llama la atención.;Aceptable;5;2023-11-10
 257;San Miguel Gluten Free;Correcta.;Bueno;7;2023-11-01
 258;Grevensteiner Naturtrübes Helles;Muy decepcionante. ¿Mala elección copa? Nada destacable.;Malo;2;2023-11-18
@@ -294,3 +294,17 @@ ID;CERVEZA;NOTA DE CATA;SABOR;PUNTOS;FECHA
 293;Ambar 1900 Sin Filtrar;Lager con cuerpo. Le falta un poco de persistencia.;Bueno;7;2024-08-09
 294;Bitburger Premium Pils;Amarga, dura, seca y fría.;Aceptable;6;2024-08-14
 295;Perlenbacher Premium Pils;Apañada. Calidad-precio.;Bueno;7;2024-09-04
+296;Piraat Triple Hop;Caramelo decente.;Bueno;7;2024-09-05
+297;Ambar Sin Gluten;Ok.;Aceptable;5;2025-01-19
+298;N'Ice Chouffe;Escaso sabor. Gusto alcoholico. Entra bien en sangre.;Bueno;7;2025-01-21
+299;Bali Hai Premium;Suave sin persistencia. Cerveza para sensibles.;Aceptable;5;2025-01-22
+300;Madrid One IPA;IPA espumosa. Sabe a campo.;Bueno;7;2024-12-18
+301;The One Tostada No Limit;Da juego.;Bueno;7;2025-01-09
+302;Nortada Märzen;Rubia de medio cuerpo sin amargor.;Aceptable;6;2025-02-23
+303;Salitos Mojito;Mejor de lo esperado. Menta agradable.;Aceptable;6;2025-03-08
+304;Salitos Blue;Chupachups de pitufos.;Malo;0;2025-03-16
+305;Salitos Pink;Piruleta mala mala. Tremendo mierdón.;Malo;0;2025-03-17
+306;Mahou Reserva;Rica.;Bueno;8;2025-03-27
+307;Waterloo Double Brune;Tostada pura.;Bueno;8;2025-04-26
+308;Brunehaut Blonde;Trigo rico y espumoso.;Bueno;7;2025-05-05
+309;La Chouffe Sin Alcohol;Le falta algo.;Regular;3;2025-09-23

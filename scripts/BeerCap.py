@@ -4,7 +4,7 @@ import pyodbc
 
 # VARIABLES
 data_mysql = '/var/lib/mysql-files/'
-data_sql_server = 'D:\\BeerCap_dev\\data\\'
+data_sql_server = 'E:\\BeerCap\\data\\'
 fabricantes = 'fabricantes.csv'
 productores = 'productores.csv'
 cervezas = 'cervezas.csv'
@@ -252,9 +252,9 @@ def conectar_a_base_de_datos(motor,servidor,usuario,contraseña):
             ) """
         cursor.execute(CREAR_PRODUCTORES)
         
-        INSERTAR_PRODUCTORES = """
+        INSERTAR_PRODUCTORES = f"""
             BULK INSERT Productores_Cerveza
-            FROM 'D:\\BeerCap_dev\\data\\productores.csv'
+            FROM '{data_sql_server}{productores}'
             WITH (
             FORMAT = 'CSV',
             FIELDTERMINATOR = ';',
@@ -283,9 +283,9 @@ def conectar_a_base_de_datos(motor,servidor,usuario,contraseña):
             ) """
         cursor.execute(CREAR_CERVEZAS)
         
-        INSERTAR_CERVEZAS = """
+        INSERTAR_CERVEZAS = f"""
             BULK INSERT Cervezas
-            FROM 'D:\\BeerCap_dev\\data\\cervezas.csv' 
+            FROM '{data_sql_server}{cervezas}' 
             WITH (
             FORMAT = 'CSV',
             FIELDTERMINATOR = ';',
@@ -316,9 +316,9 @@ def conectar_a_base_de_datos(motor,servidor,usuario,contraseña):
             ) """
         cursor.execute(CREAR_CHAPAS)
         
-        INSERTAR_CHAPAS = """
+        INSERTAR_CHAPAS = f"""
             BULK INSERT Chapas
-            FROM 'D:\\BeerCap_dev\\data\\chapas.csv'
+            FROM '{data_sql_server}{chapas}'
             WITH (
             FORMAT = 'CSV',
             FIELDTERMINATOR = ';',
@@ -342,9 +342,9 @@ def conectar_a_base_de_datos(motor,servidor,usuario,contraseña):
             ) """
         cursor.execute(CREAR_CATAS)
         
-        INSERTAR_CATAS = """
+        INSERTAR_CATAS = f"""
             BULK INSERT Catas
-            FROM 'D:\\BeerCap_dev\\data\\catas.csv'
+            FROM '{data_sql_server}{catas}'
             WITH (
             FORMAT = 'CSV',
             FIELDTERMINATOR = ';',

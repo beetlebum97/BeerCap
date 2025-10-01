@@ -56,7 +56,7 @@ ID;CERVEZA;AÑO;COLOR;FABRICANTE;OBTURADOR;INSCRIPCIÓN;ESTADO;REPETIDA;FORMATO;
 55;Miller Genuine Draft;2019;Negro;cp;22;26;Bueno;NO;33cl;;55_Miller_Genuine_Draft_2019.jpg
 56;Cubanisto;2019;Negro;HB;70;51188618 17;Bueno;NO;33cl;;56_Cubanisto_2019.jpg
 57;Sol;2019;Oro;HB;20;2;Perfecto;NO;33cl;;57_Sol_2019.jpg
-58;DAB Export;2019;Verde;RRK;17;901 14/19;Bueno;NO;33cl;;58_DAB_2019.jpg
+58;DAB Export;2019;Verde;RRK;17;901.7368421052631;Bueno;NO;33cl;;58_DAB_2019.jpg
 59;Mahou Barrica 12 Meses;2019;Negro;U;03;R-6509 BO 1 12;Bueno;NO;33cl;;59_Mahou_Barrica_12_Meses_2019.jpg
 60;Guinness Original Extra Stout;2019;Rojo;dap;13;VAK18225 3105459513 27;Bueno;NO;33cl;;60_Guinness_Original_Extra_Stout_2019.jpg
 61;Chimay Rouge;2019;Rojo;cp;;;Bueno;NO;33cl;;61_Chimay_Roja_2019.jpg
@@ -137,7 +137,7 @@ ID;CERVEZA;AÑO;COLOR;FABRICANTE;OBTURADOR;INSCRIPCIÓN;ESTADO;REPETIDA;FORMATO;
 136;Grimbergen Blonde;2020;Oro;cp;17;317568 6;Bueno;SI;33cl;;136_Grimbergen_Blonde_2020.jpg
 137;Camaro;2020;Azul;dap;02;21;Bueno;NO;33cl;;137_Camaro_Lidl_2020.jpg
 138;Ambar Export;2020;Azul;U;13;10;Bueno;NO;33cl;;138_Ambar_Export_2020.jpg
-139;La Sagra Calabaza y Canela;2020;Negro;cp;MK 18;9;Perfecto;NO;33cl;;139_La_Sagra_Calabaza-Canela_Pumpkin_Ale_2020.jpg
+139;La Sagra Calabaza;2020;Negro;cp;MK 18;9;Perfecto;NO;33cl;;139_La_Sagra_Calabaza_2020.jpg
 140;Carlsberg;2020;Verde;cp;20;19;Perfecto;SI;33cl;;140_Carlsberg_2020.jpg
 141;Alhambra Reserva Esencia Citra IPA;2020;Amarillo;U;13;R9121 BO 27;Bueno;NO;33cl;;141_Alhambra_Reserva_Esencia_IPA_2020.jpg
 142;Blanche De Charleroi;2020;Azul;U;12;16;Perfecto;NO;33cl;;142_Blanche_De_Charleroi_2020.jpg
@@ -371,3 +371,32 @@ ID;CERVEZA;AÑO;COLOR;FABRICANTE;OBTURADOR;INSCRIPCIÓN;ESTADO;REPETIDA;FORMATO;
 370;Kwak;2024;Marrón;HB;48;51376909 16;Bueno;NO;33cl;;370_Kwak_Ambrée_2024.jpg
 371;Cruzcampo Gran Reserva;2024;Negro;dap;0;05.36.25.757 13 22;Perfecto;NO;33cl;;371_Cruzcampo_Gran_Reserva_2024.jpg
 372;Perlenbacher Premium Pils;2024;Oro;dap;6;3;Bueno;SI;50cl;;372_Perlenbacher Premium Pils_2024.jpg
+373;San Miguel Magna;2024;Verde;U;5;R12145 BO 2 4;Bueno;SI;33cl;;373_San_Miguel_Magna_2024.jpg
+374;La Sagra Calabaza;2024;Negro;dap;17;5 23;Bueno;SI;33cl;;374_La_Sagra_Calabaza_2024.jpg
+375;Piraat Triple Hop;2024;Blanco;HB;41;11;Bueno;NO;33cl;;375_Piraat_Triple_Hop_2024.jpg
+376;Ambar Sin Gluten;2025;Rojo;Unibox;B32;;Bueno;NO;33cl;;376_Ambar_Sin_Gluten_2025.jpg
+377;N'Ice Chouffe;2025;Azul;dap;22;10;Perfecto;NO;33cl;;377_N'Ice_Chouffe_2025.jpg
+378;Bali Hai Premium;2025;Blanco;Sin fabricante;4;;Bueno;NO;33cl;;378_Bali_Hai_Premium_2025.jpg
+379;Madrid One IPA;2024;Verde;Sin fabricante;B02;;Bueno;SI;33cl;;379_The_One_Madrid_One_IPA_2024.jpg
+380;The One Tostada No Limit;2025;Rojo;astir;B06;;Bueno;NO;33cl;;380_The_One_Tostada_No_Limit_2025.jpg
+381;Nortada Märzen;2025;Blanco;cp;35;4;Perfecto;NO;33cl;;381_Nortada_Märzen_2025.jpg
+382;Duvel 6.66%;2025;Amarillo;dap;25;26 16;Perfecto;NO;33cl;;382_Duvel_666_2025.jpg
+383;Salitos Mojito;2025;Verde;RRK;13;14 07 26/24;Bueno;NO;33cl;;383_Salitos_Mojito_2025.jpg
+384;Schöfferhofer Grapefruit Hefeweizen;2025;Cobre;RRK;3;14 11 26/24;Bueno;SI;33cl;;384_Schöfferhofer_Grapefruit_2025.jpg
+385;Salitos Blue;2025;Azul;RRK;24;3 13 26/24;Perfecto;NO;33cl;;385_Salitos_Blue_2025.jpg
+386;Salitos Pink;2025;Rosa;dap;11;22 3;Perfecto;NO;33cl;;386_Salitos_Pink_2025.jpg
+387;Desperados Lima;2025;Verde;dap;1;05.36.25.771 23 2;Bueno;NO;33cl;;387_Desperados_Lima_2025.jpg
+388;Desperados Mojito;2025;Verde;dap;12;05.36.25.770 6 12;Perfecto;NO;33cl;;388_Desperados_Mojito_2025.jpg
+389;Mahou Reserva;2025;Oro;U;27;R13010 BO 1 15;Bueno;SI;33cl;;389_Mahou_Reserva_2025.jpg
+390;Waterloo Double Brune;2025;Marrón;HB;23;17;Bueno;SI;33cl;;390_Waterloo_Double_Brune_2025.jpg
+391;Waterloo Triple Blonde;2025;Rojo;HB;44;;Bueno;SI;33cl;;391_Waterloo_Triple_Blonde_2025.jpg
+392;San Miguel Especial;1999;Multicolor;TCI;;;Perfecto;NO;25cl;;392_San_Miguel_Especial_1999.jpg
+393;Brunehaut Blonde;2025;Verde;DKF;37-19;4 12;Perfecto;NO;33cl;;393_Brunehaut_Blonde_2025.jpg
+394;Brutus The Beer;2025;Negro;U;0;R11578 BO 1 25;Bueno;NO;33cl;;394_Brutus_2025.jpg
+395;Quilmes Clásica;2025;Plata;C;L3 88;27 4;Perfecto;NO;33cl;;395_Quilmes_Clásica_2025.jpg
+396;Asahi Super Dry;2025;Plata;dap;36;9 10;Bueno;NO;33cl;;396_Asahi_Super_Dry_2025.jpg
+397;Chouffe IPA;2025;Amarillo;dap;8;25 24;Perfecto;NO;33cl;;397_Chouffe_IPA_2025.jpg
+398;La Chouffe Sin Alcohol;2025;Azul;dap;16;16 23;Perfecto;NO;33cl;;398_La Chouffe_Sin_Alcohol_2025.jpg
+399;La Chouffe Sin Alcohol;2024;Azul;dap;18;5 26;Perfecto;NO;33cl;;399_La Chouffe_Sin_Alcohol_2024.jpg
+400;Cherry Chouffe;2025;Rojo;dap;16;21 10;Perfecto;NO;33cl;;400_Cherry_Chouffe_2025.jpg
+401;Lagunitas IPA;2025;Blanco;cp;;40038123;Perfecto;SI;33cl;;401_Lagunitas_IPA_2025.jpg

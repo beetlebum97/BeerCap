@@ -1474,4 +1474,31 @@
   "Fundación": "1817",
   "URL": "www.bitburger.com",
   "Empresa matriz": null
+}, {
+  "ID": "165",
+  "Nombre": "Bali Hai",
+  "País": "Indonesia",
+  "Región": "Java",
+  "Ciudad": "Bekasia",
+  "Fundación": "1975",
+  "URL": "balihaibeer.com",
+  "Empresa matriz": null
+}, {
+  "ID": "166",
+  "Nombre": "Fábrica de Cervejas Portuense",
+  "País": "Portugal",
+  "Región": "Distrito de Oporto",
+  "Ciudad": "Oporto",
+  "Fundación": "2013",
+  "URL": null,
+  "Empresa matriz": "Hijos de Rivera, S.A."
+}, {
+  "ID": "167",
+  "Nombre": "Brasserie Brunehaut",
+  "País": "Bélgica",
+  "Región": "Valonia",
+  "Ciudad": "Brunehaut",
+  "Fundación": "1890",
+  "URL": "brunehaut.com",
+  "Empresa matriz": null
 }]

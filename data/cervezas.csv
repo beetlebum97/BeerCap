@@ -130,7 +130,7 @@ ID;NOMBRE;TIPO;ESTILO;GRADO;IBU;LANZAMIENTO;ESTADO;PAÍS;URL;PRODUCTOR
 129;Especialidades 1897 Trigo;Wheat Beer;Hefeweizen;5.30;;;Activa;España;;Mercadona
 130;Camaro;Pale Lager;American Adjunt Lager;4.60;18;;Activa;Lituania;;Lidl
 131;Ambar Export;Pale Lager;European Strong Lager;7.40;;1980;Activa;España;;Cervezas Ambar
-132;La Sagra Calabaza y Canela;Specialty Beer;Pumpkin Beer;5.20;11;2014;Retirada;España;;La Sagra
+132;La Sagra Calabaza;Specialty Beer;Pumpkin Beer;5.20;11;2015;Activa;España;;La Sagra
 133;Carlsberg;Pale Lager;European Pale Lager;5.00;8;1847;Activa;Dinamarca;;Carlsberg Group
 134;Alhambra Reserva Esencia Citra IPA;Indian Pale Ale;American IPA;6.50;35;2008;Activa;España;;Cervezas Alhambra
 135;Blanche De Charleroi;Wheat Beer;Witbier;5.00;;;Activa;Bélgica;;Brasserie Val De Sambre
@@ -268,7 +268,7 @@ ID;NOMBRE;TIPO;ESTILO;GRADO;IBU;LANZAMIENTO;ESTADO;PAÍS;URL;PRODUCTOR
 267;Perkins Cerveza Rubia;Pale Lager;European Pale Lager;5.50;;2021;Activa;España;;Perkins
 268;Desperados Red;Specialty Beer;Fruit and Field Beer ;5.90;;2014;Activa;Francia;www.desperados.com;Brasserie Fischer
 269;Mahou Cinco Estrellas Sin Gluten;Pale Lager;European Pale Lager;5.50;;2016;Activa;España;;Mahou
-270;Cherry Chouffe;Specialty Beer;Fruit and Field Beer ;8.00;10;;Activa;Bélgica;;Brasserie d'Achouffe
+270;Cherry Chouffe;Specialty Beer;Fruit and Field Beer ;8.00;10;2018;Activa;Bélgica;;Brasserie d'Achouffe
 271;Ramblers Weissbier;Wheat Beer;Hefeweizen;5.00;13;;Activa;España;www.dia.es;Brasserie Champigneulles
 272;Ruddles Best;Pale Ale;English Bitter;3.70;;;Activa;Inglaterra;;Greene King
 273;Obolon Svitle;Pale Lager;European Pale Lager;4.50;;;Activa;Ucrania;;Obolon
@@ -292,7 +292,7 @@ ID;NOMBRE;TIPO;ESTILO;GRADO;IBU;LANZAMIENTO;ESTADO;PAÍS;URL;PRODUCTOR
 291;iKi Yuzu;Specialty Beer;Herb and Spice Beer;4.20;12;2005;Activa;Países Bajos;;iKi Beer
 292;Jever Pilsener;Pale Lager;German Pilsner;4.90;40;1934;Activa;Alemania;;Jever
 293;Gordon Finest Gold;Pale Lager;European Strong Lager;10.00;;1992;Activa;Bélgica;;Timmermans
-294;Chouffe Lite;Pale Ale;Belgian Pale Ale;4.00;16;;Activa;Bélgica;;Brasserie d'Achouffe
+294;Chouffe Lite;Pale Ale;Belgian Pale Ale;4.00;16;2024;Activa;Bélgica;;Brasserie d'Achouffe
 295;Chimay Triple;Strong Ale;Tripel;8.00;38;1966;Activa;Bélgica;www.chimay.com;Abbaye de Scourmont
 296;Westmalle Tripel;Strong Ale;Tripel;9.50;38;1934;Activa;Bélgica;;Brouwerij Westmalle
 297;Orval;Pale Ale;Belgian Pale Ale;6.20;36;1932;Activa;Bélgica;;Brasserie d'Orval
@@ -324,3 +324,19 @@ ID;NOMBRE;TIPO;ESTILO;GRADO;IBU;LANZAMIENTO;ESTADO;PAÍS;URL;PRODUCTOR
 323;Kirin Free;Specialty Beer;Low-Alcohol Beer;0.00;;2009;Activa;Japón;;Kirin Brewery Company
 324;Bitburger Premium Pils;Pale Lager;German Pilsner;4.80;23;1971;Activa;Alemania;;Bitburger
 325;Perlenbacher Premium Pils;Pale Lager;German Pilsner;4.90;15;;Activa;Alemania;;Lidl
+326;Piraat Triple Hop;Strong Ale;Belgian Pale Strong Ale;10.50;35;2012;Activa;Bélgica;;Brouwerij Van Steenberge
+327;Ambar Sin Gluten;Pale Lager;European Pale Lager;5.20;23;2008;Activa;España;;Cervezas Ambar
+328;N'Ice Chouffe;Strong Ale;Belgian Dark Strong Ale;10.00;25;1993;Activa;Bélgica;;Brasserie d'Achouffe
+329;Bali Hai Premium;Pale Lager;American Adjunt Lager;5.00;16;1993;Activa;Indonesia;;Bali Hai
+330;Madrid One IPA;Indian Pale Ale;English IPA;5.00;42;;Activa;España;;The One Beer
+331;The One Tostada No Limit;Dark Ale;Scottish Ale;5.00;12;;Activa;España;;The One Beer
+332;Nortada Märzen;Dark Lager;Märzen;5.80;20;2017;Activa;Portugal;www.cervejanortada.pt;Fábrica de Cervejas Portuense
+333;Salitos Mojito;Specialty Beer;Herb and Spice Beer;5.00;;2024;Activa;Alemania;www.salitos.com;Krombacher
+334;Salitos Blue;Specialty Beer;Fruit and Field Beer;5.00;;2024;Activa;Alemania;www.salitos.com;Krombacher
+335;Salitos Pink;Specialty Beer;Fruit and Field Beer;5.00;;2024;Activa;Alemania;www.salitos.com;Krombacher
+336;Mahou Reserva;Dark Lager;American Amber / Red Lager;6.30;;2024;Activa;España;;Mahou
+337;Waterloo Double Brune;Dark Lager;Dubbel;8.00;40;2005;Activa;Bélgica;waterloo-beer.com;Ferme Mont-Saint-Jean
+338;San Miguel Especial;Pale Lager;European Pale Lager;5.40;28;1957;Activa;España;;San Miguel
+339;Brunehaut Blonde;Pale Ale;Belgian Blonde Ale;6.50;19;;Activa;Bélgica;;Brasserie Brunehaut
+340;Chouffe IPA;Indian Pale Ale;Belgian IPA;9.00;47;2006;Activa;Bélgica;;Brasserie d'Achouffe
+341;La Chouffe Sin Alcohol;Specialty Beer;Low-Alcohol Beer;0.40;23;2023;Activa;Bélgica;;Brasserie d'Achouffe
