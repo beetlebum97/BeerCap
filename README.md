@@ -44,7 +44,7 @@ El repositorio contiene los scripts y archivos necesarios para generar la base d
 
 ### 🐬 MySQL Implementation
 <a href="https://youtu.be/PDrWpcEuUnI" target="_blank">
-  <img src="https://raw.githubusercontent.com/beetlebum97/BeerCap/main/imagenes/screenshots/2.MySQL.png" 
+  <img src="https://raw.githubusercontent.com/beetlebum97/BeerCap/main/screenshots/2.MySQL.png" 
        alt="BeerCap - Implementación MySQL" 
        width="500" style="border-radius: 8px; border: 1px solid #ddd;">
 </a>
@@ -56,7 +56,7 @@ El repositorio contiene los scripts y archivos necesarios para generar la base d
 
 ### ☁️ BigQuery Implementation
 <a href="https://youtu.be/Fd83Lj4Tdi0" target="_blank">
-  <img src="https://raw.githubusercontent.com/beetlebum97/BeerCap/main/imagenes/screenshots/3.BigQuery.png" 
+  <img src="https://raw.githubusercontent.com/beetlebum97/BeerCap/main/screenshots/3.BigQuery.png" 
        alt="BeerCap - Implementación BigQuery" 
        width="500" style="border-radius: 8px; border: 1px solid #ddd;">
 </a>
@@ -235,7 +235,7 @@ Cargar script sql y lanzar.
 ## 4. BACKUP
 Se incluye el backup de cada BBDD. Indico como generarlo o restaurar
 
-* sql-server_BeerCap.BAK
+* BeerCap.BAK
 * mysql_BeerCap_backup.sql
 
 ### 4.1 SQL SERVER
